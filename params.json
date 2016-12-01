@@ -1,0 +1,6 @@
+{
+  "name": "Bookmarks",
+  "tagline": "Common bookmarks and useful links",
+  "body": "# bookmarks\r\nCommon bookmarks and useful links\r\n\r\n## Python\r\n### CLI\r\n- [Multi-level argparse in Python (parsing commands like git)](http://chase-seibert.github.io/blog/2014/03/21/python-multilevel-argparse.html)\r\n- [Clic - command line parser](http://click.pocoo.org/5/)\r\n\r\n### Coding Guide\r\n- [EAFP vs LBYL](http://stackoverflow.com/questions/1835756/using-try-vs-if-in-python)\r\n",
+  "note": "Don't delete this file! It's used internally to help with page regeneration."
+}
