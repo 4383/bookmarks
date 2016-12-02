@@ -1,29 +1,6 @@
 # bookmarks
 Common bookmarks and useful links
 
-## Python
-- [Docker django](http://michal.karzynski.pl/blog/2015/04/19/packaging-django-applications-as-docker-container-images/)
-- [Python compile](http://sametmax.com/peut-on-compiler-un-programme-python/)
-- [Python subcommand like git](http://chase-seibert.github.io/blog/2014/03/21/python-multilevel-argparse.html)
-- [Python packaging](https://www.yaal.fr/blog/publier-sur-pypipythonorg)
-- [Interesting python blog ](http://krzysztofzuraw.com/)
-- [Asynkrone background task](https://techarena51.com/index.php/running-asynchronous-background-tasks-linux-python-3-flask-celery/?utm_source=linuxtoday)
-- [Local python package installer (pip install -e .)](https://packaging.python.org/en/latest/distributing/#uploading-your-project-to-pypi)
-- [Gulp taches automatisées](http://www.alsacreations.com/tuto/lire/1686-introduction-a-gulp.html)
-- [Project sample](https://github.com/pypa/sampleproject)
-- [Python private pyshop (pypi)](https://pypi.python.org/pypi/pyshop)
-- [Deploy on pypi](https://www.appneta.com/blog/pypi-deployment-with-travis-ci/)
-- [Fullstack](https://www.fullstackpython.com/table-of-contents.html)
-- [Python docker api](https://docker-py.readthedocs.io/en/latest/api/#attach)
-- [Multiprocessor python](http://stackoverflow.com/questions/5784389/using-100-of-all-cores-with-python-multiprocessing)
-- [Docker with python](http://blog.bordage.pro/avoid-docker-py/)
-- [Asynkrone background task](https://techarena51.com/index.php/running-asynchronous-background-tasks-linux-python-3-flask-celery/?utm_source=linuxtoday)
-- [Python Fullstack](http://fullstackpython.com)
-- [Multi-level argparse in Python (parsing commands like git)](http://chase-seibert.github.io/blog/2014/03/21/python-multilevel-argparse.html)
-- [Clic - command line parser](http://click.pocoo.org/5/)
-- [EAFP vs LBYL](http://stackoverflow.com/questions/1835756/using-try-vs-if-in-python)
-- [Docker with python](http://krzysztofzuraw.com/blog/2016/docker-py.html)
-
 ## Architecture
 - [Spotify technical blog](https://labs.spotify.com/page/3/)
 - [Haveged entropy](https://www.skyminds.net/serveur-dedie-produire-une-meilleure-reserve-dentropie-avec-haveged/)
@@ -175,6 +152,29 @@ Common bookmarks and useful links
 ## Openstack
 - [Network management](https://www.weave.works/)
 - [Openstack 1 server](http://docs.openstack.org/developer/devstack/guides/single-machine.html)
+
+## Python
+- [Docker django](http://michal.karzynski.pl/blog/2015/04/19/packaging-django-applications-as-docker-container-images/)
+- [Python compile](http://sametmax.com/peut-on-compiler-un-programme-python/)
+- [Python subcommand like git](http://chase-seibert.github.io/blog/2014/03/21/python-multilevel-argparse.html)
+- [Python packaging](https://www.yaal.fr/blog/publier-sur-pypipythonorg)
+- [Interesting python blog ](http://krzysztofzuraw.com/)
+- [Asynkrone background task](https://techarena51.com/index.php/running-asynchronous-background-tasks-linux-python-3-flask-celery/?utm_source=linuxtoday)
+- [Local python package installer (pip install -e .)](https://packaging.python.org/en/latest/distributing/#uploading-your-project-to-pypi)
+- [Gulp taches automatisées](http://www.alsacreations.com/tuto/lire/1686-introduction-a-gulp.html)
+- [Project sample](https://github.com/pypa/sampleproject)
+- [Python private pyshop (pypi)](https://pypi.python.org/pypi/pyshop)
+- [Deploy on pypi](https://www.appneta.com/blog/pypi-deployment-with-travis-ci/)
+- [Fullstack](https://www.fullstackpython.com/table-of-contents.html)
+- [Python docker api](https://docker-py.readthedocs.io/en/latest/api/#attach)
+- [Multiprocessor python](http://stackoverflow.com/questions/5784389/using-100-of-all-cores-with-python-multiprocessing)
+- [Docker with python](http://blog.bordage.pro/avoid-docker-py/)
+- [Asynkrone background task](https://techarena51.com/index.php/running-asynchronous-background-tasks-linux-python-3-flask-celery/?utm_source=linuxtoday)
+- [Python Fullstack](http://fullstackpython.com)
+- [Multi-level argparse in Python (parsing commands like git)](http://chase-seibert.github.io/blog/2014/03/21/python-multilevel-argparse.html)
+- [Clic - command line parser](http://click.pocoo.org/5/)
+- [EAFP vs LBYL](http://stackoverflow.com/questions/1835756/using-try-vs-if-in-python)
+- [Docker with python](http://krzysztofzuraw.com/blog/2016/docker-py.html)
 
 ## Regex
 - [Regex](http://korben.info/regex101-loutil-ultime-trouver-creer-tester-comprendre-regex.html?utm_source=feedburner&amp;utm_medium=feed&amp;utm_campaign=Feed%3A+KorbensBlog-UpgradeYourMind+(Korben&#39;s+Blog+-+Upgrade+Your+Mind))
