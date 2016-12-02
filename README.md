@@ -1,4 +1,4 @@
-# @4383 (Hervé Beraud) personal bookmarks and useful links
+# Hervé Beraud (4383) personal bookmarks and useful links
 My common bookmarks and useful links
 
 ## Architecture
