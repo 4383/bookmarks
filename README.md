@@ -1,5 +1,5 @@
-# bookmarks
-Common bookmarks and useful links
+# @4383 (Hervé Beraud) personal bookmarks and useful links
+My common bookmarks and useful links
 
 ## Architecture
 - [Spotify technical blog](https://labs.spotify.com/page/3/)
