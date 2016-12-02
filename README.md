@@ -87,6 +87,9 @@ Import your own from google bookmarks [with this script](https://gist.github.com
 ## Favicon
 - [Favicon generator](https://realfavicongenerator.net/)
 
+## Git
+- [Learn git branching](http://learngitbranching.js.org/)
+
 ## Github
 - [Gh-pages + domain](http://blog.smarchal.com/heberger-son-site-sur-github)
 
