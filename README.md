@@ -1,6 +1,7 @@
 # Hervé Beraud (4383) personal bookmarks and useful links
 My common bookmarks and useful links.
-Import your own from google bookmarks [with this script](https://gist.github.com/4383/1ccd5efe6d84d140da6c56689ac64a1e)
+
+Import your own from google bookmarks [with this script](https://gist.github.com/4383/1ccd5efe6d84d140da6c56689ac64a1e).
 
 ## Architecture
 - [Spotify technical blog](https://labs.spotify.com/page/3/)
