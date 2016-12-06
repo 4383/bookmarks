@@ -238,6 +238,7 @@ Import your own from google bookmarks [with this script](https://gist.github.com
 - [Html form online](https://getsimpleform.com/)
 - [How work browser with css and js](http://taligarsiel.com/Projects/howbrowserswork1.htm)
 - [Online payments](https://stripe.com/fr)
+- [Online payments](https://www.payplug.com/)
 - [Material design unofficial](http://materializecss.com/dialogs.html)
 - [Form online](https://formspree.io/)
 - [Multi auth with redis session storage](http://michal.karzynski.pl/blog/2013/07/14/using-redis-as-django-session-store-and-cache-backend/)
