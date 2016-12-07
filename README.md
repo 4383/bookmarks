@@ -26,6 +26,7 @@ Import your own from google bookmarks [with this script](https://gist.github.com
 
 ## Devops
 - [Devops tuto](http://trainingdevops.com/insights-and-tutorials)
+- [SecDevOps](http://www.cloud-experience.fr/securite-soluble-devops/)
 
 ## Divertissements
 - [Tee-shirts](https://www.riptapparel.com/collections/mens-t-shirts)
@@ -223,6 +224,7 @@ Import your own from google bookmarks [with this script](https://gist.github.com
 - [Clé gpg en ligne](https://keybase.io/)
 - [Exploit leak](https://github.com/nneonneo/eqgrp-free-file)
 - [OWASP Zap security scanner](https://www.owasp.org/index.php/OWASP_Zed_Attack_Proxy_Project)
+- [GPG Key](https://www.madboa.com/geek/gpg-quickstart/)
 
 ## Static
 - [Gulp taches automatisées](http://www.alsacreations.com/tuto/lire/1686-introduction-a-gulp.html)
