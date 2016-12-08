@@ -228,6 +228,7 @@ Import your own from google bookmarks [with this script](https://gist.github.com
 - [OWASP Zap security scanner](https://www.owasp.org/index.php/OWASP_Zed_Attack_Proxy_Project)
 - [GPG Key](https://www.madboa.com/geek/gpg-quickstart/)
 - [OWASP Zap CLI](https://github.com/Grunny/zap-cli)
+- [Hashes cracked](https://hashes.org/public.php)
 
 ## Static
 - [Gulp taches automatisées](http://www.alsacreations.com/tuto/lire/1686-introduction-a-gulp.html)
