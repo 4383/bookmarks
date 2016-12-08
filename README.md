@@ -84,7 +84,7 @@ Import your own from google bookmarks [with this script](https://gist.github.com
 - [Network utilities](https://github.com/4383/netshoot)
 
 ## Entreprise
-- [Ffom](http://www.endvawnow.org/fr/articles/1180-analyse-ffom-.html?next=1181)
+- [ffom](http://www.endvawnow.org/fr/articles/1180-analyse-ffom-.html?next=1181)
 - [Incubateur](https://www.yaal.fr/)
 
 ## Favicon
@@ -150,6 +150,7 @@ Import your own from google bookmarks [with this script](https://gist.github.com
 
 ## Nodejs
 - [Gulp taches automatisées](http://www.alsacreations.com/tuto/lire/1686-introduction-a-gulp.html)
+- [Hubot executing shell command](https://leanpub.com/automation-and-monitoring-with-hubot/read)
 
 ## Openbsd
 - [Generate package](http://ftp.tuwien.ac.at/.vhost/www.openbsd.org/xxx/fr/ports.html#Create)
