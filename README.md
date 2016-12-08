@@ -83,6 +83,9 @@ Import your own from google bookmarks [with this script](https://gist.github.com
 - [Docker registry gitlab 2](http://docs.gitlab.com/ce/container_registry/README.html)
 - [Network utilities](https://github.com/4383/netshoot)
 
+## Electronic
+- [Wifi jammer](http://www.instructables.com/id/Build-your-own-WIFI-jammer/)
+
 ## Entreprise
 - [ffom](http://www.endvawnow.org/fr/articles/1180-analyse-ffom-.html?next=1181)
 - [Incubateur](https://www.yaal.fr/)
@@ -229,6 +232,7 @@ Import your own from google bookmarks [with this script](https://gist.github.com
 - [GPG Key](https://www.madboa.com/geek/gpg-quickstart/)
 - [OWASP Zap CLI](https://github.com/Grunny/zap-cli)
 - [Hashes cracked](https://hashes.org/public.php)
+- [Roundcub exploit](https://blog.ripstech.com/2016/roundcube-command-execution-via-email/)
 
 ## Static
 - [Gulp taches automatisées](http://www.alsacreations.com/tuto/lire/1686-introduction-a-gulp.html)
