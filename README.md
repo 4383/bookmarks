@@ -95,6 +95,7 @@ Import your own from google bookmarks [with this script](https://gist.github.com
 
 ## Git
 - [Learn git branching](http://learngitbranching.js.org/)
+- [Git best practice](https://sethrobertson.github.io/GitBestPractices/)
 
 ## Github
 - [Gh-pages + domain](http://blog.smarchal.com/heberger-son-site-sur-github)
