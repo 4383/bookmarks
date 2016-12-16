@@ -167,6 +167,9 @@ Import your own from google bookmarks [with this script](https://gist.github.com
 - [Network management](https://www.weave.works/)
 - [Openstack 1 server](http://docs.openstack.org/developer/devstack/guides/single-machine.html)
 
+## Psychologie
+- [Haptiques senses](https://fr.wikipedia.org/wiki/Haptique)
+
 ## Python
 - [Docker django](http://michal.karzynski.pl/blog/2015/04/19/packaging-django-applications-as-docker-container-images/)
 - [Python compile](http://sametmax.com/peut-on-compiler-un-programme-python/)
