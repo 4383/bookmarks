@@ -193,6 +193,7 @@ Import your own from google bookmarks [with this script](https://gist.github.com
 - [EAFP vs LBYL](http://stackoverflow.com/questions/1835756/using-try-vs-if-in-python)
 - [Docker with python](http://krzysztofzuraw.com/blog/2016/docker-py.html)
 - [pook - mock http requests responses](https://github.com/h2non/pook)
+- [slackbot](https://github.com/lins05/slackbot)
 
 ## Regex
 - [Regex](http://korben.info/regex101-loutil-ultime-trouver-creer-tester-comprendre-regex.html?utm_source=feedburner&amp;utm_medium=feed&amp;utm_campaign=Feed%3A+KorbensBlog-UpgradeYourMind+(Korben&#39;s+Blog+-+Upgrade+Your+Mind))
