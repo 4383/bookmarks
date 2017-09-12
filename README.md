@@ -267,3 +267,6 @@ Import your own from google bookmarks [with this script](https://gist.github.com
 - [Form online](https://formspree.io/)
 - [Multi auth with redis session storage](http://michal.karzynski.pl/blog/2013/07/14/using-redis-as-django-session-store-and-cache-backend/)
 - [Gulp taches automatisées](http://www.alsacreations.com/tuto/lire/1686-introduction-a-gulp.html)
+
+## deals
+- [dealabs](https://www.dealabs.com)
