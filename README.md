@@ -139,6 +139,7 @@ Import your own from google bookmarks [with this script](https://gist.github.com
 - [Chroot debian](http://debootstrap/)
 - [Keylogger x11](http://blog.rom1v.com/2011/11/keylogger-sous-gnulinux-enregistrer-les-touches-tapees-au-clavier/)
 - [Htop explain](https://peteris.rocks/blog/htop/)
+- [grep commands](http://www.linuxnix.com/grep-command-regular-expressions-examples-iii/)
 
 ## Microservices
 - [Microservices reverse proxy](http://traefik.io/)
