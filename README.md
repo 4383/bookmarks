@@ -201,7 +201,8 @@ Import your own from google bookmarks [with this script](https://gist.github.com
 - [Docker with python](http://krzysztofzuraw.com/blog/2016/docker-py.html)
 - [pook - mock http requests responses](https://github.com/h2non/pook)
 - [slackbot](https://github.com/lins05/slackbot)
-- [writing ansible module how to](https://github.com/4383/bookmarks/edit/master/README.md)
+- [writing ansible module how to](https://linuxsimba.com/unit_testing_ansible_modules_part_1)
+- [writing ansible module test how to](https://linuxsimba.com/unit_testing_ansible_modules_part_2)
 - [writing ansible module how to 2](https://www.pluralsight.com/guides/python/writing-ansible-modules-complete-with-tests)
 - [python environment configuration](https://makina-corpus.com/blog/metier/2015/bien-configurer-son-environnement-de-developpement-python)
 
