@@ -201,6 +201,9 @@ Import your own from google bookmarks [with this script](https://gist.github.com
 - [Docker with python](http://krzysztofzuraw.com/blog/2016/docker-py.html)
 - [pook - mock http requests responses](https://github.com/h2non/pook)
 - [slackbot](https://github.com/lins05/slackbot)
+- [writing ansible module how to](https://github.com/4383/bookmarks/edit/master/README.md)
+- [writing ansible module how to 2](https://www.pluralsight.com/guides/python/writing-ansible-modules-complete-with-tests)
+- [python environment configuration](https://makina-corpus.com/blog/metier/2015/bien-configurer-son-environnement-de-developpement-python)
 
 ## Regex
 - [Regex](http://korben.info/regex101-loutil-ultime-trouver-creer-tester-comprendre-regex.html?utm_source=feedburner&amp;utm_medium=feed&amp;utm_campaign=Feed%3A+KorbensBlog-UpgradeYourMind+(Korben&#39;s+Blog+-+Upgrade+Your+Mind))
