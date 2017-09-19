@@ -102,6 +102,7 @@ Import your own from google bookmarks [with this script](https://gist.github.com
 - [Git flow implementation](https://github.com/petervanderdoes/gitflow-avh)
 - [Git flow hooks](https://github.com/petervanderdoes/git-flow-hooks)
 - [release management](https://github.com/webpro/release-it)
+- [openstack contribution guide](https://docs.openstack.org/infra/manual/developers.html#development-workflow)
 
 ## Github
 - [Gh-pages + domain](http://blog.smarchal.com/heberger-son-site-sur-github)
