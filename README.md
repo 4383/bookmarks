@@ -7,11 +7,6 @@ Import your own from google bookmarks [with this script](https://gist.github.com
 - [Spotify technical blog](https://labs.spotify.com/page/3/)
 - [Haveged entropy](https://www.skyminds.net/serveur-dedie-produire-une-meilleure-reserve-dentropie-avec-haveged/)
 
-## Archlinux
-- [Packaging archlinux](https://wiki.archlinux.fr/Makepkg)
-- [Packaging archlinux](https://wiki.archlinux.fr/Standard_paquetage)
-- [Packaging archlinux submit](https://wiki.archlinux.fr/AUR#Soumission)
-
 ## Blockchain
 - [Etherum for newby](http://www.bortzmeyer.org/ethereum.html)
 
@@ -175,10 +170,7 @@ Import your own from google bookmarks [with this script](https://gist.github.com
 - [Network management](https://www.weave.works/)
 - [Openstack 1 server](http://docs.openstack.org/developer/devstack/guides/single-machine.html)
 
-## [Packaging - alpine linux](sections/packaging.md)
-- [creating an alpine package](https://wiki.alpinelinux.org/wiki/Creating_an_Alpine_package)
-- [aports tree explain](https://wiki.alpinelinux.org/wiki/Aports_tree)
-- [package management](https://wiki.alpinelinux.org/wiki/Alpine_Linux_package_management)
+## [Packaging](sections/packaging.md)
 
 ## Psychologie
 - [Haptiques senses](https://fr.wikipedia.org/wiki/Haptique)
