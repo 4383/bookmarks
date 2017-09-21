@@ -9,3 +9,6 @@
 - [generate archlinux package](https://wiki.archlinux.fr/Makepkg)
 - [Packaging archlinux](https://wiki.archlinux.fr/Standard_paquetage)
 - [Packaging archlinux submit](https://wiki.archlinux.fr/AUR#Soumission)
+
+## RHEL/centos
+- [advanced rpm create](http://eric.gerbier.free.fr/fabrication-rpm-avance.html)
