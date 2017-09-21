@@ -1,3 +1,5 @@
+[![Build Status](https://travis-ci.org/4383/bookmarks.svg?branch=master)](https://travis-ci.org/4383/bookmarks)
+
 # Hervé Beraud (4383) personal bookmarks and useful links
 My common bookmarks and useful links.
 
