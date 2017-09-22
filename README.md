@@ -206,6 +206,8 @@ Import your own from google bookmarks [with this script](https://gist.github.com
 - [writing ansible module how to 2](https://www.pluralsight.com/guides/python/writing-ansible-modules-complete-with-tests)
 - [python environment configuration](https://makina-corpus.com/blog/metier/2015/bien-configurer-son-environnement-de-developpement-python)
 
+## [Provisioning](sections/provisioning.md)
+
 ## Regex
 - [Regex](http://korben.info/regex101-loutil-ultime-trouver-creer-tester-comprendre-regex.html?utm_source=feedburner&amp;utm_medium=feed&amp;utm_campaign=Feed%3A+KorbensBlog-UpgradeYourMind+(Korben&#39;s+Blog+-+Upgrade+Your+Mind))
 
