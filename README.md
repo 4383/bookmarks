@@ -169,7 +169,7 @@ How to package projects for a lot of systems (alpinelinux, archlinux).
 
 For work with packages managers.
 
-[Get provisioning links](sections/packaging.md)
+[Get pacakging links](sections/packaging.md)
 
 ## Psychologie
 - [Haptiques senses](https://fr.wikipedia.org/wiki/Haptique)
