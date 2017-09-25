@@ -1,5 +1,5 @@
 # Integration
-- (zuul - drive continuous integration deleveries and deployments)[https://docs.openstack.org/infra/zuul/]
+- [zuul - drive continuous integration deleveries and deployments](https://docs.openstack.org/infra/zuul/)
 - [Docker continuous integration](http://www.dwmkerr.com/simple-continuous-integration-for-docker-images/?mkt_tok=eyJpIjoiTWpBek5tSXlOakZoTlRRMiIsInQiOiJXWmcycEp0ZEF5dlJJUTd4V0hZN2ZhczFPbng2OUlvZHExU2JFVHcwRTVid2pQUjhNZjJNRjFoWTNhYUxJNkl3ZzZnMnEwM3ppRjdlYjduSmxJbTFxZmtkUngyNTBBZUZaQXM4dXJOT2didz0ifQ%3D%3D)
 - [Integration manage git organization](https://git-scm.com/book/fr/v2/Utilitaires-Git-Sous-modules)
 - [Git workflow](https://www.atlassian.com/git/images/tutorials/collaborating/comparing-workflows/gitflow-workflow/05.svg)
