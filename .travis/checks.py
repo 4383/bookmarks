@@ -16,9 +16,10 @@ def dead_links():
                     print("{}: {} => OK".format(section, link))
                     continue
                 errors.append(link)
+                error_msg = "{}\nstatus code: {}".format(error_msg, response.status_code)
                 core.fail(error_msg, interupt=False)
             except requests.exceptions.ConnectionError:
+                error_msg = "{}\nconnection error".format(error_msg)
                 core.fail(error_msg, interupt=False)
     if errors:
         core.fail("{} dead link found", interupt=True)
-
