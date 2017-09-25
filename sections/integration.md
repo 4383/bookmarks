@@ -1,2 +1,13 @@
 # Integration
 - (zuul - drive continuous integration deleveries and deployments)[https://docs.openstack.org/infra/zuul/]
+- [Docker continuous integration](http://www.dwmkerr.com/simple-continuous-integration-for-docker-images/?mkt_tok=eyJpIjoiTWpBek5tSXlOakZoTlRRMiIsInQiOiJXWmcycEp0ZEF5dlJJUTd4V0hZN2ZhczFPbng2OUlvZHExU2JFVHcwRTVid2pQUjhNZjJNRjFoWTNhYUxJNkl3ZzZnMnEwM3ppRjdlYjduSmxJbTFxZmtkUngyNTBBZUZaQXM4dXJOT2didz0ifQ%3D%3D)
+- [Integration manage git organization](https://git-scm.com/book/fr/v2/Utilitaires-Git-Sous-modules)
+- [Git workflow](https://www.atlassian.com/git/images/tutorials/collaborating/comparing-workflows/gitflow-workflow/05.svg)
+- [Auto deploy gh-page from travis](https://gist.github.com/domenic/ec8b0fc8ab45f39403dd)
+- [Swarm shipyard](https://www.ivankrizsan.se/2016/07/10/managing-containers-shipyard/)
+- [Gitlab dashboard](http://docs.gitlab.com/omnibus/docker/)
+- [Deploy on pypi](https://www.appneta.com/blog/pypi-deployment-with-travis-ci/)
+- [Spotify technical blog](https://labs.spotify.com/page/3/)
+- [Haveged entropy](https://www.skyminds.net/serveur-dedie-produire-une-meilleure-reserve-dentropie-avec-haveged/)
+- [Docker orchestration](http://kubernetes.io/)
+- [Linaro lava integration continue arm](http://www.linaro.org/initiatives/lava/)
