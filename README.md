@@ -165,6 +165,11 @@ Continuous integration and continuous deployment workflow, tools, and best pract
 - [Openstack 1 server](http://docs.openstack.org/developer/devstack/guides/single-machine.html)
 
 ## [Packaging](sections/packaging.md)
+How to package projects for a lot of systems (alpinelinux, archlinux).
+
+For work with packages managers.
+
+[Get provisioning links](sections/packaging.md)
 
 ## Psychologie
 - [Haptiques senses](https://fr.wikipedia.org/wiki/Haptique)
@@ -199,6 +204,9 @@ Continuous integration and continuous deployment workflow, tools, and best pract
 - [python environment configuration](https://makina-corpus.com/blog/metier/2015/bien-configurer-son-environnement-de-developpement-python)
 
 ## [Provisioning](sections/provisioning.md)
+Provisioning and system management tools
+
+[Get provisioning links](sections/provisioning.md)
 
 ## Regex
 - [Regex](http://korben.info/regex101-loutil-ultime-trouver-creer-tester-comprendre-regex.html?utm_source=feedburner&amp;utm_medium=feed&amp;utm_campaign=Feed%3A+KorbensBlog-UpgradeYourMind+(Korben&#39;s+Blog+-+Upgrade+Your+Mind))
