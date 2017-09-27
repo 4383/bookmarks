@@ -90,16 +90,10 @@ Import your own from google bookmarks [with this script](https://gist.github.com
 ## Favicon
 - [Favicon generator](https://realfavicongenerator.net/)
 
-## Git
-- [Learn git branching](http://learngitbranching.js.org/)
-- [Git best practice](https://sethrobertson.github.io/GitBestPractices/)
-- [Git flow examples](https://gitversion.readthedocs.io/en/latest/git-branching-strategies/gitflow-examples/)
-- [Git flow nvie](http://nvie.com/posts/a-successful-git-branching-model/)
-- [Git flow cheatsheet](https://danielkummer.github.io/git-flow-cheatsheet/)
-- [Git flow implementation](https://github.com/petervanderdoes/gitflow-avh)
-- [Git flow hooks](https://github.com/petervanderdoes/git-flow-hooks)
-- [release management](https://github.com/webpro/release-it)
-- [openstack contribution guide](https://docs.openstack.org/infra/manual/developers.html#development-workflow)
+## [Version control](sections/version-control.md)
+Manage different version control system like git, mercurial, svn, etc...
+
+[Get version control links](sections/version-control.md)
 
 ## Github
 - [Gh-pages + domain](http://blog.smarchal.com/heberger-son-site-sur-github)
@@ -169,7 +163,7 @@ How to package projects for a lot of systems (alpinelinux, archlinux).
 
 For work with packages managers.
 
-[Get pacakging links](sections/packaging.md)
+[Get packaging links](sections/packaging.md)
 
 ## Psychologie
 - [Haptiques senses](https://fr.wikipedia.org/wiki/Haptique)
