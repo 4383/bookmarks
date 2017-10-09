@@ -12,3 +12,9 @@
 
 ## RHEL/centos
 - [advanced rpm create](http://eric.gerbier.free.fr/fabrication-rpm-avance.html)
+
+## Openstack
+- [delorean](https://blogs.rdoproject.org/7834/delorean-openstack-packages-from-the-future)
+- [weirdo](https://github.com/rdo-infra/weirdo)
+- [pymod](https://www.npmjs.com/package/generator-pymod)
+- [ansible run analysis](https://github.com/dmsimard/ara)
