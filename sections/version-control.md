@@ -1,7 +1,7 @@
 # Version control
 
 ## Git
-- [stash commit](http://gitready.com/advanced/2009/02/10/squashing-commits-with-rebase.html)
+- [squash commit](http://gitready.com/advanced/2009/02/10/squashing-commits-with-rebase.html)
 - [Learn git branching](http://learngitbranching.js.org/)
 - [Git best practice](https://sethrobertson.github.io/GitBestPractices/)
 - [Git flow examples](https://gitversion.readthedocs.io/en/latest/git-branching-strategies/gitflow-examples/)
