@@ -14,3 +14,4 @@
 
 ## Gitlab
 - [code review](https://docs.gitlab.com/ce/development/code_review.html)
+- [flow](https://about.gitlab.com/2014/09/29/gitlab-flow/)
