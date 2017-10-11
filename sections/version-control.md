@@ -11,3 +11,6 @@
 - [Git flow hooks](https://github.com/petervanderdoes/git-flow-hooks)
 - [release management](https://github.com/webpro/release-it)
 - [openstack contribution guide](https://docs.openstack.org/infra/manual/developers.html#development-workflow)
+
+## Gitlab
+- [code review](https://docs.gitlab.com/ce/development/code_review.html)
