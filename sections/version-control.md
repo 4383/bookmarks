@@ -2,6 +2,8 @@
 
 ## Git
 - [squash commit](http://gitready.com/advanced/2009/02/10/squashing-commits-with-rebase.html)
+- [cherry pick commit to another branch](https://www.devroom.io/2010/06/10/cherry-picking-specific-commits-from-another-branch/)
+- [rebase commits/merge](https://git-scm.com/book/en/v2/Git-Branching-Rebasing)
 - [edit commit](https://stackoverflow.com/questions/1186535/how-to-modify-a-specified-commit-in-git)
 - [Learn git branching](http://learngitbranching.js.org/)
 - [Git best practice](https://sethrobertson.github.io/GitBestPractices/)
