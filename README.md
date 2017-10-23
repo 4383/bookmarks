@@ -252,6 +252,7 @@ Provisioning and system management tools
 
 ## Tools
 - [Vim configuration](https://opium.io/my-vim-configuration/)
+- [Vim plugins](https://statico.github.io/vim3.html)
 - [Chat anonyme et crypté](https://hack.chat/)
 
 ## Uml
