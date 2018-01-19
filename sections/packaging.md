@@ -12,6 +12,7 @@
 
 ## RHEL/centos
 - [advanced rpm create](http://eric.gerbier.free.fr/fabrication-rpm-avance.html)
+- [build source packages](https://blog.packagecloud.io/eng/2015/04/20/working-with-source-rpms/)
 
 ## Openstack
 - [delorean](https://blogs.rdoproject.org/7834/delorean-openstack-packages-from-the-future)
