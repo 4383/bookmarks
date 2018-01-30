@@ -12,7 +12,9 @@
 
 ## RHEL/centos
 - [advanced rpm create](http://eric.gerbier.free.fr/fabrication-rpm-avance.html)
-- [build source packages](https://blog.packagecloud.io/eng/2015/04/20/working-with-source-rpms/)
+- [work with rpm sources](https://blog.packagecloud.io/eng/2015/04/20/working-with-source-rpms/)
+- [build source packages](https://blog.packagecloud.io/rpm/rpmbuild/packaging/2015/06/29/building-rpm-packages-with-rpmbuild/)
+- [sign rpm packages](https://blog.packagecloud.io/eng/2014/11/24/howto-gpg-sign-verify-rpm-packages-yum-repositories/)
 
 ## Openstack
 - [delorean](https://blogs.rdoproject.org/7834/delorean-openstack-packages-from-the-future)
