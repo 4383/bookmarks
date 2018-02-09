@@ -25,6 +25,7 @@ Import your own from google bookmarks [with this script](https://gist.github.com
 - [Devops tuto](http://trainingdevops.com/insights-and-tutorials)
 - [SecDevOps](http://www.cloud-experience.fr/securite-soluble-devops/)
 - [Gartner SecDevOps](https://devops.com/embeds/gartners-netsec-dirty-dozen-worst-practices/gartners-dirty-dozen/culture-of-no/)
+- [Ansible run analysis (ARA)](https://github.com/openstack/ara)
 
 ## Divertissements
 - [Tee-shirts](https://www.riptapparel.com/collections/mens-t-shirts)
