@@ -16,6 +16,7 @@
 - [openstack contribution guide](https://docs.openstack.org/infra/manual/developers.html#development-workflow)
 - [improve git with addons](https://dev.to/sobolevn/using-better-clis-6o8)
 - [rebase & merge](https://delicious-insights.com/fr/articles/bien-utiliser-git-merge-et-rebase/)
+- [dulwich python git implentation](https://www.dulwich.io/docs/tutorial/object-store.html)
 
 ## Gitlab
 - [code review](https://docs.gitlab.com/ce/development/code_review.html)
