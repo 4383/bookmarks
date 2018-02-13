@@ -250,6 +250,7 @@ Provisioning and system management tools
 - [Hashes cracked](https://hashes.org/public.php)
 - [Roundcub exploit](https://blog.ripstech.com/2016/roundcube-command-execution-via-email/)
 - [Python scanner](https://www.darknet.org.uk/2017/10/spaghetti-download-web-application-security-scanner/)
+- [Venom shellcode generator](https://www.kitploit.com/2018/02/venom-1015-metasploit-shellcode.html)
 
 ## Static
 - [Gulp taches automatisées](http://www.alsacreations.com/tuto/lire/1686-introduction-a-gulp.html)
