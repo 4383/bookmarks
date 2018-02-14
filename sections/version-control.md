@@ -17,6 +17,7 @@
 - [improve git with addons](https://dev.to/sobolevn/using-better-clis-6o8)
 - [rebase & merge](https://delicious-insights.com/fr/articles/bien-utiliser-git-merge-et-rebase/)
 - [dulwich python git implentation](https://www.dulwich.io/docs/tutorial/object-store.html)
+- [Beautiful pull request guideline](https://www.annashipman.co.uk/jfdi/good-pull-requests.html)
 
 ## Gitlab
 - [code review](https://docs.gitlab.com/ce/development/code_review.html)
