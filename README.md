@@ -200,6 +200,7 @@ For work with packages managers.
 - [writing ansible module test how to](https://linuxsimba.com/unit_testing_ansible_modules_part_2)
 - [writing ansible module how to 2](https://www.pluralsight.com/guides/python/writing-ansible-modules-complete-with-tests)
 - [python environment configuration](https://makina-corpus.com/blog/metier/2015/bien-configurer-son-environnement-de-developpement-python)
+- [Configure vim for python](https://realpython.com/blog/python/vim-and-python-a-match-made-in-heaven/)
 
 ## [Provisioning](sections/provisioning.md)
 Provisioning and system management tools
