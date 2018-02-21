@@ -201,6 +201,7 @@ For work with packages managers.
 - [writing ansible module how to 2](https://www.pluralsight.com/guides/python/writing-ansible-modules-complete-with-tests)
 - [python environment configuration](https://makina-corpus.com/blog/metier/2015/bien-configurer-son-environnement-de-developpement-python)
 - [Configure vim for python](https://realpython.com/blog/python/vim-and-python-a-match-made-in-heaven/)
+- [powerline python/git/shell/vim status bar](https://powerline.readthedocs.io/en/latest/usage/other.html#vim-statusline)
 
 ## [Provisioning](sections/provisioning.md)
 Provisioning and system management tools
