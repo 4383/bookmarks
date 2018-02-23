@@ -128,6 +128,7 @@ Continuous integration and continuous deployment workflow, tools, and best pract
 - [Keylogger x11](http://blog.rom1v.com/2011/11/keylogger-sous-gnulinux-enregistrer-les-touches-tapees-au-clavier/)
 - [Htop explain](https://peteris.rocks/blog/htop/)
 - [grep commands](http://www.linuxnix.com/grep-command-regular-expressions-examples-iii/)
+- [systemd etc...](http://0pointer.de/blog/projects/)
 
 ## Microservices
 - [Microservices reverse proxy](http://traefik.io/)
