@@ -259,7 +259,6 @@ Provisioning and system management tools
 - [Gulp taches automatisées](http://www.alsacreations.com/tuto/lire/1686-introduction-a-gulp.html)
 
 ## Tools
-- [Vim configuration](https://opium.io/my-vim-configuration/)
 - [Vim plugins](https://statico.github.io/vim3.html)
 - [Chat anonyme et crypté](https://hack.chat/)
 
