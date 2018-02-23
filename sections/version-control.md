@@ -18,6 +18,10 @@
 - [rebase & merge](https://delicious-insights.com/fr/articles/bien-utiliser-git-merge-et-rebase/)
 - [dulwich python git implentation](https://www.dulwich.io/docs/tutorial/object-store.html)
 - [Beautiful pull request guideline](https://www.annashipman.co.uk/jfdi/good-pull-requests.html)
+- [create patch](http://renaudmathieu.fr/creer-et-appliquer-un-patch-avec-git/)
+- [generate patch for specified commit](https://stackoverflow.com/questions/6658313/generate-a-git-patch-for-a-specific-commit)
+- [git send mail](https://git-scm.com/docs/git-send-email)
+- [git diff with vim](https://stackoverflow.com/questions/3713765/viewing-all-git-diffs-with-vimdiff)
 
 ## Gitlab
 - [code review](https://docs.gitlab.com/ce/development/code_review.html)
