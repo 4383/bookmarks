@@ -22,6 +22,7 @@
 - [generate patch for specified commit](https://stackoverflow.com/questions/6658313/generate-a-git-patch-for-a-specific-commit)
 - [git send mail](https://git-scm.com/docs/git-send-email)
 - [git diff with vim](https://stackoverflow.com/questions/3713765/viewing-all-git-diffs-with-vimdiff)
+- [git add some parts of file](https://stackoverflow.com/questions/1085162/commit-only-part-of-a-file-in-git)
 
 ## Gitlab
 - [code review](https://docs.gitlab.com/ce/development/code_review.html)
