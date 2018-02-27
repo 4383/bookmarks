@@ -1,6 +1,6 @@
 [![Build Status](https://travis-ci.org/4383/bookmarks.svg?branch=master)](https://travis-ci.org/4383/bookmarks)
 
-# Hervé Beraud (4383) personal bookmarks and useful links
+# Personal bookmarks and useful links
 My common bookmarks and useful links.
 
 Import your own from google bookmarks [with this script](https://gist.github.com/4383/1ccd5efe6d84d140da6c56689ac64a1e).
