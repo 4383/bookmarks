@@ -1,4 +1,5 @@
 [![Build Status](https://travis-ci.org/4383/bookmarks.svg?branch=master)](https://travis-ci.org/4383/bookmarks)
+[![Twitter URL](https://img.shields.io/twitter/url/http/shields.io.svg?style=social&logo=twitter)](https://twitter.com/4383hberaud)
 
 # Personal bookmarks and useful links
 My common bookmarks and useful links.
