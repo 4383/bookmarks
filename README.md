@@ -9,6 +9,11 @@ Import your own from google bookmarks [with this script](https://gist.github.com
 - [Spotify technical blog](https://labs.spotify.com/page/3/)
 - [Haveged entropy](https://www.skyminds.net/serveur-dedie-produire-une-meilleure-reserve-dentropie-avec-haveged/)
 
+## Archlinux
+- [Packaging archlinux](https://wiki.archlinux.fr/Makepkg)
+- [Packaging archlinux](https://wiki.archlinux.fr/Standard_paquetage)
+- [Packaging archlinux submit](https://wiki.archlinux.fr/AUR#Soumission)
+
 ## Blockchain
 - [Etherum for newby](http://www.bortzmeyer.org/ethereum.html)
 
@@ -261,6 +266,7 @@ Provisioning and system management tools
 
 ## Tools
 - [Vim plugins](https://statico.github.io/vim3.html)
+- [Vim configuration](https://opium.io/my-vim-configuration/)
 - [Chat anonyme et crypté](https://hack.chat/)
 
 ## Uml
