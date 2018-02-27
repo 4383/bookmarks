@@ -174,6 +174,7 @@ For work with packages managers.
 - [Haptiques senses](https://fr.wikipedia.org/wiki/Haptique)
 
 ## Python
+- [request bind ip](https://stackoverflow.com/questions/12585317/requests-bind-to-an-ip)
 - [Docker django](http://michal.karzynski.pl/blog/2015/04/19/packaging-django-applications-as-docker-container-images/)
 - [Python compile](http://sametmax.com/peut-on-compiler-un-programme-python/)
 - [Python subcommand like git](http://chase-seibert.github.io/blog/2014/03/21/python-multilevel-argparse.html)
