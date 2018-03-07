@@ -110,6 +110,7 @@ Manage different version control system like git, mercurial, svn, etc...
 - [Mermaid integrate UML inside markdown content](https://mermaidjs.github.io/)
 - [markdown editor](https://stackedit.io/app)
 - [mermaid how to with gh-pages](https://github.com/gnab/remark/wiki/Adding-graphs-via-Mermaid)
+- [Github pages versions (plugins + jekyll)](https://pages.github.com/versions/)
 
 ## Gitlab
 - [Docker registry gitlab 3](http://docs.gitlab.com/ce/ci/docker/using_docker_build.html)
