@@ -112,6 +112,7 @@ Manage different version control system like git, mercurial, svn, etc...
 - [mermaid how to with gh-pages](https://github.com/gnab/remark/wiki/Adding-graphs-via-Mermaid)
 - [Github pages versions (plugins + jekyll)](https://pages.github.com/versions/)
 - [Bootstrap github-pages locally](https://rubygems.org/gems/github-pages)
+- [Github Page Gem](https://github.com/github/pages-gem)
 
 ## Gitlab
 - [Docker registry gitlab 3](http://docs.gitlab.com/ce/ci/docker/using_docker_build.html)
