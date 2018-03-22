@@ -15,6 +15,11 @@ Import your own from google bookmarks [with this script](https://gist.github.com
 - [Packaging archlinux](https://wiki.archlinux.fr/Standard_paquetage)
 - [Packaging archlinux submit](https://wiki.archlinux.fr/AUR#Soumission)
 
+## Artificial Intelligence
+Deal with deep learning, machine learning, AI, etc...
+
+[Get artificial intelligence links](sections/artificial-intelligence.md)
+
 ## Blockchain
 - [Etherum for newby](http://www.bortzmeyer.org/ethereum.html)
 
