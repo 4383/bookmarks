@@ -296,6 +296,7 @@ Provisioning and system management tools
 - [Form online](https://formspree.io/)
 - [Multi auth with redis session storage](http://michal.karzynski.pl/blog/2013/07/14/using-redis-as-django-session-store-and-cache-backend/)
 - [Gulp taches automatisées](http://www.alsacreations.com/tuto/lire/1686-introduction-a-gulp.html)
+- [JSencrypt - Encrypt/Decrypt RSA](https://github.com/travist/jsencrypt)
 
 ## deals
 - [dealabs](https://www.dealabs.com)
