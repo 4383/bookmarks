@@ -7,3 +7,4 @@
 - [Generative-adversarial-networks](https://medium.com/@devnag/generative-adversarial-networks-gans-in-50-lines-of-code-pytorch-e81b79659e3f)
 - [How to Generate Video with the generative adversarial networks](https://www.youtube.com/watch?v=-E2N1kQc8MM)
 - [Generate political speech with deep learning](https://blog.octo.com/des-reseaux-de-neurones-pour-generer-des-discours-politiques/)
+- [classify images with neuronal networks](https://blog.octo.com/classification-dimages-les-reseaux-de-neurones-convolutifs-en-toute-simplicite/)
