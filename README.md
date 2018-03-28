@@ -223,6 +223,7 @@ For work with packages managers.
 - [powerline python/git/shell/vim status bar](https://powerline.readthedocs.io/en/latest/usage/other.html#vim-statusline)
 - [Uses pytesseract and custom neural nets to mimic human behavior at captcha prompts](https://pypi.python.org/pypi/free/0.0.2)
 - [Organize -The file management automation tool.](https://github.com/tfeldmann/organize)
+- [Let's Encrypt(ACME) client. Programmatic/library](https://github.com/komuw/sewer)
 
 ## [Provisioning](sections/provisioning.md)
 Provisioning and system management tools
