@@ -9,6 +9,7 @@ Import your own from google bookmarks [with this script](https://gist.github.com
 ## Architecture
 - [Spotify technical blog](https://labs.spotify.com/page/3/)
 - [Haveged entropy](https://www.skyminds.net/serveur-dedie-produire-une-meilleure-reserve-dentropie-avec-haveged/)
+- [HTTP Archive Tracks How the Web is Built](https://httparchive.org/)
 
 ## Archlinux
 - [Packaging archlinux](https://wiki.archlinux.fr/Makepkg)
