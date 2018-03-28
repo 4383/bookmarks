@@ -26,6 +26,9 @@ Deal with deep learning, machine learning, AI, etc...
 ## Buisness
 - [Zapier financial](https://www.groovehq.com/blog/zapier-interview-with-wade-foster)
 
+## Cloud
+- [Compiling Python into AWS Lambda / Step Function](https://github.com/bennorth/pyawssfn)
+
 ## Css
 - [Material design](https://getmdl.io/started/#download)
 
