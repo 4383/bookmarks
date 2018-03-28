@@ -222,6 +222,7 @@ For work with packages managers.
 - [Configure vim for python](https://realpython.com/blog/python/vim-and-python-a-match-made-in-heaven/)
 - [powerline python/git/shell/vim status bar](https://powerline.readthedocs.io/en/latest/usage/other.html#vim-statusline)
 - [Uses pytesseract and custom neural nets to mimic human behavior at captcha prompts](https://pypi.python.org/pypi/free/0.0.2)
+- [Organize -The file management automation tool.](https://github.com/tfeldmann/organize)
 
 ## [Provisioning](sections/provisioning.md)
 Provisioning and system management tools
