@@ -291,6 +291,9 @@ Provisioning and system management tools
 ## Uml
 - [Uml sequence](https://www.visual-paradigm.com/VPGallery/diagrams/Sequence.html)
 
+## Vim
+- [vim substitution cheet sheet](http://www.theunixschool.com/2012/11/examples-vi-vim-substitution-commands.htm)
+
 ## Watch
 - [Gulp taches automatisées](http://www.alsacreations.com/tuto/lire/1686-introduction-a-gulp.html)
 
