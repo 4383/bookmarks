@@ -9,3 +9,4 @@
 - [Generate political speech with deep learning](https://blog.octo.com/des-reseaux-de-neurones-pour-generer-des-discours-politiques/)
 - [classify images with neuronal networks](https://blog.octo.com/classification-dimages-les-reseaux-de-neurones-convolutifs-en-toute-simplicite/)
 - [machine learning import data](https://makina-corpus.com/blog/metier/2018/machine-learning-import-donnees)
+- [google dataset](https://research.google.com/audioset/dataset/)
