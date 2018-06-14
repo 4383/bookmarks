@@ -6,6 +6,9 @@ My common bookmarks and useful links.
 
 Import your own from google bookmarks [with this script](https://gist.github.com/4383/1ccd5efe6d84d140da6c56689ac64a1e).
 
+## Wikipedia
+- [French Dumps](https://dumps.wikimedia.org/frwiki/20180220/)
+
 ## Architecture
 - [Spotify technical blog](https://labs.spotify.com/page/3/)
 - [Haveged entropy](https://www.skyminds.net/serveur-dedie-produire-une-meilleure-reserve-dentropie-avec-haveged/)
