@@ -6,3 +6,4 @@
 - https://fr.wikipedia.org/wiki/Ronald_Aylmer_Fisher
 - https://fr.wikipedia.org/wiki/Th%C3%A9or%C3%A8me_de_Hessenberg_(g%C3%A9om%C3%A9trie) 
 - https://fr.wikipedia.org/wiki/Th%C3%A9orie_des_perspectives
+- https://fr.wikipedia.org/wiki/%C3%89conomie_du_bonheur
