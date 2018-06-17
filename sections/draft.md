@@ -12,3 +12,4 @@
 - https://fr.wikipedia.org/wiki/Scepticisme_scientifique
 - https://fr.wikipedia.org/wiki/Normand_Baillargeon
 - https://fr.wikipedia.org/wiki/Voltairine_de_Cleyre
+- https://fr.wikipedia.org/wiki/Valeur_p
