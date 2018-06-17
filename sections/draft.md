@@ -9,3 +9,5 @@
 - https://fr.wikipedia.org/wiki/%C3%89conomie_du_bonheur
 - https://fr.wikipedia.org/wiki/Inf%C3%A9rence_bay%C3%A9sienne
 - https://fr.wikipedia.org/wiki/Loi_binomiale
+- https://fr.wikipedia.org/wiki/Scepticisme_scientifique
+- https://fr.wikipedia.org/wiki/Normand_Baillargeon
