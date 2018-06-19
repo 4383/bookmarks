@@ -10,3 +10,5 @@
 - [classify images with neuronal networks](https://blog.octo.com/classification-dimages-les-reseaux-de-neurones-convolutifs-en-toute-simplicite/)
 - [machine learning import data](https://makina-corpus.com/blog/metier/2018/machine-learning-import-donnees)
 - [google dataset](https://research.google.com/audioset/dataset/)
+- [deep learning with keras redis and flask](https://www.pyimagesearch.com/2018/02/05/deep-learning-production-keras-redis-flask-apache/)
+- [face recognition with opencv python and deep learning](https://www.pyimagesearch.com/2018/06/18/face-recognition-with-opencv-python-and-deep-learning/)
