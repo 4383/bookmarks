@@ -12,3 +12,7 @@
 - [google dataset](https://research.google.com/audioset/dataset/)
 - [deep learning with keras redis and flask](https://www.pyimagesearch.com/2018/02/05/deep-learning-production-keras-redis-flask-apache/)
 - [face recognition with opencv python and deep learning](https://www.pyimagesearch.com/2018/06/18/face-recognition-with-opencv-python-and-deep-learning/)
+- [simple image classification](https://becominghuman.ai/building-an-image-classifier-using-deep-learning-in-python-totally-from-a-beginners-perspective-be8dbaf22dd8)
+- [keras image processing](https://keras.io/preprocessing/image/)
+- [save load keras models](https://machinelearningmastery.com/save-load-keras-deep-learning-models/)
+- [GAN - generative adversial network](https://deeplearning4j.org/generative-adversarial-network#)
