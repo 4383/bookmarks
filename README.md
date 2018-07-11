@@ -111,6 +111,7 @@ Deal with deep learning, machine learning, AI, etc...
 
 ## Favicon
 - [Favicon generator](https://realfavicongenerator.net/)
+- [utf8 table](https://unicode-table.com/en/#control-pictures)
 
 ## [Version control](sections/version-control.md)
 Manage different version control system like git, mercurial, svn, etc...
