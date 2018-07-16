@@ -233,6 +233,7 @@ For work with packages managers.
 - [Organize -The file management automation tool.](https://github.com/tfeldmann/organize)
 - [Let's Encrypt(ACME) client. Programmatic/library](https://github.com/komuw/sewer)
 - [Add custom build steps to python package building](https://seasonofcode.com/posts/how-to-add-custom-build-steps-and-commands-to-setuppy.html)
+- [AST examples](http://greentreesnakes.readthedocs.io/en/latest/)
 
 ## [Provisioning](sections/provisioning.md)
 Provisioning and system management tools
