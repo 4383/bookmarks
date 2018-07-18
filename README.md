@@ -318,3 +318,6 @@ Provisioning and system management tools
 
 ## deals
 - [dealabs](https://www.dealabs.com)
+
+## Fun
+- [This is a Ruby program that generates Rust program that generates Scala program that generates...](https://github.com/mame/quine-relay)
