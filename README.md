@@ -99,6 +99,9 @@ Deal with deep learning, machine learning, AI, etc...
 - [Docker registry gitlab 2](http://docs.gitlab.com/ce/container_registry/README.html)
 - [Network utilities](https://github.com/4383/netshoot)
 
+## Open Container Initiative
+- [Many way to build container images without docker](https://www.projectatomic.io/blog/2018/03/the-many-ways-to-build-oci-images/)
+
 ## Documentation
 - [docbook](https://fr.wikipedia.org/wiki/DocBook)
 
