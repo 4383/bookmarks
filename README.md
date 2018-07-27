@@ -121,6 +121,9 @@ Manage different version control system like git, mercurial, svn, etc...
 
 [Get version control links](sections/version-control.md)
 
+## Git
+- [cool git tips](https://www.alexkras.com/19-git-tips-for-everyday-use/)
+
 ## Github
 - [Gh-pages + domain](http://blog.smarchal.com/heberger-son-site-sur-github)
 - [Mermaid integrate UML inside markdown content](https://mermaidjs.github.io/)
