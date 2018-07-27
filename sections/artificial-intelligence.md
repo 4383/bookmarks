@@ -16,3 +16,7 @@
 - [keras image processing](https://keras.io/preprocessing/image/)
 - [save load keras models](https://machinelearningmastery.com/save-load-keras-deep-learning-models/)
 - [GAN - generative adversial network](https://deeplearning4j.org/generative-adversarial-network#)
+- [Deep learning image detection](https://towardsdatascience.com/build-your-first-deep-learning-classifier-using-tensorflow-dog-breed-example-964ed0689430)
+- [Lore - Python library for deep learning](https://github.com/instacart/lore)
+- [build deep learning model](https://tech.instacart.com/how-to-build-a-deep-learning-model-in-15-minutes-a3684c6f71e)
+- [Deep Learning Toolkit for Natural Language Processing](https://medium.com/apache-mxnet/gluonnlp-deep-learning-toolkit-for-natural-language-processing-98e684131c8a)
