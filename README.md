@@ -121,31 +121,6 @@ Manage different version control system like git, mercurial, svn, etc...
 
 [Get version control links](sections/version-control.md)
 
-## Git
-- [cool git tips](https://www.alexkras.com/19-git-tips-for-everyday-use/)
-
-## Github
-- [Gh-pages + domain](http://blog.smarchal.com/heberger-son-site-sur-github)
-- [Mermaid integrate UML inside markdown content](https://mermaidjs.github.io/)
-- [markdown editor](https://stackedit.io/app)
-- [mermaid how to with gh-pages](https://github.com/gnab/remark/wiki/Adding-graphs-via-Mermaid)
-- [Github pages versions (plugins + jekyll)](https://pages.github.com/versions/)
-- [Bootstrap github-pages locally](https://rubygems.org/gems/github-pages)
-- [Github Page Gem](https://github.com/github/pages-gem)
-
-## Gitlab
-- [Docker registry gitlab 3](http://docs.gitlab.com/ce/ci/docker/using_docker_build.html)
-- [Gitlab runner](https://gitlab.com/gitlab-org/gitlab-ci-multi-runner/blob/master/docs/install/docker.md)
-- [Integration manage git organization](https://git-scm.com/book/fr/v2/Utilitaires-Git-Sous-modules)
-- [Gitlab conf](http://samwize.com/2014/07/24/how-to-setup-git-server-gitlab-with-ssl/)
-- [Gitlab runner commandes](https://gitlab.com/gitlab-org/gitlab-ci-multi-runner/blob/master/docs/commands/README.md)
-- [Gitlab dind](https://blue.cse.buffalo.edu/gitlab/help/ci/docker/using_docker_build.md)
-- [Build configuration](http://docs.gitlab.com/ce/ci/yaml/README.html)
-- [Gitlab dashboard](http://docs.gitlab.com/omnibus/docker/)
-- [Gitlab runner debug](https://gitlab.com/gitlab-org/gitlab-ce/issues/3317)
-- [Gitlab docker letsencrypt](https://blog.ouvrard.it/2016/03/12/gitlab-docker-lets-encrypt/)
-- [Docker registry gitlab 2](http://docs.gitlab.com/ce/container_registry/README.html)
-
 ## [Integration](sections/integration.md)
 Continuous integration and continuous deployment workflow, tools, and best practices and others stuffs.
 

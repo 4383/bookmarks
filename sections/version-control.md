@@ -24,9 +24,16 @@
 - [git diff with vim](https://stackoverflow.com/questions/3713765/viewing-all-git-diffs-with-vimdiff)
 - [git add some parts of file](https://stackoverflow.com/questions/1085162/commit-only-part-of-a-file-in-git)
 - [submit patch to linux kernel](https://www.kernel.org/doc/html/latest/process/submitting-patches.html)
+- [cool git tips](https://www.alexkras.com/19-git-tips-for-everyday-use/)
 
 ## Github
 - [Gh-pages + domain](http://blog.smarchal.com/heberger-son-site-sur-github)
+- [Mermaid integrate UML inside markdown content](https://mermaidjs.github.io/)
+- [markdown editor](https://stackedit.io/app)
+- [mermaid how to with gh-pages](https://github.com/gnab/remark/wiki/Adding-graphs-via-Mermaid)
+- [Github pages versions (plugins + jekyll)](https://pages.github.com/versions/)
+- [Bootstrap github-pages locally](https://rubygems.org/gems/github-pages)
+- [Github Page Gem](https://github.com/github/pages-gem)
 
 ## Gitlab
 - [Docker registry gitlab 3](http://docs.gitlab.com/ce/ci/docker/using_docker_build.html)
