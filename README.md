@@ -215,6 +215,7 @@ For work with packages managers.
 - [Let's Encrypt(ACME) client. Programmatic/library](https://github.com/komuw/sewer)
 - [Add custom build steps to python package building](https://seasonofcode.com/posts/how-to-add-custom-build-steps-and-commands-to-setuppy.html)
 - [AST examples](http://greentreesnakes.readthedocs.io/en/latest/)
+- [openstack python API](https://www.ibm.com/developerworks/cloud/library/cl-openstack-pythonapis/index.html)
 
 ## [Provisioning](sections/provisioning.md)
 Provisioning and system management tools
