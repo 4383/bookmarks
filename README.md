@@ -269,6 +269,7 @@ Provisioning and system management tools
 - [Venom shellcode generator](https://www.kitploit.com/2018/02/venom-1015-metasploit-shellcode.html)
 - [build an npm worm](https://jamie.build/how-to-build-an-npm-worm)
 - [s3 search engine](https://buckets.grayhatwarfare.com/)
+- [WPA2 crraking](https://medium.com/@billbuchanan_27654/the-beginning-of-the-end-of-wpa-2-cracking-wpa-2-just-got-a-whole-lot-easier-55d7775a7a5a)
 
 ## Static
 - [Gulp taches automatisées](http://www.alsacreations.com/tuto/lire/1686-introduction-a-gulp.html)
