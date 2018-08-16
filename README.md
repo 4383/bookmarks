@@ -287,6 +287,9 @@ Provisioning and system management tools
 ## Vim
 - [vim substitution cheet sheet](http://www.theunixschool.com/2012/11/examples-vi-vim-substitution-commands.htm)
 
+## Virtualization
+- [use kvm with command line](http://xmodulo.com/use-kvm-command-line-debian-ubuntu.html)
+
 ## Watch
 - [Gulp taches automatisées](http://www.alsacreations.com/tuto/lire/1686-introduction-a-gulp.html)
 
