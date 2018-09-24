@@ -216,6 +216,7 @@ For work with packages managers.
 - [Add custom build steps to python package building](https://seasonofcode.com/posts/how-to-add-custom-build-steps-and-commands-to-setuppy.html)
 - [AST examples](http://greentreesnakes.readthedocs.io/en/latest/)
 - [openstack python API](https://www.ibm.com/developerworks/cloud/library/cl-openstack-pythonapis/index.html)
+- [where should I start to become python core maintainer](https://cpython-core-tutorial.readthedocs.io/en/latest/where_should_i_start.html)
 
 ## [Provisioning](sections/provisioning.md)
 Provisioning and system management tools
