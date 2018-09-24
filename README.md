@@ -310,3 +310,10 @@ Provisioning and system management tools
 
 ## Fun
 - [This is a Ruby program that generates Rust program that generates Scala program that generates...](https://github.com/mame/quine-relay)
+
+## Remote
+- [remote work](https://zapier.com/learn/remote-work/)
+- [korben remote help](https://zapier.com/learn/remote-work/)
+
+## Space
+- [ISS visible passes](https://www.heavens-above.com/PassSummary.aspx?satid=25544&lat=43.576&lng=0.7244&loc=Castelnau-Barbarens&alt=232&tz=CET)
