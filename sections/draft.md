@@ -17,3 +17,5 @@
 --------------
 
 - https://www.kernel.org/doc/html/latest/process/development-process.html
+
+- https://www.hostinger.com/tutorials/get-paid-to-write
