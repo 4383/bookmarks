@@ -217,6 +217,7 @@ For work with packages managers.
 - [AST examples](http://greentreesnakes.readthedocs.io/en/latest/)
 - [openstack python API](https://www.ibm.com/developerworks/cloud/library/cl-openstack-pythonapis/index.html)
 - [where should I start to become python core maintainer](https://cpython-core-tutorial.readthedocs.io/en/latest/where_should_i_start.html)
+- [beautiful parser with subcommands and argparse](https://chase-seibert.github.io/blog/2014/03/21/python-multilevel-argparse.html)
 
 ## [Provisioning](sections/provisioning.md)
 Provisioning and system management tools
