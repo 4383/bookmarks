@@ -219,6 +219,7 @@ For work with packages managers.
 - [where should I start to become python core maintainer](https://cpython-core-tutorial.readthedocs.io/en/latest/where_should_i_start.html)
 - [beautiful parser with subcommands and argparse](https://chase-seibert.github.io/blog/2014/03/21/python-multilevel-argparse.html)
 - [CIVS condorcet voting system](https://civs.cs.cornell.edu/)
+- [write a book with asciidoc sphinx and rst](https://julien.danjou.info/asciidoc-book-toolchain-released/)
 
 ## [Provisioning](sections/provisioning.md)
 Provisioning and system management tools
