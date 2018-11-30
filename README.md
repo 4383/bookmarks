@@ -277,11 +277,21 @@ Provisioning and system management tools
 - [25 Linux hardening tips](https://www.tecmint.com/linux-server-hardening-security-tips/)
 - [40 Linux hardening tips](https://www.cyberciti.biz/tips/linux-security.html)
 
-## Static
-- [Gulp taches automatisées](http://www.alsacreations.com/tuto/lire/1686-introduction-a-gulp.html)
+## [Mathematics](sections/mathematics.md)
+Mathematics (theorems, etc...)
+
+[Get mathematics links](sections/mathematics.md)
 
 ## Network
 - [skydive](http://skydive.network/)
+
+## [Persons](sections/persons.md)
+Illustrious peoples (scientists, mathematicians, physicians, etc...)
+
+[Get illustrious persons links](sections/persons.md)
+
+## Static
+- [Gulp taches automatisées](http://www.alsacreations.com/tuto/lire/1686-introduction-a-gulp.html)
 
 ## Tools
 - [Vim plugins](https://statico.github.io/vim3.html)
