@@ -6,9 +6,6 @@ My common bookmarks and useful links.
 
 Import your own from google bookmarks [with this script](https://gist.github.com/4383/1ccd5efe6d84d140da6c56689ac64a1e).
 
-## Wikipedia
-- [French Dumps](https://dumps.wikimedia.org/frwiki/20180220/)
-
 ## Architecture
 - [Spotify technical blog](https://labs.spotify.com/page/3/)
 - [Haveged entropy](https://www.skyminds.net/serveur-dedie-produire-une-meilleure-reserve-dentropie-avec-haveged/)
@@ -27,6 +24,9 @@ Deal with deep learning, machine learning, AI, etc...
 ## Blockchain
 - [Etherum for newby](http://www.bortzmeyer.org/ethereum.html)
 
+## Books
+- [yan](https://framabin.org/p/?f6e5375737f053f4#)
+
 ## Buisness
 - [Zapier financial](https://www.groovehq.com/blog/zapier-interview-with-wade-foster)
 
@@ -38,6 +38,9 @@ Deal with deep learning, machine learning, AI, etc...
 
 ## Data
 - [Big data analyze](http://spark.apache.org/)
+
+## Democraty
+- [Condorcet Internet Voting Service](https://civs.cs.cornell.edu/civs_create.html)
 
 ## Devops
 - [Devops tuto](http://trainingdevops.com/insights-and-tutorials)
@@ -99,9 +102,6 @@ Deal with deep learning, machine learning, AI, etc...
 - [Docker registry gitlab 2](http://docs.gitlab.com/ce/container_registry/README.html)
 - [Network utilities](https://github.com/4383/netshoot)
 
-## Open Container Initiative
-- [Many way to build container images without docker](https://www.projectatomic.io/blog/2018/03/the-many-ways-to-build-oci-images/)
-
 ## Documentation
 - [docbook](https://fr.wikipedia.org/wiki/DocBook)
 
@@ -115,6 +115,9 @@ Deal with deep learning, machine learning, AI, etc...
 ## Favicon
 - [Favicon generator](https://realfavicongenerator.net/)
 - [utf8 table](https://unicode-table.com/en/#control-pictures)
+
+## Fun
+- [This is a Ruby program that generates Rust program that generates Scala program that generates...](https://github.com/mame/quine-relay)
 
 ## [Version control](sections/version-control.md)
 Manage different version control system like git, mercurial, svn, etc...
@@ -154,6 +157,15 @@ Continuous integration and continuous deployment workflow, tools, and best pract
 - [Docker orchestration](http://kubernetes.io/)
 - [Netflix microservices best practices](https://www.nginx.com/blog/microservices-at-netflix-architectural-best-practices/)
 
+## [Mathematics](sections/mathematics.md)
+Mathematics (theorems, etc...)
+
+[Get mathematics links](sections/mathematics.md)
+
+## Network
+- [skydive](http://skydive.network/)
+- [cooperative](http://www.coopaname.coop/)
+
 ## Nodejs
 - [Gulp taches automatisées](http://www.alsacreations.com/tuto/lire/1686-introduction-a-gulp.html)
 - [Hubot executing shell command](https://leanpub.com/automation-and-monitoring-with-hubot/read)
@@ -169,12 +181,20 @@ Continuous integration and continuous deployment workflow, tools, and best pract
 - [Network management](https://www.weave.works/)
 - [Openstack 1 server](http://docs.openstack.org/developer/devstack/guides/single-machine.html)
 
+## Open Container Initiative
+- [Many way to build container images without docker](https://www.projectatomic.io/blog/2018/03/the-many-ways-to-build-oci-images/)
+
 ## [Packaging](sections/packaging.md)
 How to package projects for a lot of systems (alpinelinux, archlinux).
 
 For work with packages managers.
 
 [Get packaging links](sections/packaging.md)
+
+## [Persons](sections/persons.md)
+Illustrious peoples (scientists, mathematicians, physicians, etc...)
+
+[Get illustrious persons links](sections/persons.md)
 
 ## Psychologie
 - [Haptiques senses](https://fr.wikipedia.org/wiki/Haptique)
@@ -277,18 +297,12 @@ Provisioning and system management tools
 - [25 Linux hardening tips](https://www.tecmint.com/linux-server-hardening-security-tips/)
 - [40 Linux hardening tips](https://www.cyberciti.biz/tips/linux-security.html)
 
-## [Mathematics](sections/mathematics.md)
-Mathematics (theorems, etc...)
+## Remote
+- [remote work](https://zapier.com/learn/remote-work/)
 
-[Get mathematics links](sections/mathematics.md)
-
-## Network
-- [skydive](http://skydive.network/)
-
-## [Persons](sections/persons.md)
-Illustrious peoples (scientists, mathematicians, physicians, etc...)
-
-[Get illustrious persons links](sections/persons.md)
+## Space
+- [ISS visible passes](https://www.heavens-above.com/PassSummary.aspx?satid=25544&lat=43.576&lng=0.7244&loc=Castelnau-Barbarens&alt=232&tz=CET)
+- [korben remote help](https://zapier.com/learn/remote-work/)
 
 ## Static
 - [Gulp taches automatisées](http://www.alsacreations.com/tuto/lire/1686-introduction-a-gulp.html)
@@ -321,21 +335,5 @@ Illustrious peoples (scientists, mathematicians, physicians, etc...)
 - [Gulp taches automatisées](http://www.alsacreations.com/tuto/lire/1686-introduction-a-gulp.html)
 - [JSencrypt - Encrypt/Decrypt RSA](https://github.com/travist/jsencrypt)
 
-## deals
-- [dealabs](https://www.dealabs.com)
-
-## Books
-- [yan](https://framabin.org/p/?f6e5375737f053f4#)
-
-## Fun
-- [This is a Ruby program that generates Rust program that generates Scala program that generates...](https://github.com/mame/quine-relay)
-
-## Remote
-- [remote work](https://zapier.com/learn/remote-work/)
-- [korben remote help](https://zapier.com/learn/remote-work/)
-
-## Space
-- [ISS visible passes](https://www.heavens-above.com/PassSummary.aspx?satid=25544&lat=43.576&lng=0.7244&loc=Castelnau-Barbarens&alt=232&tz=CET)
-
-## network
-[cooperative](http://www.coopaname.coop/)
+## Wikipedia
+- [French Dumps](https://dumps.wikimedia.org/frwiki/20180220/)
