@@ -4,3 +4,4 @@
 - [Pierre de Fermat](https://fr.wikipedia.org/wiki/Pierre_de_Fermat)
 - [Pierre-Simon de Laplace](https://fr.wikipedia.org/wiki/Pierre-Simon_de_Laplace)
 - [Ray Solomonoff](https://en.wikipedia.org/wiki/Ray_Solomonoff)
+- [Pierre Joseph Proudhon](https://fr.wikipedia.org/wiki/Pierre-Joseph_Proudhon)
