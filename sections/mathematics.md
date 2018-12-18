@@ -5,3 +5,6 @@
 - [homomorphic encryption](https://fr.wikipedia.org/wiki/Chiffrement_homomorphe)
 - [differential privacy](https://fr.wikipedia.org/wiki/Confidentialit%C3%A9_diff%C3%A9rentielle)
 - [Focal point game theory - schelling](https://fr.wikipedia.org/wiki/Point_de_Schelling)
+- [riemann zeta function](https://en.wikipedia.org/wiki/Riemann_zeta_function)
+- [lotka-volterra](https://fr.wikipedia.org/wiki/%C3%89quations_de_pr%C3%A9dation_de_Lotka-Volterra)
+- [L-system Lindenmayer](https://fr.wikipedia.org/wiki/L-Syst%C3%A8me)
