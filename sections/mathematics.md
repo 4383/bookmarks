@@ -11,3 +11,4 @@
 - [markov chains](https://fr.wikipedia.org/wiki/Cha%C3%AEne_de_Markov)
 - [markov chains monte carlo (MCMC)](https://en.wikipedia.org/wiki/Markov_chain_Monte_Carlo)
 - [Bayesian Statistics](https://en.wikipedia.org/wiki/Bayesian_statistics)
+- [Théorie des catastrophes](https://fr.wikipedia.org/wiki/Th%C3%A9orie_des_catastrophes)
