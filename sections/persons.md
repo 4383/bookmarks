@@ -5,3 +5,5 @@
 - [Pierre-Simon de Laplace](https://fr.wikipedia.org/wiki/Pierre-Simon_de_Laplace)
 - [Ray Solomonoff](https://en.wikipedia.org/wiki/Ray_Solomonoff)
 - [Pierre Joseph Proudhon](https://fr.wikipedia.org/wiki/Pierre-Joseph_Proudhon)
+- [Claude Lévi-Strauss](https://fr.wikipedia.org/wiki/Claude_L%C3%A9vi-Strauss)
+- [Pierre Bourdieu](https://fr.wikipedia.org/wiki/Pierre_Bourdieu)
