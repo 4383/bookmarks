@@ -12,3 +12,4 @@
 - [markov chains monte carlo (MCMC)](https://en.wikipedia.org/wiki/Markov_chain_Monte_Carlo)
 - [Bayesian Statistics](https://en.wikipedia.org/wiki/Bayesian_statistics)
 - [Théorie des catastrophes](https://fr.wikipedia.org/wiki/Th%C3%A9orie_des_catastrophes)
+- [Feynam point - PI](https://fr.wikipedia.org/wiki/Point_de_Feynman)
