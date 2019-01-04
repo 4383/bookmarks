@@ -296,6 +296,7 @@ Provisioning and system management tools
 - [WPA2 crraking](https://medium.com/@billbuchanan_27654/the-beginning-of-the-end-of-wpa-2-cracking-wpa-2-just-got-a-whole-lot-easier-55d7775a7a5a)
 - [25 Linux hardening tips](https://www.tecmint.com/linux-server-hardening-security-tips/)
 - [40 Linux hardening tips](https://www.cyberciti.biz/tips/linux-security.html)
+- [security best practices checker - webhint](https://webhint.io/)
 
 ## Remote
 - [remote work](https://zapier.com/learn/remote-work/)
