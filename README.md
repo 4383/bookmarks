@@ -196,6 +196,11 @@ Illustrious peoples (scientists, mathematicians, physicians, etc...)
 
 [Get illustrious persons links](sections/persons.md)
 
+## [Physic](sections/physic.md)
+Physic theorem, property etc...
+
+[Get physic links](sections/physic.md)
+
 ## Psychologie
 - [Haptiques senses](https://fr.wikipedia.org/wiki/Haptique)
 
