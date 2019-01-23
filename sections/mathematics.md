@@ -16,3 +16,5 @@
 
 ## Statistics & probabilities
 - [Simpson paradox](https://fr.wikipedia.org/wiki/Paradoxe_de_Simpson)
+- [Mandelbrot law](https://fr.wikipedia.org/wiki/Loi_de_Mandelbrot)
+- [Pareto Distribution](https://fr.wikipedia.org/wiki/Loi_de_Pareto_(probabilit%C3%A9s))
