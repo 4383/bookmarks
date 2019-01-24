@@ -18,3 +18,4 @@
 - [Simpson paradox](https://fr.wikipedia.org/wiki/Paradoxe_de_Simpson)
 - [Mandelbrot law](https://fr.wikipedia.org/wiki/Loi_de_Mandelbrot)
 - [Pareto Distribution](https://fr.wikipedia.org/wiki/Loi_de_Pareto_(probabilit%C3%A9s))
+- [bayes - pareto](https://math.stackexchange.com/questions/2371501/how-to-integrate-bayes-uniform-pareto)
