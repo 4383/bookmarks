@@ -19,4 +19,6 @@
 - [Mandelbrot law](https://fr.wikipedia.org/wiki/Loi_de_Mandelbrot)
 - [Pareto Distribution](https://fr.wikipedia.org/wiki/Loi_de_Pareto_(probabilit%C3%A9s))
 - [bayes - pareto](https://math.stackexchange.com/questions/2371501/how-to-integrate-bayes-uniform-pareto)
-- [Loi des espérances itérées](https://fr.wikipedia.org/wiki/Esp%C3%A9rance_math%C3%A9matique)
+
+# metaphore
+- [Le hérisson et le renard](https://fr.m.wikipedia.org/wiki/Le_H%C3%A9risson_et_le_Renard)

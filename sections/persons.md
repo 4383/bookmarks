@@ -12,3 +12,7 @@
 - [Karl Popper](https://fr.wikipedia.org/wiki/Karl_Popper)
 - [Henri Poincaré](https://fr.wikipedia.org/wiki/Henri_Poincar%C3%A9)
 - [Friederich Hayek](https://fr.wikipedia.org/wiki/Friedrich_Hayek)
+- [Philip Tetlock](https://en.m.wikipedia.org/wiki/Philip_E._Tetlock)
+- [Jean-Philippe Bouchaud](https://fr.m.wikipedia.org/wiki/Jean-Philippe_Bouchaud)
+- [Spyros Makridakis](https://en.m.wikipedia.org/wiki/Spyros_Makridakis)
+- [Michele Hibon](https://www.researchgate.net/profile/Michele_Hibon)
