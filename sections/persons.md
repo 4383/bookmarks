@@ -16,3 +16,6 @@
 - [Jean-Philippe Bouchaud](https://fr.m.wikipedia.org/wiki/Jean-Philippe_Bouchaud)
 - [Spyros Makridakis](https://en.m.wikipedia.org/wiki/Spyros_Makridakis)
 - [Michele Hibon](https://www.researchgate.net/profile/Michele_Hibon)
+- [Duncan J. Watts](https://en.wikipedia.org/wiki/Duncan_J._Watts)
+- [Albert Laszlo Barabasi](https://en.wikipedia.org/wiki/Albert-L%C3%A1szl%C3%B3_Barab%C3%A1si)
+- [steven Strogatz](https://en.wikipedia.org/wiki/Steven_Strogatz)
