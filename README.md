@@ -245,6 +245,7 @@ Physic theorem, property etc...
 - [beautiful parser with subcommands and argparse](https://chase-seibert.github.io/blog/2014/03/21/python-multilevel-argparse.html)
 - [CIVS condorcet voting system](https://civs.cs.cornell.edu/)
 - [write a book with asciidoc sphinx and rst](https://julien.danjou.info/asciidoc-book-toolchain-released/)
+- [The Bug-O notation](https://overreacted.io/the-bug-o-notation/)
 
 ## [Provisioning](sections/provisioning.md)
 Provisioning and system management tools
