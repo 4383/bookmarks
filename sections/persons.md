@@ -23,3 +23,7 @@
 - [Peter Bevelin](https://fs.blog/peter-bevelin/)
 - [Yechezkel Zilber](https://gilkalai.wordpress.com/2008/05/14/rationality-economics-and-games/)
 - [Nathan Myhrvold](https://fr.wikipedia.org/wiki/Nathan_Myhrvold)
+- [Robert Sapolsky](https://fr.wikipedia.org/wiki/Robert_Sapolsky)
+- [Frank Plumpton Ramsey](https://fr.wikipedia.org/wiki/Frank_Ramsey)
+- [Bruno de Finetti](https://en.wikipedia.org/wiki/Bruno_de_Finetti)
+- [Raphael Douady](https://en.wikipedia.org/wiki/Raphael_Douady)

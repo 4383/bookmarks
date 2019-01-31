@@ -21,6 +21,9 @@
 - [bayes - pareto](https://math.stackexchange.com/questions/2371501/how-to-integrate-bayes-uniform-pareto)
 - [stochocratie](https://fr.wikipedia.org/wiki/Tirage_au_sort_en_politique)
 - [stochastique](https://fr.wikipedia.org/wiki/Effet_stochastique)
+- [Antifragility](https://en.wikipedia.org/wiki/Antifragility#Philosophical_theories)
+- [Mesure Theory](https://fr.wikipedia.org/wiki/Th%C3%A9orie_de_la_mesure)
+- [Iatrogénèse](https://fr.wikipedia.org/wiki/Iatrog%C3%A9n%C3%A8se)
 
 # metaphore
 - [Le hérisson et le renard](https://fr.m.wikipedia.org/wiki/Le_H%C3%A9risson_et_le_Renard)
