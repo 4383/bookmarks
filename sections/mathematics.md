@@ -19,6 +19,8 @@
 - [Mandelbrot law](https://fr.wikipedia.org/wiki/Loi_de_Mandelbrot)
 - [Pareto Distribution](https://fr.wikipedia.org/wiki/Loi_de_Pareto_(probabilit%C3%A9s))
 - [bayes - pareto](https://math.stackexchange.com/questions/2371501/how-to-integrate-bayes-uniform-pareto)
+- [stochocratie](https://fr.wikipedia.org/wiki/Tirage_au_sort_en_politique)
+- [stochastique](https://fr.wikipedia.org/wiki/Effet_stochastique)
 
 # metaphore
 - [Le hérisson et le renard](https://fr.m.wikipedia.org/wiki/Le_H%C3%A9risson_et_le_Renard)

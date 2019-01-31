@@ -19,3 +19,7 @@
 - [Duncan J. Watts](https://en.wikipedia.org/wiki/Duncan_J._Watts)
 - [Albert Laszlo Barabasi](https://en.wikipedia.org/wiki/Albert-L%C3%A1szl%C3%B3_Barab%C3%A1si)
 - [steven Strogatz](https://en.wikipedia.org/wiki/Steven_Strogatz)
+- [Nouriel Roubini](https://fr.wikipedia.org/wiki/Nouriel_Roubini)
+- [Peter Bevelin](https://fs.blog/peter-bevelin/)
+- [Yechezkel Zilber](https://gilkalai.wordpress.com/2008/05/14/rationality-economics-and-games/)
+- [Nathan Myhrvold](https://fr.wikipedia.org/wiki/Nathan_Myhrvold)
