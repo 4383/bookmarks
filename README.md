@@ -101,6 +101,7 @@ Deal with deep learning, machine learning, AI, etc...
 - [Docker compose](http://blog.hypriot.com/post/docker-compose-nodejs-haproxy/)
 - [Docker registry gitlab 2](http://docs.gitlab.com/ce/container_registry/README.html)
 - [Network utilities](https://github.com/4383/netshoot)
+- [Docker regenerate nginx reverse proxy config automatically](https://github.com/deweysasser/docker-web-proxy-generator)
 
 ## Documentation
 - [docbook](https://fr.wikipedia.org/wiki/DocBook)
