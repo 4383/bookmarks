@@ -14,6 +14,11 @@
 - [Théorie des catastrophes](https://fr.wikipedia.org/wiki/Th%C3%A9orie_des_catastrophes)
 - [Feynam point - PI](https://fr.wikipedia.org/wiki/Point_de_Feynman)
 
+### prime number
+- [crible d''érastosthène](https://fr.wikipedia.org/wiki/Crible_d%27%C3%89ratosth%C3%A8ne)
+- [nombre de mersenne premier](https://fr.wikipedia.org/wiki/Nombre_de_Mersenne_premier)
+- [ulam spirale](https://fr.wikipedia.org/wiki/Spirale_d%27Ulam)
+
 ## Statistics & probabilities
 - [Simpson paradox](https://fr.wikipedia.org/wiki/Paradoxe_de_Simpson)
 - [Mandelbrot law](https://fr.wikipedia.org/wiki/Loi_de_Mandelbrot)
