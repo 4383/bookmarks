@@ -30,5 +30,9 @@
 - [Mesure Theory](https://fr.wikipedia.org/wiki/Th%C3%A9orie_de_la_mesure)
 - [Iatrogénèse](https://fr.wikipedia.org/wiki/Iatrog%C3%A9n%C3%A8se)
 
+## Chaos
+- [décallage de bernoulli](https://fr.wikipedia.org/wiki/D%C3%A9calage_de_Bernoulli_(math%C3%A9matiques))
+- [baker's map](https://en.wikipedia.org/wiki/Baker%27s_map)
+
 # metaphore
 - [Le hérisson et le renard](https://fr.m.wikipedia.org/wiki/Le_H%C3%A9risson_et_le_Renard)
