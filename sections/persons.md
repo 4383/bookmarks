@@ -27,3 +27,7 @@
 - [Frank Plumpton Ramsey](https://fr.wikipedia.org/wiki/Frank_Ramsey)
 - [Bruno de Finetti](https://en.wikipedia.org/wiki/Bruno_de_Finetti)
 - [Raphael Douady](https://en.wikipedia.org/wiki/Raphael_Douady)
+- [Harold Dwight Lasswell](https://fr.wikipedia.org/wiki/Harold_Dwight_Lasswell)
+- [Carl Hovland](https://fr.wikipedia.org/wiki/Carl_Hovland)
+- [Kurt Lewin](https://fr.wikipedia.org/wiki/Kurt_Lewin)
+- [Paul Lazarsfeld](https://fr.wikipedia.org/wiki/Paul_Lazarsfeld)

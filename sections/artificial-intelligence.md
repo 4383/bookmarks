@@ -20,3 +20,4 @@
 - [Lore - Python library for deep learning](https://github.com/instacart/lore)
 - [build deep learning model](https://tech.instacart.com/how-to-build-a-deep-learning-model-in-15-minutes-a3684c6f71e)
 - [Deep Learning Toolkit for Natural Language Processing](https://medium.com/apache-mxnet/gluonnlp-deep-learning-toolkit-for-natural-language-processing-98e684131c8a)
+- [Hex game and AI](https://www.supinfo.com/articles/single/3447-introduction-intelligence-artificielle-travers-jeu-hex-java-partie-1-2)

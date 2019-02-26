@@ -305,6 +305,11 @@ Provisioning and system management tools
 - [40 Linux hardening tips](https://www.cyberciti.biz/tips/linux-security.html)
 - [security best practices checker - webhint](https://webhint.io/)
 
+## [Sociology](sections/sociology.md)
+Sociology, social, ethnology and anthropology links
+
+[Get sociology links](sections/sociology.md)
+
 ## Remote
 - [remote work](https://zapier.com/learn/remote-work/)
 
