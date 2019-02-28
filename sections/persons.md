@@ -31,3 +31,4 @@
 - [Carl Hovland](https://fr.wikipedia.org/wiki/Carl_Hovland)
 - [Kurt Lewin](https://fr.wikipedia.org/wiki/Kurt_Lewin)
 - [Paul Lazarsfeld](https://fr.wikipedia.org/wiki/Paul_Lazarsfeld)
+- [Giuseppe Peano](https://fr.wikipedia.org/wiki/Giuseppe_Peano)
