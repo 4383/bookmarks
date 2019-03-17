@@ -26,6 +26,7 @@ Deal with deep learning, machine learning, AI, etc...
 
 ## Books
 - [yan](https://framabin.org/p/?f6e5375737f053f4#)
+- [open books](https://www.openbookpublishers.com/)
 
 ## Buisness
 - [Zapier financial](https://www.groovehq.com/blog/zapier-interview-with-wade-foster)
