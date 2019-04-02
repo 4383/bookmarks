@@ -6,6 +6,10 @@ My common bookmarks and useful links.
 
 Import your own from google bookmarks [with this script](https://gist.github.com/4383/1ccd5efe6d84d140da6c56689ac64a1e).
 
+Also you can find [my personal notes and drafts available here](https://herve.beraud.io/notes/).
+
+For more informations about me [visite my website](https://herve.beraud.io/).
+
 ## Architecture
 - [Spotify technical blog](https://labs.spotify.com/page/3/)
 - [Haveged entropy](https://www.skyminds.net/serveur-dedie-produire-une-meilleure-reserve-dentropie-avec-haveged/)
@@ -256,6 +260,11 @@ Provisioning and system management tools
 
 ## Regex
 - [Regex](http://korben.info/regex101-loutil-ultime-trouver-creer-tester-comprendre-regex.html?utm_source=feedburner&amp;utm_medium=feed&amp;utm_campaign=Feed%3A+KorbensBlog-UpgradeYourMind+(Korben&#39;s+Blog+-+Upgrade+Your+Mind))
+
+## [Request For Comments (RFC)](sections/rfc.md)
+Useful informations for RFC submitters like tooling, process, etc...
+
+[Get RFC links](sections/rfc.md)
 
 ## Security
 - [Blog](http://tiwim.github.io/)
