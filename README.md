@@ -44,6 +44,9 @@ Deal with deep learning, machine learning, AI, etc...
 ## Data
 - [Big data analyze](http://spark.apache.org/)
 
+## DIY
+- [Gravity lamp](https://rimstar.org/science_electronics_projects/gravity_light_homemade_diy.htm)
+
 ## Democraty
 - [Condorcet Internet Voting Service](https://civs.cs.cornell.edu/civs_create.html)
 
