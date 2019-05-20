@@ -255,6 +255,7 @@ Physic theorem, property etc...
 - [CIVS condorcet voting system](https://civs.cs.cornell.edu/)
 - [write a book with asciidoc sphinx and rst](https://julien.danjou.info/asciidoc-book-toolchain-released/)
 - [The Bug-O notation](https://overreacted.io/the-bug-o-notation/)
+- [algorithms by Raymond Hettinger (puzzle, SAT solver, etc...)](https://rhettinger.github.io/overview.html)
 
 ## [Provisioning](sections/provisioning.md)
 Provisioning and system management tools
