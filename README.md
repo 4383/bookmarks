@@ -256,6 +256,7 @@ Physic theorem, property etc...
 - [write a book with asciidoc sphinx and rst](https://julien.danjou.info/asciidoc-book-toolchain-released/)
 - [The Bug-O notation](https://overreacted.io/the-bug-o-notation/)
 - [algorithms by Raymond Hettinger (puzzle, SAT solver, etc...)](https://rhettinger.github.io/overview.html)
+- [eventlet green thread](https://stackoverflow.com/questions/32452110/does-eventlet-do-monkey-patch-for-threading-module)
 
 ## [Provisioning](sections/provisioning.md)
 Provisioning and system management tools
