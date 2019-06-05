@@ -141,6 +141,10 @@ Continuous integration and continuous deployment workflow, tools, and best pract
 ## Iot
 - [Phone messaging](https://docs.pushbullet.com/)
 
+## IRC
+- [bounce irc with zrc](https://wiki.znc.in/ZNC)
+- [configure weechat](https://hugo.md/post/the-perfect-weechat-setup-2/)
+
 ## Linux
 - [Chroot debian](http://debootstrap/)
 - [Keylogger x11](http://blog.rom1v.com/2011/11/keylogger-sous-gnulinux-enregistrer-les-touches-tapees-au-clavier/)
