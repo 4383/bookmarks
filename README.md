@@ -261,6 +261,7 @@ Physic theorem, property etc...
 - [The Bug-O notation](https://overreacted.io/the-bug-o-notation/)
 - [algorithms by Raymond Hettinger (puzzle, SAT solver, etc...)](https://rhettinger.github.io/overview.html)
 - [eventlet green thread](https://stackoverflow.com/questions/32452110/does-eventlet-do-monkey-patch-for-threading-module)
+- [Bayes with python and PyMC](https://pymc-devs.github.io/pymc/README.html)
 
 ## [Provisioning](sections/provisioning.md)
 Provisioning and system management tools
