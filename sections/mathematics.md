@@ -29,6 +29,7 @@
 - [Antifragility](https://en.wikipedia.org/wiki/Antifragility#Philosophical_theories)
 - [Mesure Theory](https://fr.wikipedia.org/wiki/Th%C3%A9orie_de_la_mesure)
 - [Iatrogénèse](https://fr.wikipedia.org/wiki/Iatrog%C3%A9n%C3%A8se)
+- [Queueing theory](https://fr.wikipedia.org/wiki/Th%C3%A9orie_des_files_d%27attente)
 
 ## Chaos
 - [décallage de bernoulli](https://fr.wikipedia.org/wiki/D%C3%A9calage_de_Bernoulli_(math%C3%A9matiques))
