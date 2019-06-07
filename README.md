@@ -262,6 +262,7 @@ Physic theorem, property etc...
 - [algorithms by Raymond Hettinger (puzzle, SAT solver, etc...)](https://rhettinger.github.io/overview.html)
 - [eventlet green thread](https://stackoverflow.com/questions/32452110/does-eventlet-do-monkey-patch-for-threading-module)
 - [Bayes with python and PyMC](https://pymc-devs.github.io/pymc/README.html)
+- [Concurrency and coroutines](https://bytes.yingw787.com/posts/2019/02/09/concurrency_with_python_csp_and_coroutines/)
 
 ## [Provisioning](sections/provisioning.md)
 Provisioning and system management tools
