@@ -263,6 +263,8 @@ Physic theorem, property etc...
 - [eventlet green thread](https://stackoverflow.com/questions/32452110/does-eventlet-do-monkey-patch-for-threading-module)
 - [Bayes with python and PyMC](https://pymc-devs.github.io/pymc/README.html)
 - [Concurrency and coroutines](https://bytes.yingw787.com/posts/2019/02/09/concurrency_with_python_csp_and_coroutines/)
+- [recursive deeply delete - stackoverflow](https://stackoverflow.com/questions/56228799/python-hangs-indefinitely-trying-to-delete-deeply-recursive-object)
+- [recursive deeply delete - Python-Dev](stackoverflo://mail.python.org/archives/list/python-dev@python.org/thread/EJZ5GW47HUI3VMSXYL4S4MNZEGHUM4KX/#YZIG3RZKM4XSTM3PYPDAPG3UHOB5QKM4t)
 
 ## [Provisioning](sections/provisioning.md)
 Provisioning and system management tools
