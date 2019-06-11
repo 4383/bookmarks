@@ -121,6 +121,11 @@ Deal with deep learning, machine learning, AI, etc...
 - [ffom](http://www.endvawnow.org/fr/articles/1180-analyse-ffom-.html?next=1181)
 - [Incubateur](https://www.yaal.fr/)
 
+## [Erlang](sections/erlang.md)
+Resources about erlang (the best way to learn erlang)
+
+[Get erlang links](sections/erlang.md)
+
 ## Favicon
 - [Favicon generator](https://realfavicongenerator.net/)
 - [utf8 table](https://unicode-table.com/en/#control-pictures)
