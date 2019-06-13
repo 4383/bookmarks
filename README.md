@@ -270,6 +270,8 @@ Physic theorem, property etc...
 - [Concurrency and coroutines](https://bytes.yingw787.com/posts/2019/02/09/concurrency_with_python_csp_and_coroutines/)
 - [recursive deeply delete - stackoverflow](https://stackoverflow.com/questions/56228799/python-hangs-indefinitely-trying-to-delete-deeply-recursive-object)
 - [recursive deeply delete - Python-Dev](stackoverflo://mail.python.org/archives/list/python-dev@python.org/thread/EJZ5GW47HUI3VMSXYL4S4MNZEGHUM4KX/#YZIG3RZKM4XSTM3PYPDAPG3UHOB5QKM4t)
+- [Shipping a Python C extension + a library it uses as source](https://mail.python.org/archives/list/distutils-sig@python.org/message/VB5DIPW3CUQVKBLXSDACRP23FAZWJPLS/)
+- [python twitter bot with tweepy](https://realpython.com/twitter-bot-python-tweepy/)
 
 ## [Provisioning](sections/provisioning.md)
 Provisioning and system management tools
