@@ -334,6 +334,7 @@ Useful informations for RFC submitters like tooling, process, etc...
 - [25 Linux hardening tips](https://www.tecmint.com/linux-server-hardening-security-tips/)
 - [40 Linux hardening tips](https://www.cyberciti.biz/tips/linux-security.html)
 - [security best practices checker - webhint](https://webhint.io/)
+- [pgp paperkey](https://www.jabberwocky.com/software/paperkey/)
 
 ## [Sociology](sections/sociology.md)
 Sociology, social, ethnology and anthropology links
