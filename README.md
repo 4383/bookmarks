@@ -336,6 +336,13 @@ Useful informations for RFC submitters like tooling, process, etc...
 - [security best practices checker - webhint](https://webhint.io/)
 - [pgp paperkey](https://www.jabberwocky.com/software/paperkey/)
 
+## High Availability (HA)
+- [resource-agents heartbeat podman](https://github.com/ClusterLabs/resource-agents/blob/master/heartbeat/podman)
+- [resource-agents](https://github.com/ClusterLabs/resource-agents)
+- [cluster lab](https://clusterlabs.org/)
+- [OpenAIS](https://www.openhub.net/p/openAIS)
+- [resource-agents dev guide](https://github.com/ClusterLabs/resource-agents/blob/master/doc/dev-guides/ra-dev-guide.asc)
+
 ## [Sociology](sections/sociology.md)
 Sociology, social, ethnology and anthropology links
 
