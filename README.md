@@ -44,6 +44,11 @@ Deal with deep learning, machine learning, AI, etc...
 ## Data
 - [Big data analyze](http://spark.apache.org/)
 
+## [Democraty](sections/democraty.md)
+Democraty methods, concepts, etc...
+
+[Get democraty links](sections/democraty.md)
+
 ## DIY
 - [Gravity lamp](https://rimstar.org/science_electronics_projects/gravity_light_homemade_diy.htm)
 
@@ -196,8 +201,10 @@ Mathematics (theorems, etc...)
 - [Portage package list](http://portroach.openbsd.org/the%20openbsd%20ports%20mailing-list%20%3Cports@openbsd.org%3E.html)
 
 ## Openstack
-- [Network management](https://www.weave.works/)
-- [Openstack 1 server](http://docs.openstack.org/developer/devstack/guides/single-machine.html)
+Openstack tools, post, articles, etc...
+
+[Get Openstack links](sections/openstack.md)
+
 
 ## Open Container Initiative
 - [Many way to build container images without docker](https://www.projectatomic.io/blog/2018/03/the-many-ways-to-build-oci-images/)
@@ -219,8 +226,10 @@ Physic theorem, property etc...
 
 [Get physic links](sections/physic.md)
 
-## Psychologie
-- [Haptiques senses](https://fr.wikipedia.org/wiki/Haptique)
+## [Psychology](sections/psychology.md)
+psychology concepts, etc...
+
+[Get psychology links](sections/psychology.md)
 
 ## Python
 - [request bind ip](https://stackoverflow.com/questions/12585317/requests-bind-to-an-ip)
@@ -335,6 +344,8 @@ Useful informations for RFC submitters like tooling, process, etc...
 - [40 Linux hardening tips](https://www.cyberciti.biz/tips/linux-security.html)
 - [security best practices checker - webhint](https://webhint.io/)
 - [pgp paperkey](https://www.jabberwocky.com/software/paperkey/)
+- [pass - password manager](https://www.passwordstore.org/)
+- [stop using RSA](https://blog.trailofbits.com/2019/07/08/fuck-rsa/)
 
 ## High Availability (HA)
 - [resource-agents heartbeat podman](https://github.com/ClusterLabs/resource-agents/blob/master/heartbeat/podman)
