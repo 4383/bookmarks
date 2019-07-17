@@ -346,6 +346,7 @@ Useful informations for RFC submitters like tooling, process, etc...
 - [pgp paperkey](https://www.jabberwocky.com/software/paperkey/)
 - [pass - password manager](https://www.passwordstore.org/)
 - [stop using RSA](https://blog.trailofbits.com/2019/07/08/fuck-rsa/)
+- [crack password with AWS](https://medium.com/hackernoon/20-hours-18-and-11-million-passwords-cracked-c4513f61fdb1)
 
 ## High Availability (HA)
 - [resource-agents heartbeat podman](https://github.com/ClusterLabs/resource-agents/blob/master/heartbeat/podman)
