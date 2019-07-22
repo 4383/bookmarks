@@ -363,6 +363,11 @@ Sociology, social, ethnology and anthropology links
 
 [Get sociology links](sections/sociology.md)
 
+## [Sport](sections/sport.md)
+Sport links
+
+[Get sport links](sections/sport.md)
+
 ## Remote
 - [remote work](https://zapier.com/learn/remote-work/)
 
