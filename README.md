@@ -281,6 +281,7 @@ psychology concepts, etc...
 - [recursive deeply delete - Python-Dev](stackoverflo://mail.python.org/archives/list/python-dev@python.org/thread/EJZ5GW47HUI3VMSXYL4S4MNZEGHUM4KX/#YZIG3RZKM4XSTM3PYPDAPG3UHOB5QKM4t)
 - [Shipping a Python C extension + a library it uses as source](https://mail.python.org/archives/list/distutils-sig@python.org/message/VB5DIPW3CUQVKBLXSDACRP23FAZWJPLS/)
 - [python twitter bot with tweepy](https://realpython.com/twitter-bot-python-tweepy/)
+- [python decorators](https://www.artima.com/weblogs/viewpost.jsp?thread=240845#decorator-functions-with-decorator-arguments)
 
 ## [Provisioning](sections/provisioning.md)
 Provisioning and system management tools
