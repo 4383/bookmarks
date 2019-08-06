@@ -349,6 +349,13 @@ Useful informations for RFC submitters like tooling, process, etc...
 - [stop using RSA](https://blog.trailofbits.com/2019/07/08/fuck-rsa/)
 - [crack password with AWS](https://medium.com/hackernoon/20-hours-18-and-11-million-passwords-cracked-c4513f61fdb1)
 
+## Sosreport
+
+- [redhat mojo doc](https://mojo.redhat.com/docs/DOC-1195106)
+- [read sosreport with xsos](https://github.com/ryran/xsos)
+- [openstack & sosreport](https://docs.openstack.org/tripleo-docs/latest/install/troubleshooting/troubleshooting-log-and-status-capture.html)
+- [create a sosreport](https://access.redhat.com/solutions/3592)
+
 ## High Availability (HA)
 - [resource-agents heartbeat podman](https://github.com/ClusterLabs/resource-agents/blob/master/heartbeat/podman)
 - [resource-agents](https://github.com/ClusterLabs/resource-agents)

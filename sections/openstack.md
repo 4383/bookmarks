@@ -4,3 +4,4 @@
 - [bindep](https://docs.openstack.org/infra/bindep/readme.html)
 - [Network management](https://www.weave.works/)
 - [Openstack 1 server](http://docs.openstack.org/developer/devstack/guides/single-machine.html)
+- [openstack command line cheat sheet](https://www.golinuxcloud.com/openstack-command-line-cheat-sheet/)
