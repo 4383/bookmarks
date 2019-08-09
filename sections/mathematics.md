@@ -35,5 +35,10 @@
 - [décallage de bernoulli](https://fr.wikipedia.org/wiki/D%C3%A9calage_de_Bernoulli_(math%C3%A9matiques))
 - [baker's map](https://en.wikipedia.org/wiki/Baker%27s_map)
 
-# metaphore
+## metaphore
 - [Le hérisson et le renard](https://fr.m.wikipedia.org/wiki/Le_H%C3%A9risson_et_le_Renard)
+
+## Network
+- [erdos's number](https://fr.wikipedia.org/wiki/Nombre_d%27Erd%C5%91s)
+- [degree of separation](https://en.wikipedia.org/wiki/Six_degrees_of_separation)
+- [dunbar's number](https://en.wikipedia.org/wiki/Dunbar%27s_number)
