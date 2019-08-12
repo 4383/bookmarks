@@ -282,6 +282,10 @@ psychology concepts, etc...
 - [Shipping a Python C extension + a library it uses as source](https://mail.python.org/archives/list/distutils-sig@python.org/message/VB5DIPW3CUQVKBLXSDACRP23FAZWJPLS/)
 - [python twitter bot with tweepy](https://realpython.com/twitter-bot-python-tweepy/)
 - [python decorators](https://www.artima.com/weblogs/viewpost.jsp?thread=240845#decorator-functions-with-decorator-arguments)
+- [Guido PEG parser (part 1)](https://medium.com/@gvanrossum_83706/peg-parsers-7ed72462f97c)
+- [Guido PEG parser (part 2)](https://medium.com/@gvanrossum_83706/building-a-peg-parser-d4869b5958fb)
+- [Guido PEG parser (part 3)](https://medium.com/@gvanrossum_83706/generating-a-peg-parser-520057d642a9)
+- [Guido PEG parser (part 4)](https://medium.com/@gvanrossum_83706/visualizing-peg-parsing-93a36f259423)
 
 ## [Provisioning](sections/provisioning.md)
 Provisioning and system management tools
