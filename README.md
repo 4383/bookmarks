@@ -403,6 +403,7 @@ Sport links
 
 ## Virtualization
 - [use kvm with command line](http://xmodulo.com/use-kvm-command-line-debian-ubuntu.html)
+- [VirtualBox images (VDI format)](https://www.osboxes.org/virtualbox-images/)
 
 ## Watch
 - [Gulp taches automatisées](http://www.alsacreations.com/tuto/lire/1686-introduction-a-gulp.html)
