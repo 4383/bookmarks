@@ -383,6 +383,7 @@ Sport links
 ## RabbitMQ
 
 - [RabbitMQ : A Cloud based Message Oriented Middleware](https://techietweak.wordpress.com/2015/08/14/rabbitmq-a-cloud-based-message-oriented-middleware/)
+- [Clustering RabbitMQ](https://www.rabbitmq.com/clustering.html#transcript)
 
 ## Remote
 - [remote work](https://zapier.com/learn/remote-work/)
