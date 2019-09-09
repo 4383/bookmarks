@@ -380,6 +380,10 @@ Sport links
 
 [Get sport links](sections/sport.md)
 
+## RabbitMQ
+
+- [RabbitMQ : A Cloud based Message Oriented Middleware](https://techietweak.wordpress.com/2015/08/14/rabbitmq-a-cloud-based-message-oriented-middleware/)
+
 ## Remote
 - [remote work](https://zapier.com/learn/remote-work/)
 
