@@ -5,3 +5,4 @@
 - [biais narratif](http://fr.psy.co/quest-ce-que-le-biais-narratif.html)
 - [Haptiques senses](https://fr.wikipedia.org/wiki/Haptique)
 - [Large-scale cooperation driven by reputation](https://royalsocietypublishing.org/doi/full/10.1098/rsos.190991)
+- [observation bias in benchmark](http://matthewrocklin.com/blog/work/2017/03/09/biased-benchmarks)
