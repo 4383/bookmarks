@@ -16,7 +16,7 @@
 - [Math et tiques](https://maths-et-tiques.fr/)
 
 ### prime number
-- [crible d''érastosthène](https://fr.wikipedia.org/wiki/Crible_d%27%C3%89ratosth%C3%A8ne)
+- [crible d'érastosthène](https://fr.wikipedia.org/wiki/Crible_d%27%C3%89ratosth%C3%A8ne)
 - [nombre de mersenne premier](https://fr.wikipedia.org/wiki/Nombre_de_Mersenne_premier)
 - [ulam spirale](https://fr.wikipedia.org/wiki/Spirale_d%27Ulam)
 
@@ -31,6 +31,8 @@
 - [Mesure Theory](https://fr.wikipedia.org/wiki/Th%C3%A9orie_de_la_mesure)
 - [Iatrogénèse](https://fr.wikipedia.org/wiki/Iatrog%C3%A9n%C3%A8se)
 - [Queueing theory](https://fr.wikipedia.org/wiki/Th%C3%A9orie_des_files_d%27attente)
+- [Probability distribution](https://fr.wikipedia.org/wiki/Loi_de_probabilit%C3%A9)
+- [Lévy flight](https://en.wikipedia.org/wiki/L%C3%A9vy_flight)
 
 ## Chaos
 - [décallage de bernoulli](https://fr.wikipedia.org/wiki/D%C3%A9calage_de_Bernoulli_(math%C3%A9matiques))

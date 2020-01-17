@@ -155,6 +155,9 @@ Continuous integration and continuous deployment workflow, tools, and best pract
 - [bounce irc with zrc](https://wiki.znc.in/ZNC)
 - [configure weechat](https://hugo.md/post/the-perfect-weechat-setup-2/)
 
+## Languages (speaking/reading)
+- [Memorize Kanjis](https://www.potiondevie.fr/memoriser-les-kanjis/)
+
 ## Linux
 - [Chroot debian](http://debootstrap/)
 - [Keylogger x11](http://blog.rom1v.com/2011/11/keylogger-sous-gnulinux-enregistrer-les-touches-tapees-au-clavier/)
@@ -353,6 +356,9 @@ Useful informations for RFC submitters like tooling, process, etc...
 - [pass - password manager](https://www.passwordstore.org/)
 - [stop using RSA](https://blog.trailofbits.com/2019/07/08/fuck-rsa/)
 - [crack password with AWS](https://medium.com/hackernoon/20-hours-18-and-11-million-passwords-cracked-c4513f61fdb1)
+
+## Shell
+- [String manipulation](https://www.tldp.org/LDP/abs/html/string-manipulation.html)
 
 ## Sosreport
 
