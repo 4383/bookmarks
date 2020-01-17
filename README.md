@@ -161,6 +161,7 @@ Continuous integration and continuous deployment workflow, tools, and best pract
 - [Htop explain](https://peteris.rocks/blog/htop/)
 - [grep commands](http://www.linuxnix.com/grep-command-regular-expressions-examples-iii/)
 - [systemd etc...](http://0pointer.de/blog/projects/)
+- [Configure kernel with CLI and grubby](https://fedoramagazine.org/setting-kernel-command-line-arguments-with-fedora-30/)
 
 ## Microservices
 - [Microservices reverse proxy](http://traefik.io/)
