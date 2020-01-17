@@ -165,6 +165,7 @@ Continuous integration and continuous deployment workflow, tools, and best pract
 - [grep commands](http://www.linuxnix.com/grep-command-regular-expressions-examples-iii/)
 - [systemd etc...](http://0pointer.de/blog/projects/)
 - [Configure kernel with CLI and grubby](https://fedoramagazine.org/setting-kernel-command-line-arguments-with-fedora-30/)
+- [Introduction to systemctl](https://www.linode.com/docs/quick-answers/linux-essentials/introduction-to-systemctl/)
 
 ## Microservices
 - [Microservices reverse proxy](http://traefik.io/)
@@ -290,11 +291,17 @@ psychology concepts, etc...
 - [Guido PEG parser (part 2)](https://medium.com/@gvanrossum_83706/building-a-peg-parser-d4869b5958fb)
 - [Guido PEG parser (part 3)](https://medium.com/@gvanrossum_83706/generating-a-peg-parser-520057d642a9)
 - [Guido PEG parser (part 4)](https://medium.com/@gvanrossum_83706/visualizing-peg-parsing-93a36f259423)
+- [How to mock stdout runtime attribute of subprocess.Popen](https://blog.samuel.domains/blog/programming/how-to-mock-stdout-runtime-attribute-of-subprocess-popen-python)
+- [Unit test on python: How to mock out stdout and stderr](https://mondwan.blogspot.com/2017/05/unit-test-on-python-how-to-mock-out.html)
 
 ## [Provisioning](sections/provisioning.md)
 Provisioning and system management tools
 
 [Get provisioning links](sections/provisioning.md)
+
+## Red Hat
+
+- [Updating your container image source](https://access.redhat.com/documentation/en-us/red_hat_openstack_platform/13/html/keeping_red_hat_openstack_platform_updated/updating_your_container_image_source#container-image-preparation-command-usage)
 
 ## Regex
 - [Regex](http://korben.info/regex101-loutil-ultime-trouver-creer-tester-comprendre-regex.html?utm_source=feedburner&amp;utm_medium=feed&amp;utm_campaign=Feed%3A+KorbensBlog-UpgradeYourMind+(Korben&#39;s+Blog+-+Upgrade+Your+Mind))

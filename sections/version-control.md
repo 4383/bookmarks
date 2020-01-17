@@ -49,3 +49,7 @@
 - [Gitlab runner debug](https://gitlab.com/gitlab-org/gitlab-ce/issues/3317)
 - [Gitlab docker letsencrypt](https://blog.ouvrard.it/2016/03/12/gitlab-docker-lets-encrypt/)
 - [Docker registry gitlab 2](http://docs.gitlab.com/ce/container_registry/README.html)
+
+## Others
+
+- [Gitea self hosted git service](https://docs.gitea.io/en-us/)
