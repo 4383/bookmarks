@@ -49,11 +49,8 @@ Democraty methods, concepts, etc...
 
 [Get democraty links](sections/democraty.md)
 
-## DIY
-- [Gravity lamp](https://rimstar.org/science_electronics_projects/gravity_light_homemade_diy.htm)
-
-## Democraty
-- [Condorcet Internet Voting Service](https://civs.cs.cornell.edu/civs_create.html)
+## Deep Learning
+- [Camouflage from face detection.](https://cvdazzle.com/)
 
 ## Devops
 - [Devops tuto](http://trainingdevops.com/insights-and-tutorials)
@@ -63,6 +60,9 @@ Democraty methods, concepts, etc...
 
 ## Divertissements
 - [Tee-shirts](https://www.riptapparel.com/collections/mens-t-shirts)
+
+## DIY
+- [Gravity lamp](https://rimstar.org/science_electronics_projects/gravity_light_homemade_diy.htm)
 
 ## Django
 - [Docker django](http://michal.karzynski.pl/blog/2015/04/19/packaging-django-applications-as-docker-container-images/)
