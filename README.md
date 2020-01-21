@@ -44,6 +44,15 @@ Deal with deep learning, machine learning, AI, etc...
 ## Data
 - [Big data analyze](http://spark.apache.org/)
 
+## Debug
+
+- [Core dump file analysis](https://stackoverflow.com/questions/5115613/core-dump-file-analysis)
+- [debug rabbitmq](https://herve.beraud.io/debug/sections/rabbitmq.html)
+- [What Every C Programmer Should Know About Undefined Behavior #1/3](http://blog.llvm.org/2011/05/what-every-c-programmer-should-know.html)
+- [Linux performances (BPF)](http://www.brendangregg.com/linuxperf.html)
+- [Secrets of the Ftrace function tracer](https://lwn.net/Articles/370423/)
+- [GDB: GNU debugger](https://vstinner.readthedocs.io/gdb.html)
+
 ## [Democraty](sections/democraty.md)
 Democraty methods, concepts, etc...
 
@@ -293,11 +302,18 @@ psychology concepts, etc...
 - [Guido PEG parser (part 4)](https://medium.com/@gvanrossum_83706/visualizing-peg-parsing-93a36f259423)
 - [How to mock stdout runtime attribute of subprocess.Popen](https://blog.samuel.domains/blog/programming/how-to-mock-stdout-runtime-attribute-of-subprocess-popen-python)
 - [Unit test on python: How to mock out stdout and stderr](https://mondwan.blogspot.com/2017/05/unit-test-on-python-how-to-mock-out.html)
+- [Fake PyPi package with malicious code](https://github.com/dateutil/dateutil/issues/984)
+- [Multithreading Programming](https://vstinner.readthedocs.io/threads.html)
+- [STDLIB symtable — Access to the compiler’s symbol tables](https://docs.python.org/3/library/symtable.html)
 
 ## [Provisioning](sections/provisioning.md)
 Provisioning and system management tools
 
 [Get provisioning links](sections/provisioning.md)
+
+## Programming
+
+- [(history of unit test)] Simple Smalltalk Testing: With Patterns](https://web.archive.org/web/20150315073817/http://www.xprogramming.com/testfram.htm)
 
 ## Red Hat
 
