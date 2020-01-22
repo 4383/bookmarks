@@ -305,6 +305,7 @@ psychology concepts, etc...
 - [Fake PyPi package with malicious code](https://github.com/dateutil/dateutil/issues/984)
 - [Multithreading Programming](https://vstinner.readthedocs.io/threads.html)
 - [STDLIB symtable — Access to the compiler’s symbol tables](https://docs.python.org/3/library/symtable.html)
+- [Creating a simple python pip repository](https://jpmens.net/2020/01/16/creating-a-simple-python-pip-repository/)
 
 ## [Provisioning](sections/provisioning.md)
 Provisioning and system management tools
