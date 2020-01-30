@@ -380,6 +380,7 @@ Useful informations for RFC submitters like tooling, process, etc...
 - [pass - password manager](https://www.passwordstore.org/)
 - [stop using RSA](https://blog.trailofbits.com/2019/07/08/fuck-rsa/)
 - [crack password with AWS](https://medium.com/hackernoon/20-hours-18-and-11-million-passwords-cracked-c4513f61fdb1)
+- [Google OSS-Fuzz - continuous fuzzing of open source software.](https://github.com/google/oss-fuzz)
 
 ## Shell
 - [String manipulation](https://www.tldp.org/LDP/abs/html/string-manipulation.html)
