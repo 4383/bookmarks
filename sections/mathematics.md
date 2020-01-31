@@ -45,3 +45,7 @@
 - [erdos's number](https://fr.wikipedia.org/wiki/Nombre_d%27Erd%C5%91s)
 - [degree of separation](https://en.wikipedia.org/wiki/Six_degrees_of_separation)
 - [dunbar's number](https://en.wikipedia.org/wiki/Dunbar%27s_number)
+
+## Geometry
+- [Polyèdre](https://fr.wikipedia.org/wiki/Poly%C3%A8dre)
+- [Geometry shapes](https://www.dcode.fr/figures-geometriques)
