@@ -4,6 +4,7 @@
 - [Network management](https://www.weave.works/)
 - [Openstack 1 server](http://docs.openstack.org/developer/devstack/guides/single-machine.html)
 - [openstack command line cheat sheet](https://www.golinuxcloud.com/openstack-command-line-cheat-sheet/)
+- [doc guideline](https://specs.openstack.org/openstack/docs-specs/specs/pike/os-manuals-migration.html)
 
 ## Reviews
 - [RPM packaging status](https://toabctl.de/openstack/rpm-packaging-status-ussuri.html)
