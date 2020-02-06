@@ -10,6 +10,9 @@ Also you can find [my personal notes and drafts available here](https://herve.be
 
 For more informations about me [visite my website](https://herve.beraud.io/).
 
+## Algorithms
+- [Pinot aggregation](https://engineering.linkedin.com/blog/2019/06/star-tree-index--powering-fast-aggregations-on-pinot)
+
 ## Architecture
 - [Spotify technical blog](https://labs.spotify.com/page/3/)
 - [Haveged entropy](https://www.skyminds.net/serveur-dedie-produire-une-meilleure-reserve-dentropie-avec-haveged/)
@@ -175,6 +178,7 @@ Continuous integration and continuous deployment workflow, tools, and best pract
 - [systemd etc...](http://0pointer.de/blog/projects/)
 - [Configure kernel with CLI and grubby](https://fedoramagazine.org/setting-kernel-command-line-arguments-with-fedora-30/)
 - [Introduction to systemctl](https://www.linode.com/docs/quick-answers/linux-essentials/introduction-to-systemctl/)
+- [Linkedin - upgrading to RHEL7 with minimal interruption](https://engineering.linkedin.com/blog/2020/upgrading-to-rhel7-with-minimal-interruptions)
 
 ## Microservices
 - [Microservices reverse proxy](http://traefik.io/)
