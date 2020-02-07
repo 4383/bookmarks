@@ -407,7 +407,7 @@ Useful informations for RFC submitters like tooling, process, etc...
 - [pacemaker developer guide](https://clusterlabs.org/pacemaker/doc/en-US/Pacemaker/2.0/html/Pacemaker_Development/index.html)
 
 ## [Sociology](sections/sociology.md)
-Sociology, social, ethnology and anthropology links
+Sociology, social, ethnology and anthropology linksyy
 
 [Get sociology links](sections/sociology.md)
 
@@ -462,3 +462,8 @@ Sport links
 
 ## Wikipedia
 - [French Dumps](https://dumps.wikimedia.org/frwiki/20180220/)
+
+## [Youtube](sections/youtube)
+A list of interesting youtube channels
+
+[Get youtubes channels links](sections/youtube)
