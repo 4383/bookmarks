@@ -27,6 +27,7 @@
 - [python 3 status](https://wiki.openstack.org/wiki/Python3#Python_3_Status_of_OpenStack_projects)
 - [release reviews](https://review.openstack.org/#/q/project:openstack/releases+status:open)
 - [stackalytic - reviews average](http://stackalytics.com/)
+- [Moises's oslo.config speak at fosdem](https://fosdem.org/2020/schedule/event/security_protecting_plaintext_secrets_in_configuration_files/)
 
 ## Testing
 - [understand the openstack CI system](http://www.joinfu.com/2014/01/understanding-the-openstack-ci-system/)
