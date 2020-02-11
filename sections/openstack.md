@@ -38,3 +38,6 @@
 
 ## /tmp
 - [[oslo.messaging][RDO] Add pyngus to rhel > 7](https://review.rdoproject.org/r/#/c/22745/)
+
+## Release Management
+- [core team members](https://review.opendev.org/#/admin/groups/11,members)
