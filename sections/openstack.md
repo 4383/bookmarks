@@ -42,3 +42,4 @@
 
 ## Release Management
 - [core team members](https://review.opendev.org/#/admin/groups/11,members)
+- [reno issues during sdist](https://storyboard.openstack.org/#!/story/2007274)
