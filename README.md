@@ -405,6 +405,8 @@ Useful informations for RFC submitters like tooling, process, etc...
 - [resource-agent lib check_binary](https://github.com/ClusterLabs/resource-agents/blob/00ae6a179d95471bd7ce37197b97bd9498c539a1/heartbeat/ocf-binaries.in)
 - [pacemaker doc 2.0](https://clusterlabs.org/pacemaker/doc/en-US/Pacemaker/2.0/html/Clusters_from_Scratch/_what_is_emphasis_pacemaker_emphasis.html)
 - [pacemaker developer guide](https://clusterlabs.org/pacemaker/doc/en-US/Pacemaker/2.0/html/Pacemaker_Development/index.html)
+- [Using MySQL Galera Cluster Replication to Create a Geo-Distributed Cluster](https://severalnines.com/database-blog/using-mysql-galera-cluster-replication-create-geo-distributed-cluster-part-one)
+- [Improved Cloud (WAN) performance with Galera Cluster MySQL](https://galeracluster.com/2020/01/improved-cloud-wan-performance-with-galera-cluster-mysql-5-6-57-and-5-7-29/)
 
 ## [Sociology](sections/sociology.md)
 Sociology, social, ethnology and anthropology linksyy
