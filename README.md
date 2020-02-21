@@ -448,6 +448,8 @@ Sport links
 ## Virtualization
 - [use kvm with command line](http://xmodulo.com/use-kvm-command-line-debian-ubuntu.html)
 - [VirtualBox images (VDI format)](https://www.osboxes.org/virtualbox-images/)
+- [Creating Guests with virt-install](https://access.redhat.com/documentation/en-us/red_hat_enterprise_linux/7/html/virtualization_deployment_and_administration_guide/sect-guest_virtual_machine_installation_overview-creating_guests_with_virt_install)
+- [virt-install examples](https://linux.die.net/man/1/virt-install)
 
 ## Watch
 - [Gulp taches automatisées](http://www.alsacreations.com/tuto/lire/1686-introduction-a-gulp.html)
