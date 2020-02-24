@@ -30,6 +30,7 @@
 - [python 3 status](https://wiki.openstack.org/wiki/Python3#Python_3_Status_of_OpenStack_projects)
 - [release reviews](https://review.openstack.org/#/q/project:openstack/releases+status:open)
 - [stackalytic - reviews average](http://stackalytics.com/)
+- [Oslo wiki](https://wiki.openstack.org/wiki/Oslo)
 - [Moises's oslo.config speak at fosdem](https://fosdem.org/2020/schedule/event/security_protecting_plaintext_secrets_in_configuration_files/)
 
 ## Testing
