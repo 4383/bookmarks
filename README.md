@@ -408,6 +408,7 @@ Useful informations for RFC submitters like tooling, process, etc...
 - [Using MySQL Galera Cluster Replication to Create a Geo-Distributed Cluster](https://severalnines.com/database-blog/using-mysql-galera-cluster-replication-create-geo-distributed-cluster-part-one)
 - [Improved Cloud (WAN) performance with Galera Cluster MySQL](https://galeracluster.com/2020/01/improved-cloud-wan-performance-with-galera-cluster-mysql-5-6-57-and-5-7-29/)
 - [Clean freeipa from spurious hosts](https://gist.github.com/mbaldessari/d356ef76d68ff8636a3d73b1cd968269)
+- [MariaDB MaxScale 2.2: Introducing Failover, Switchover and Automatic Rejoin](https://mariadb.com/resources/blog/mariadb-maxscale-2-2-introducing-failover-switchover-and-automatic-rejoin/)
 
 ## [Sociology](sections/sociology.md)
 Sociology, social, ethnology and anthropology linksyy
@@ -450,6 +451,10 @@ Sport links
 - [VirtualBox images (VDI format)](https://www.osboxes.org/virtualbox-images/)
 - [Creating Guests with virt-install](https://access.redhat.com/documentation/en-us/red_hat_enterprise_linux/7/html/virtualization_deployment_and_administration_guide/sect-guest_virtual_machine_installation_overview-creating_guests_with_virt_install)
 - [virt-install examples](https://linux.die.net/man/1/virt-install)
+- [Managing kvm network interfaces](https://computingforgeeks.com/managing-kvm-network-interfaces-in-linux/)
+- [Configure static IP with netplan on ubuntu](https://www.itzgeek.com/how-tos/linux/ubuntu-how-tos/netplan-how-to-configure-static-ip-address-in-ubuntu-18-04-using-netplan.html)
+- [ubuntu 18.04 configure network with netplan](https://documentation.online.net/fr/dedicated-server/network/network-configuration-with-netplan)
+- [ubuntu dns nameserver with netplan](https://www.techrepublic.com/article/how-to-set-dns-nameservers-in-ubuntu-server-18-04/)
 
 ## Watch
 - [Gulp taches automatisées](http://www.alsacreations.com/tuto/lire/1686-introduction-a-gulp.html)
