@@ -51,3 +51,9 @@
 ## Release Management
 - [core team members](https://review.opendev.org/#/admin/groups/11,members)
 - [reno issues during sdist](https://storyboard.openstack.org/#!/story/2007274)
+- [stable branches docs](https://docs.openstack.org/project-team-guide/stable-branches.html)
+- [stable branches policy](https://governance.openstack.org/tc/reference/tags/stable_follows-policy.html)
+
+## Devstack
+- [Ben Nemec's multi devstack host blog post](http://blog.nemebean.com/content/multi-host-devstack)
+- [Ben Nemec's Devstack VMs setup scripts](https://fedorapeople.org/~bnemec/devstack-base/)
