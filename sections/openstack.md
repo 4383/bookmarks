@@ -15,7 +15,13 @@
 - [doc guideline](https://specs.openstack.org/openstack/docs-specs/specs/pike/os-manuals-migration.html)
 - [zuul history](https://opensource.com/article/20/2/zuul)
 
-### Oslo
+## Status
+- [openstack status](http://status.openstack.org/)
+- [openstack health check](http://status.openstack.org/openstack-health/#/)
+- [reviews status](http://status.openstack.org/reviews/)
+- [zuul status](https://zuul.openstack.org/projects)
+
+## Oslo
 - [openstack review guide/tips](https://docs.openstack.org/project-team-guide/review-the-openstack-way.html)
 - [oslo guide](https://docs.openstack.org/project-team-guide/oslo.html)
 - [openstack-discuss ML official topics](https://etherpad.openstack.org/p/common-openstack-ml-topics)
