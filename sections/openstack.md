@@ -59,6 +59,8 @@
 - [reno issues during sdist](https://storyboard.openstack.org/#!/story/2007274)
 - [stable branches docs](https://docs.openstack.org/project-team-guide/stable-branches.html)
 - [stable branches policy](https://governance.openstack.org/tc/reference/tags/stable_follows-policy.html)
+- [Release processes - week per weeks steps](https://releases.openstack.org/reference/process.html)
+- [Ussuri release management team's calendar](https://etherpad.openstack.org/p/ussuri-relmgt-tracking)
 
 ## Devstack
 - [Ben Nemec's multi devstack host blog post](http://blog.nemebean.com/content/multi-host-devstack)
