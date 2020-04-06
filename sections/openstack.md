@@ -61,6 +61,7 @@
 - [stable branches policy](https://governance.openstack.org/tc/reference/tags/stable_follows-policy.html)
 - [Release processes - week per weeks steps](https://releases.openstack.org/reference/process.html)
 - [Ussuri release management team's calendar](https://etherpad.openstack.org/p/ussuri-relmgt-tracking)
+- [Example of cycle management that I've done on ussuri](https://etherpad.openstack.org/p/cycle-with-intermediary-deliverables)
 
 ## Devstack
 - [Ben Nemec's multi devstack host blog post](http://blog.nemebean.com/content/multi-host-devstack)
