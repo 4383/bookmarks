@@ -311,6 +311,7 @@ psychology concepts, etc...
 - [Multithreading Programming](https://vstinner.readthedocs.io/threads.html)
 - [STDLIB symtable — Access to the compiler’s symbol tables](https://docs.python.org/3/library/symtable.html)
 - [Creating a simple python pip repository](https://jpmens.net/2020/01/16/creating-a-simple-python-pip-repository/)
+- [How to analyze your system with perf and Python](https://opensource.com/article/18/7/fun-perf-and-python)
 
 ## [Provisioning](sections/provisioning.md)
 Provisioning and system management tools
