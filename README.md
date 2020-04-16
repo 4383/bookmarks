@@ -181,6 +181,16 @@ Continuous integration and continuous deployment workflow, tools, and best pract
 - [Introduction to systemctl](https://www.linode.com/docs/quick-answers/linux-essentials/introduction-to-systemctl/)
 - [Linkedin - upgrading to RHEL7 with minimal interruption](https://engineering.linkedin.com/blog/2020/upgrading-to-rhel7-with-minimal-interruptions)
 
+## [Maps, geographical data and statistics](section/maps.md)
+Maps, geographical data and statistics
+
+[Get maps links](sections/maps.md)
+
+## [Mathematics](sections/mathematics.md)
+Mathematics (theorems, etc...)
+
+[Get mathematics links](sections/mathematics.md)
+
 ## Microservices
 - [Microservices reverse proxy](http://traefik.io/)
 - [Api example and tuto](http://apicodex.3scale.net/content/Welcome)
@@ -198,11 +208,6 @@ Continuous integration and continuous deployment workflow, tools, and best pract
 - [Service discovery](https://www.consul.io/)
 - [Docker orchestration](http://kubernetes.io/)
 - [Netflix microservices best practices](https://www.nginx.com/blog/microservices-at-netflix-architectural-best-practices/)
-
-## [Mathematics](sections/mathematics.md)
-Mathematics (theorems, etc...)
-
-[Get mathematics links](sections/mathematics.md)
 
 ## Network
 - [skydive](http://skydive.network/)
