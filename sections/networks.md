@@ -13,6 +13,7 @@
 - [amazon graph database](https://aws.amazon.com/fr/nosql/graph/)
 
 ## Articles
+- [Graph database](https://fr.wikipedia.org/wiki/Base_de_donn%C3%A9es_orient%C3%A9e_graphe)
 - [facebook combined](https://app.dominodatalab.com/u/LeJit/FacebookNetwork/view/data/facebook_combined.txt)
 - [networkx social analysis](https://blog.dominodatalab.com/social-network-analysis-with-networkx/)
 
