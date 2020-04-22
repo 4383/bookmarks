@@ -209,9 +209,10 @@ Mathematics (theorems, etc...)
 - [Docker orchestration](http://kubernetes.io/)
 - [Netflix microservices best practices](https://www.nginx.com/blog/microservices-at-netflix-architectural-best-practices/)
 
-## Network
-- [skydive](http://skydive.network/)
-- [cooperative](http://www.coopaname.coop/)
+## [Network](sections/networks.md)
+Networks science and theory (theorems, tools, articles)
+
+[Get networks links](sections/networks.md)
 
 ## Nodejs
 - [Gulp taches automatisées](http://www.alsacreations.com/tuto/lire/1686-introduction-a-gulp.html)
