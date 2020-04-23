@@ -62,6 +62,7 @@
 - [Release processes - week per weeks steps](https://releases.openstack.org/reference/process.html)
 - [Ussuri release management team's calendar](https://etherpad.openstack.org/p/ussuri-relmgt-tracking)
 - [Example of cycle management that I've done on ussuri](https://etherpad.openstack.org/p/cycle-with-intermediary-deliverables)
+- [Release canary test](https://review.opendev.org/#/c/721299/2/deliverables/ussuri/release-test.yaml)
 
 ## Devstack
 - [Ben Nemec's multi devstack host blog post](http://blog.nemebean.com/content/multi-host-devstack)
