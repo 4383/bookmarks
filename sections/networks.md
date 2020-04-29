@@ -21,6 +21,7 @@
 - [networkx social analysis](https://blog.dominodatalab.com/social-network-analysis-with-networkx/)
 - [COVID-19 with GraphXR and Neo4j](https://medium.com/neo4j/covid-19-with-graphxr-and-neo4j-16ea37686ca5)
 - [network Science Book - Barabasi](http://networksciencebook.com/chapter/1)
+- [COVID-19 alternated quarantine](https://face6021-972c-41f8-8dbb-3517c36b0e61.filesusr.com/ugd/8f49e1_da4094e5e03740e3966844b1daeebb46.pdf)
 
 ## Other
 - [cooperative](http://www.coopaname.coop/)
