@@ -10,6 +10,7 @@
 - [redisgraph](https://oss.redislabs.com/redisgraph/)
 - [AgensGraph, a transactional graph database based on PostgreSQL](https://github.com/bitnine-oss/agensgraph)
 - [Barabasi Network Science Book - Epidemic Tools](http://networksciencebook.com/chapter/10#epidemic-prediction)
+- [Compartmental models in epidemiology](https://en.wikipedia.org/wiki/Compartmental_models_in_epidemiology)
 
 ## Comparison
 - [amazon neptune](https://aws.amazon.com/fr/neptune/)
