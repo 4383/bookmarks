@@ -171,6 +171,11 @@ Continuous integration and continuous deployment workflow, tools, and best pract
 ## Languages (speaking/reading)
 - [Memorize Kanjis](https://www.potiondevie.fr/memoriser-les-kanjis/)
 
+## [Learning](sections/learning.md)
+How to learn, how to manage goal and priorities, etc...
+
+[Get learning links](sections/learning.md)
+
 ## Linux
 - [Chroot debian](http://debootstrap/)
 - [Keylogger x11](http://blog.rom1v.com/2011/11/keylogger-sous-gnulinux-enregistrer-les-touches-tapees-au-clavier/)
