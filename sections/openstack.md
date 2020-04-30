@@ -14,6 +14,7 @@
 - [openstack command line cheat sheet](https://www.golinuxcloud.com/openstack-command-line-cheat-sheet/)
 - [doc guideline](https://specs.openstack.org/openstack/docs-specs/specs/pike/os-manuals-migration.html)
 - [zuul history](https://opensource.com/article/20/2/zuul)
+- [TC - python version process update on openstack](https://governance.openstack.org/tc/resolutions/20181024-python-update-process.html)
 
 ## Security
 - [Security notes](https://github.com/openstack/security-doc/tree/master/security-notes)
