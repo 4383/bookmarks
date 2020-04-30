@@ -493,7 +493,12 @@ Manage different version control system like git, mercurial, svn, etc...
 ## Wikipedia
 - [French Dumps](https://dumps.wikimedia.org/frwiki/20180220/)
 
+## [XKCD](sections/xkcd)
+A list of interesting xkcd webcomics
+
+[Get xkcd links](sections/xkcd)
+
 ## [Youtube](sections/youtube)
 A list of interesting youtube channels
 
-[Get youtubes channels links](sections/youtube)
+[Get youtube channels links](sections/youtube)
