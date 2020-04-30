@@ -1,8 +1,18 @@
 [![Build Status](https://travis-ci.org/4383/bookmarks.svg?branch=master)](https://travis-ci.org/4383/bookmarks)
 [![Twitter URL](https://img.shields.io/twitter/url/http/shields.io.svg?style=social&logo=twitter)](https://twitter.com/4383hberaud)
 
-# Personal bookmarks and useful links
-My common bookmarks and useful links.
+# Hervé Beraud's bookmarks and useful links
+Greetings everyone,
+
+I'm [Hervé Beraud](https://herve.beraud.io/) I'm passionate by many
+topics and realms, here you can find my personal bookmarks and my useful links
+related to them and classified by categories.
+
+I created this website to store my bookmarks for my personal needs and also
+to share them with other people which could find useful informations here.
+
+This isn't a promotional website, I only store here things that I use daily
+or that are useful for me, so sorry I don't accept promotional links.
 
 Import your own from google bookmarks [with this script](https://gist.github.com/4383/1ccd5efe6d84d140da6c56689ac64a1e).
 
