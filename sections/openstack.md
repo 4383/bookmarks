@@ -15,6 +15,9 @@
 - [doc guideline](https://specs.openstack.org/openstack/docs-specs/specs/pike/os-manuals-migration.html)
 - [zuul history](https://opensource.com/article/20/2/zuul)
 
+## Security
+- [Security notes](https://github.com/openstack/security-doc/tree/master/security-notes)
+
 ## Status
 - [openstack status](http://status.openstack.org/)
 - [openstack health check](http://status.openstack.org/openstack-health/#/)
