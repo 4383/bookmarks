@@ -332,7 +332,7 @@ Provisioning and system management tools
 
 ## Programming
 
-- [(history of unit test)] Simple Smalltalk Testing: With Patterns](https://web.archive.org/web/20150315073817/http://www.xprogramming.com/testfram.htm)
+- [history of unit test - Simple Smalltalk Testing: With Patterns](https://web.archive.org/web/20150315073817/http://www.xprogramming.com/testfram.htm)
 
 ## Red Hat
 
