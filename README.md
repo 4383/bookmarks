@@ -151,10 +151,11 @@ Resources about erlang (the best way to learn erlang)
 ## Fun
 - [This is a Ruby program that generates Rust program that generates Scala program that generates...](https://github.com/mame/quine-relay)
 
-## [Version control](sections/version-control.md)
-Manage different version control system like git, mercurial, svn, etc...
+## [Governance](sections/governance.md)
+Governance, decision, and choices management topics and items.
 
-[Get version control links](sections/version-control.md)
+[Get governance links](sections/governance.md)
+
 
 ## [Integration](sections/integration.md)
 Continuous integration and continuous deployment workflow, tools, and best practices and others stuffs.
@@ -456,6 +457,11 @@ Sport links
 
 ## Uml
 - [Uml sequence](https://www.visual-paradigm.com/VPGallery/diagrams/Sequence.html)
+
+## [Version control](sections/version-control.md)
+Manage different version control system like git, mercurial, svn, etc...
+
+[Get version control links](sections/version-control.md)
 
 ## Vim
 - [vim substitution cheet sheet](http://www.theunixschool.com/2012/11/examples-vi-vim-substitution-commands.htm)
