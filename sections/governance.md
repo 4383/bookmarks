@@ -9,3 +9,7 @@
 ## Governance
 - [Holacracy constitution version 4.1 (French version)](https://github.com/holacracyone/Holacracy-Constitution-4.1-FRENCH/blob/master/Constitution-Holacracy.md)
 - [Holacracy (wikipedia)](https://fr.wikipedia.org/wiki/Holacratie)
+
+## Open Source
+- [Introduction to creating and nurturing communities of contributors. ](https://www.theopensourceway.org/wiki/Introduction)
+- [The Open Organization](https://opensource.com/open-organization)
