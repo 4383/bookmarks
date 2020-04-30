@@ -3,6 +3,7 @@
 ## Decisions
 - [Open Decision Framework](https://opensource.com/open-organization/resources/open-decision-framework)
 - [Open Decision Framework (github sources)](https://github.com/red-hat-people-team/open-decision-framework)
+- [Open Decision Framework (PDF presentation)](https://github.com/red-hat-people-team/open-decision-framework/blob/master/ODF-community.pdf)
 - [Meritoicracy](https://opensource.com/business/12/5/best-idea-wins-jim-whitehurst-red-hat-meritocracy)
 
 ## Governance
