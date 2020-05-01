@@ -36,7 +36,12 @@ For more informations about me [visite my website](https://herve.beraud.io/).
 ## Artificial Intelligence
 Deal with deep learning, machine learning, AI, etc...
 
-[Get artificial intelligence links](sections/artificial-intelligence.md)
+[Get artificial intelligence links](sections/artificial-intelligence)
+
+## [Big Data](sections/bigdata)
+Big data and datasets
+
+[Get big data links](sections/bigdata)
 
 ## Blockchain
 - [Etherum for newby](http://www.bortzmeyer.org/ethereum.html)
