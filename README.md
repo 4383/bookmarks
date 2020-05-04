@@ -339,6 +339,8 @@ psychology concepts, etc...
 - [STDLIB symtable — Access to the compiler’s symbol tables](https://docs.python.org/3/library/symtable.html)
 - [Creating a simple python pip repository](https://jpmens.net/2020/01/16/creating-a-simple-python-pip-repository/)
 - [How to analyze your system with perf and Python](https://opensource.com/article/18/7/fun-perf-and-python)
+- [Monkey patching interferes with threading in Python 3.7](https://github.com/eventlet/eventlet/issues/592)
+- [Monkey patch original current_thread active](https://review.opendev.org/#/c/725359/)
 
 ## [Provisioning](sections/provisioning.md)
 Provisioning and system management tools
