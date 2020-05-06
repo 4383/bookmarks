@@ -51,8 +51,11 @@ Big data and datasets
 - [open books](https://www.openbookpublishers.com/)
 - [the cathedral and the bazaar](http://www.linux-france.org/article/these/cathedrale-bazar/cathedrale-bazar_monoblock.html)
 
-## Buisness
-- [Zapier financial](https://www.groovehq.com/blog/zapier-interview-with-wade-foster)
+## [Buisness](sections/business)
+Business, models, companies, studies
+
+[Get business links](sections/business)
+
 
 ## Cloud
 - [Compiling Python into AWS Lambda / Step Function](https://github.com/bennorth/pyawssfn)
