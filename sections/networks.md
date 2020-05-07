@@ -31,6 +31,7 @@
 - [time-series database over postgresql](https://www.timescale.com/)
 - [time-series SQL database optimized for fast ingest and complex queries](https://github.com/timescale/timescaledb)
 - [System Properties Comparison AgensGraph vs. TimescaleDB](https://db-engines.com/en/system/AgensGraph%3BTimescaleDB)
+- [Integration issue between agensgraph & timescaledb](https://github.com/timescale/timescaledb/issues/613)
 - [OSS - Redis Graph](https://oss.redislabs.com/redisgraph/)
 - [neo4j](https://neo4j.com/)
 
