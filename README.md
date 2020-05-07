@@ -459,6 +459,8 @@ Sport links
 
 - [RabbitMQ : A Cloud based Message Oriented Middleware](https://techietweak.wordpress.com/2015/08/14/rabbitmq-a-cloud-based-message-oriented-middleware/)
 - [Clustering RabbitMQ](https://www.rabbitmq.com/clustering.html#transcript)
+- [rmqgrep](http://git.engineering.redhat.com/git/users/jeckersb/misc/tree/rmqgrep)
+- [debug rabbitmq](https://herve.beraud.io/debug/sections/rabbitmq.html)
 
 ## Remote
 - [remote work](https://zapier.com/learn/remote-work/)
