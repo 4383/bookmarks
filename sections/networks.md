@@ -26,10 +26,12 @@
 - [Barabasi Network Science Book - Epidemic Tools](http://networksciencebook.com/chapter/10#epidemic-prediction)
 - [Compartmental models in epidemiology](https://en.wikipedia.org/wiki/Compartmental_models_in_epidemiology)
 
-## Database oriented network theory
+## Database (graphes, timeseries)
 - [AgensGraph, a transactional graph database based on PostgreSQL](https://github.com/bitnine-oss/agensgraph)
 - [time-series database over postgresql](https://www.timescale.com/)
 - [time-series SQL database optimized for fast ingest and complex queries](https://github.com/timescale/timescaledb)
+- [Building a distributed time-series database on PostgreSQL](https://blog.timescale.com/blog/building-a-distributed-time-series-database-on-postgresql/)
+- [timescaledb (example)- Storing Time Series in PostgreSQL Efficiently](https://grisha.org/blog/2015/09/23/storing-time-series-in-postgresql-efficiently/)
 - [System Properties Comparison AgensGraph vs. TimescaleDB](https://db-engines.com/en/system/AgensGraph%3BTimescaleDB)
 - [Integration issue between agensgraph & timescaledb](https://github.com/timescale/timescaledb/issues/613)
 - [OSS - Redis Graph](https://oss.redislabs.com/redisgraph/)
