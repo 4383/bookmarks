@@ -344,6 +344,7 @@ psychology concepts, etc...
 - [How to analyze your system with perf and Python](https://opensource.com/article/18/7/fun-perf-and-python)
 - [Monkey patching interferes with threading in Python 3.7](https://github.com/eventlet/eventlet/issues/592)
 - [Monkey patch original current_thread active](https://review.opendev.org/#/c/725359/)
+- [Monkey patch original current_thread active](https://github.com/openstack/sahara/commit/a6ee52234382f8c52023796ed13cb3cdc8521098)
 
 ## [Provisioning](sections/provisioning.md)
 Provisioning and system management tools
