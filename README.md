@@ -365,6 +365,7 @@ psychology concepts, etc...
 - [The Long, Painful History of Time](http://naggum.no/lugm-time.html)
 - [Basics of the Unix Philosophy](https://homepage.cs.uri.edu/~thenry/resources/unix_art/ch01s06.html)
 - [the cathedral and the bazaar](http://www.linux-france.org/article/these/cathedrale-bazar/cathedrale-bazar_monoblock.html)
+- [systemd, 10 years later: a historical and technical retrospectivystemd, 10 years later: a historical and technical retrospective](https://blog.darknedgy.net/technology/2020/05/02/0/)
 
 ## [Provisioning](sections/provisioning.md)
 Provisioning and system management tools
