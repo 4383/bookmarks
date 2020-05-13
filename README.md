@@ -56,7 +56,6 @@ Business, models, companies, studies
 
 [Get business links](sections/business)
 
-
 ## Cloud
 - [Compiling Python into AWS Lambda / Step Function](https://github.com/bennorth/pyawssfn)
 
@@ -65,6 +64,9 @@ Business, models, companies, studies
 
 ## Data
 - [Big data analyze](http://spark.apache.org/)
+
+## Database
+- [Use the index Luke - SQL Indexing and Tuning e-Book](https://use-the-index-luke.com/)
 
 ## Debug
 
@@ -360,6 +362,8 @@ psychology concepts, etc...
 - [Monkey patch original current_thread active](https://github.com/openstack/sahara/commit/a6ee52234382f8c52023796ed13cb3cdc8521098)
 
 ## Posts
+- [The Long, Painful History of Time](http://naggum.no/lugm-time.html)
+- [Basics of the Unix Philosophy](https://homepage.cs.uri.edu/~thenry/resources/unix_art/ch01s06.html)
 - [the cathedral and the bazaar](http://www.linux-france.org/article/these/cathedrale-bazar/cathedrale-bazar_monoblock.html)
 
 ## [Provisioning](sections/provisioning.md)
