@@ -49,7 +49,7 @@ Big data and datasets
 ## Books
 - [yan](https://framabin.org/p/?f6e5375737f053f4#)
 - [open books](https://www.openbookpublishers.com/)
-- [the cathedral and the bazaar](http://www.linux-france.org/article/these/cathedrale-bazar/cathedrale-bazar_monoblock.html)
+
 
 ## [Buisness](sections/business)
 Business, models, companies, studies
@@ -174,6 +174,19 @@ Governance, decision, and choices management topics and items.
 
 [Get governance links](sections/governance.md)
 
+## High Availability (HA)
+- [resource-agents heartbeat podman](https://github.com/ClusterLabs/resource-agents/blob/master/heartbeat/podman)
+- [resource-agents](https://github.com/ClusterLabs/resource-agents)
+- [cluster lab](https://clusterlabs.org/)
+- [OpenAIS](https://www.openhub.net/p/openAIS)
+- [resource-agents dev guide](https://github.com/ClusterLabs/resource-agents/blob/master/doc/dev-guides/ra-dev-guide.asc)
+- [resource-agent lib check_binary](https://github.com/ClusterLabs/resource-agents/blob/00ae6a179d95471bd7ce37197b97bd9498c539a1/heartbeat/ocf-binaries.in)
+- [pacemaker doc 2.0](https://clusterlabs.org/pacemaker/doc/en-US/Pacemaker/2.0/html/Clusters_from_Scratch/_what_is_emphasis_pacemaker_emphasis.html)
+- [pacemaker developer guide](https://clusterlabs.org/pacemaker/doc/en-US/Pacemaker/2.0/html/Pacemaker_Development/index.html)
+- [Using MySQL Galera Cluster Replication to Create a Geo-Distributed Cluster](https://severalnines.com/database-blog/using-mysql-galera-cluster-replication-create-geo-distributed-cluster-part-one)
+- [Improved Cloud (WAN) performance with Galera Cluster MySQL](https://galeracluster.com/2020/01/improved-cloud-wan-performance-with-galera-cluster-mysql-5-6-57-and-5-7-29/)
+- [Clean freeipa from spurious hosts](https://gist.github.com/mbaldessari/d356ef76d68ff8636a3d73b1cd968269)
+- [MariaDB MaxScale 2.2: Introducing Failover, Switchover and Automatic Rejoin](https://mariadb.com/resources/blog/mariadb-maxscale-2-2-introducing-failover-switchover-and-automatic-rejoin/)
 
 ## [Integration](sections/integration.md)
 Continuous integration and continuous deployment workflow, tools, and best practices and others stuffs.
@@ -346,6 +359,9 @@ psychology concepts, etc...
 - [Monkey patch original current_thread active](https://review.opendev.org/#/c/725359/)
 - [Monkey patch original current_thread active](https://github.com/openstack/sahara/commit/a6ee52234382f8c52023796ed13cb3cdc8521098)
 
+## Posts
+- [the cathedral and the bazaar](http://www.linux-france.org/article/these/cathedrale-bazar/cathedrale-bazar_monoblock.html)
+
 ## [Provisioning](sections/provisioning.md)
 Provisioning and system management tools
 
@@ -354,6 +370,13 @@ Provisioning and system management tools
 ## Programming
 
 - [history of unit test - Simple Smalltalk Testing: With Patterns](https://web.archive.org/web/20150315073817/http://www.xprogramming.com/testfram.htm)
+
+## RabbitMQ
+
+- [RabbitMQ : A Cloud based Message Oriented Middleware](https://techietweak.wordpress.com/2015/08/14/rabbitmq-a-cloud-based-message-oriented-middleware/)
+- [Clustering RabbitMQ](https://www.rabbitmq.com/clustering.html#transcript)
+- [rmqgrep](http://git.engineering.redhat.com/git/users/jeckersb/misc/tree/rmqgrep)
+- [How to debug rabbitmq](https://herve.beraud.io/debug/sections/rabbitmq.html)
 
 ## Red Hat
 
@@ -366,6 +389,9 @@ Provisioning and system management tools
 Useful informations for RFC submitters like tooling, process, etc...
 
 [Get RFC links](sections/rfc.md)
+
+## Remote
+- [remote work](https://zapier.com/learn/remote-work/)
 
 ## Security
 - [Blog](http://tiwim.github.io/)
@@ -432,20 +458,6 @@ Useful informations for RFC submitters like tooling, process, etc...
 - [openstack & sosreport](https://docs.openstack.org/tripleo-docs/latest/install/troubleshooting/troubleshooting-log-and-status-capture.html)
 - [create a sosreport](https://access.redhat.com/solutions/3592)
 
-## High Availability (HA)
-- [resource-agents heartbeat podman](https://github.com/ClusterLabs/resource-agents/blob/master/heartbeat/podman)
-- [resource-agents](https://github.com/ClusterLabs/resource-agents)
-- [cluster lab](https://clusterlabs.org/)
-- [OpenAIS](https://www.openhub.net/p/openAIS)
-- [resource-agents dev guide](https://github.com/ClusterLabs/resource-agents/blob/master/doc/dev-guides/ra-dev-guide.asc)
-- [resource-agent lib check_binary](https://github.com/ClusterLabs/resource-agents/blob/00ae6a179d95471bd7ce37197b97bd9498c539a1/heartbeat/ocf-binaries.in)
-- [pacemaker doc 2.0](https://clusterlabs.org/pacemaker/doc/en-US/Pacemaker/2.0/html/Clusters_from_Scratch/_what_is_emphasis_pacemaker_emphasis.html)
-- [pacemaker developer guide](https://clusterlabs.org/pacemaker/doc/en-US/Pacemaker/2.0/html/Pacemaker_Development/index.html)
-- [Using MySQL Galera Cluster Replication to Create a Geo-Distributed Cluster](https://severalnines.com/database-blog/using-mysql-galera-cluster-replication-create-geo-distributed-cluster-part-one)
-- [Improved Cloud (WAN) performance with Galera Cluster MySQL](https://galeracluster.com/2020/01/improved-cloud-wan-performance-with-galera-cluster-mysql-5-6-57-and-5-7-29/)
-- [Clean freeipa from spurious hosts](https://gist.github.com/mbaldessari/d356ef76d68ff8636a3d73b1cd968269)
-- [MariaDB MaxScale 2.2: Introducing Failover, Switchover and Automatic Rejoin](https://mariadb.com/resources/blog/mariadb-maxscale-2-2-introducing-failover-switchover-and-automatic-rejoin/)
-
 ## [Sociology](sections/sociology.md)
 Sociology, social, ethnology and anthropology linksyy
 
@@ -455,16 +467,6 @@ Sociology, social, ethnology and anthropology linksyy
 Sport links
 
 [Get sport links](sections/sport.md)
-
-## RabbitMQ
-
-- [RabbitMQ : A Cloud based Message Oriented Middleware](https://techietweak.wordpress.com/2015/08/14/rabbitmq-a-cloud-based-message-oriented-middleware/)
-- [Clustering RabbitMQ](https://www.rabbitmq.com/clustering.html#transcript)
-- [rmqgrep](http://git.engineering.redhat.com/git/users/jeckersb/misc/tree/rmqgrep)
-- [debug rabbitmq](https://herve.beraud.io/debug/sections/rabbitmq.html)
-
-## Remote
-- [remote work](https://zapier.com/learn/remote-work/)
 
 ## Space
 - [ISS visible passes](https://www.heavens-above.com/PassSummary.aspx?satid=25544&lat=43.576&lng=0.7244&loc=Castelnau-Barbarens&alt=232&tz=CET)
