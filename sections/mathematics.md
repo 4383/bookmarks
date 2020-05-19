@@ -1,4 +1,6 @@
-# Math
+# Maths
+
+## Theorems
 - [Tree(3)](https://fr.wikipedia.org/wiki/Th%C3%A9or%C3%A8me_de_Kruskal)
 - [selectorate theory](https://en.wikipedia.org/wiki/Selectorate_theory)
 - [cantore diagonal](https://fr.wikipedia.org/wiki/Argument_de_la_diagonale_de_Cantor)
@@ -15,7 +17,7 @@
 - [Feynam point - PI](https://fr.wikipedia.org/wiki/Point_de_Feynman)
 - [Math et tiques](https://maths-et-tiques.fr/)
 
-### prime number
+## prime number
 - [crible d'érastosthène](https://fr.wikipedia.org/wiki/Crible_d%27%C3%89ratosth%C3%A8ne)
 - [nombre de mersenne premier](https://fr.wikipedia.org/wiki/Nombre_de_Mersenne_premier)
 - [ulam spirale](https://fr.wikipedia.org/wiki/Spirale_d%27Ulam)
@@ -33,6 +35,7 @@
 - [Queueing theory](https://fr.wikipedia.org/wiki/Th%C3%A9orie_des_files_d%27attente)
 - [Probability distribution](https://fr.wikipedia.org/wiki/Loi_de_probabilit%C3%A9)
 - [Lévy flight](https://en.wikipedia.org/wiki/L%C3%A9vy_flight)
+- [The public do not understand logarithmic graphs used to portray COVID-19](https://blogs.lse.ac.uk/covid19/2020/05/19/the-public-doesnt-understand-logarithmic-graphs-often-used-to-portray-covid-19/)
 
 ## Chaos
 - [décallage de bernoulli](https://fr.wikipedia.org/wiki/D%C3%A9calage_de_Bernoulli_(math%C3%A9matiques))
