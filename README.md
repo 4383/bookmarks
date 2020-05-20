@@ -367,6 +367,7 @@ psychology concepts, etc...
 - [the cathedral and the bazaar](http://www.linux-france.org/article/these/cathedrale-bazar/cathedrale-bazar_monoblock.html)
 - [systemd, 10 years later: a historical and technical retrospectivystemd, 10 years later: a historical and technical retrospective](https://blog.darknedgy.net/technology/2020/05/02/0/)
 - [A brief, incomplete, and Mostly Wrong History of Programming Languages](http://james-iry.blogspot.com/2009/05/brief-incomplete-and-mostly-wrong.html)
+- [How to Cheat at the Lottery - Ross Anderson](https://www.cl.cam.ac.uk/~rja14/lottery/lottery.html)
 
 ## [Provisioning](sections/provisioning.md)
 Provisioning and system management tools
