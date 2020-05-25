@@ -54,6 +54,7 @@
 - [OpenStack Infra Config Files](https://github.com/4383/project-config)
 - [Openstack Grafana](http://grafana.openstack.org/)
 - [Openstack IRC bot (Gerritbot)](https://docs.openstack.org/infra/system-config/irc.html)
+- [Tested runtimes - Victoria](https://governance.openstack.org/tc/reference/runtimes/victoria.html)
 
 ## /tmp
 - [[oslo.messaging][RDO] Add pyngus to rhel > 7](https://review.rdoproject.org/r/#/c/22745/)
