@@ -49,6 +49,8 @@
 - [Zuul setup perdiodical job example 1](https://code.engineering.redhat.com/gerrit/#/c/168584/)
 - [Zuul setup perdiodical job example 2](https://code.engineering.redhat.com/gerrit/169014)
 - [Zuul setup perdiodical job example 3](https://code.engineering.redhat.com/gerrit/169766)
+- [https://wiki.openstack.org/wiki/Testr#Debugging_.28pdb.29_Tests](https://wiki.openstack.org/wiki/Testr)
+- [pdb/tox/stestr - no way to drop into a debugger safely](https://bugs.launchpad.net/testrepository/+bug/902881)
 
 ## Infra
 - [OpenStack Infra Config Files](https://github.com/4383/project-config)
