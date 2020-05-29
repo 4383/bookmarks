@@ -25,6 +25,7 @@
 - [git add some parts of file](https://stackoverflow.com/questions/1085162/commit-only-part-of-a-file-in-git)
 - [submit patch to linux kernel](https://www.kernel.org/doc/html/latest/process/submitting-patches.html)
 - [cool git tips](https://www.alexkras.com/19-git-tips-for-everyday-use/)
+- [pre-commit - git hooks](https://pre-commit.com/index.html)
 
 ## Github
 - [Gh-pages + domain](http://blog.smarchal.com/heberger-son-site-sur-github)
