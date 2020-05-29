@@ -74,3 +74,8 @@
 ## Devstack
 - [Ben Nemec's multi devstack host blog post](http://blog.nemebean.com/content/multi-host-devstack)
 - [Ben Nemec's Devstack VMs setup scripts](https://fedorapeople.org/~bnemec/devstack-base/)
+
+## red Hat
+- [OSP13 - High Availability Deployment and Usage](https://access.redhat.com/documentation/en-us/red_hat_openstack_platform/13/html-single/high_availability_deployment_and_usage/index)
+- [OSP15 - High Availability Deployment and Usage](https://access.redhat.com/documentation/en-us/red_hat_openstack_platform/15/html-single/high_availability_deployment_and_usage/index)
+- [OSP16 - High Availability Deployment and Usage](https://access.redhat.com/documentation/en-us/red_hat_openstack_platform/16.0/html-single/high_availability_deployment_and_usage/index)
