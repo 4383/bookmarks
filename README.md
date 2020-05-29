@@ -76,6 +76,7 @@ Business, models, companies, studies
 - [Linux performances (BPF)](http://www.brendangregg.com/linuxperf.html)
 - [Secrets of the Ftrace function tracer](https://lwn.net/Articles/370423/)
 - [GDB: GNU debugger](https://vstinner.readthedocs.io/gdb.html)
+- [htop explained](https://peteris.rocks/blog/htop/)
 
 ## [Democraty](sections/democraty.md)
 Democraty methods, concepts, etc...
