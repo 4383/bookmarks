@@ -361,6 +361,7 @@ psychology concepts, etc...
 - [Monkey patching interferes with threading in Python 3.7](https://github.com/eventlet/eventlet/issues/592)
 - [Monkey patch original current_thread active](https://review.opendev.org/#/c/725359/)
 - [Monkey patch original current_thread active](https://github.com/openstack/sahara/commit/a6ee52234382f8c52023796ed13cb3cdc8521098)
+- [Possibilities for improve pipelining syntax with new PEG parser](https://discuss.python.org/t/possibilities-for-improve-pipelining-syntax-with-new-peg-parser/4304/13)
 
 ## Posts
 - [The Long, Painful History of Time](http://naggum.no/lugm-time.html)
