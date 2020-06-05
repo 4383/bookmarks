@@ -16,6 +16,7 @@
 - [Théorie des catastrophes](https://fr.wikipedia.org/wiki/Th%C3%A9orie_des_catastrophes)
 - [Feynam point - PI](https://fr.wikipedia.org/wiki/Point_de_Feynman)
 - [Math et tiques](https://maths-et-tiques.fr/)
+- [Dirac delta functio](https://en.wikipedia.org/wiki/Dirac_delta_function)
 
 ## prime number
 - [crible d'érastosthène](https://fr.wikipedia.org/wiki/Crible_d%27%C3%89ratosth%C3%A8ne)
