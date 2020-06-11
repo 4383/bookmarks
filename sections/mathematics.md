@@ -50,6 +50,7 @@
 - [degree of separation](https://en.wikipedia.org/wiki/Six_degrees_of_separation)
 - [dunbar's number](https://en.wikipedia.org/wiki/Dunbar%27s_number)
 - [Heavy-tailed distribution](https://en.wikipedia.org/wiki/Heavy-tailed_distribution)
+- [Scale-free network](https://en.wikipedia.org/wiki/Scale-free_network
 
 ## Geometry
 - [Polyèdre](https://fr.wikipedia.org/wiki/Poly%C3%A8dre)
