@@ -202,6 +202,7 @@ Continuous integration and continuous deployment workflow, tools, and best pract
 ## IRC
 - [bounce irc with zrc](https://wiki.znc.in/ZNC)
 - [configure weechat](https://hugo.md/post/the-perfect-weechat-setup-2/)
+- [Optimizing weechat log usage](https://blog.jeaye.com/2016/10/31/weechat-logs/)
 
 ## Languages (speaking/reading)
 - [Memorize Kanjis](https://www.potiondevie.fr/memoriser-les-kanjis/)
