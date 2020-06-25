@@ -68,15 +68,10 @@ Business, models, companies, studies
 ## Database
 - [Use the index Luke - SQL Indexing and Tuning e-Book](https://use-the-index-luke.com/)
 
-## Debug
+## [Debug](sections/debug)
+Debug tools, articles and resources
 
-- [Core dump file analysis](https://stackoverflow.com/questions/5115613/core-dump-file-analysis)
-- [debug rabbitmq](https://herve.beraud.io/debug/sections/rabbitmq.html)
-- [What Every C Programmer Should Know About Undefined Behavior #1/3](http://blog.llvm.org/2011/05/what-every-c-programmer-should-know.html)
-- [Linux performances (BPF)](http://www.brendangregg.com/linuxperf.html)
-- [Secrets of the Ftrace function tracer](https://lwn.net/Articles/370423/)
-- [GDB: GNU debugger](https://vstinner.readthedocs.io/gdb.html)
-- [htop explained](https://peteris.rocks/blog/htop/)
+[Get debug links](sections/debug)
 
 ## [Democraty](sections/democraty.md)
 Democraty methods, concepts, etc...
