@@ -270,6 +270,11 @@ Openstack tools, post, articles, etc...
 ## Open Container Initiative
 - [Many way to build container images without docker](https://www.projectatomic.io/blog/2018/03/the-many-ways-to-build-oci-images/)
 
+## Optimizations
+- [Profile Guided Optimization (PGO)](https://en.wikipedia.org/wiki/Profile-guided_optimization)
+- [Link Time Optimization (LTO)](https://gcc.gnu.org/wiki/LinkTimeOptimization)
+- [Interprocedural Optimization](https://en.wikipedia.org/wiki/Interprocedural_optimization)
+
 ## [Packaging](sections/packaging.md)
 How to package projects for a lot of systems (alpinelinux, archlinux).
 
