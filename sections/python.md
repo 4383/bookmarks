@@ -73,5 +73,4 @@
 - [Monkey patch original current_thread active](https://review.opendev.org/#/c/725359/)
 - [Monkey patch original current_thread active](https://github.com/openstack/sahara/commit/a6ee52234382f8c52023796ed13cb3cdc8521098)
 - [Possibilities for improve pipelining syntax with new PEG parser](https://discuss.python.org/t/possibilities-for-improve-pipelining-syntax-with-new-peg-parser/4304/13)
-
-
+- [The Python heapq Module: Using Heaps and Priority Queues](https://realpython.com/python-heapq-module/)
