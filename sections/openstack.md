@@ -59,6 +59,9 @@
 - [https://wiki.openstack.org/wiki/Testr#Debugging_.28pdb.29_Tests](https://wiki.openstack.org/wiki/Testr)
 - [pdb/tox/stestr - no way to drop into a debugger safely](https://bugs.launchpad.net/testrepository/+bug/902881)
 
+## Tooling
+- [isort autopep on tempest](https://opendev.org/openstack/tempest/src/branch/master/tools/format.sh)
+
 ## Infra
 - [OpenStack Infra Config Files](https://github.com/4383/project-config)
 - [Openstack Grafana](http://grafana.openstack.org/)
