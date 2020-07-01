@@ -74,3 +74,4 @@
 - [Monkey patch original current_thread active](https://github.com/openstack/sahara/commit/a6ee52234382f8c52023796ed13cb3cdc8521098)
 - [Possibilities for improve pipelining syntax with new PEG parser](https://discuss.python.org/t/possibilities-for-improve-pipelining-syntax-with-new-peg-parser/4304/13)
 - [The Python heapq Module: Using Heaps and Priority Queues](https://realpython.com/python-heapq-module/)
+- [Red Hat Enterprise Linux 8.2 brings faster Python 3.8 run speeds](https://developers.redhat.com/blog/2020/06/25/red-hat-enterprise-linux-8-2-brings-faster-python-3-8-run-speeds/)
