@@ -36,6 +36,7 @@
 - [TC - python version process update on openstack](https://governance.openstack.org/tc/resolutions/20181024-python-update-process.html)
 
 ## Contribution guides
+- [OpenStack Style Guidelines](https://docs.openstack.org/hacking/latest/user/hacking.html#styleguide)
 - [Contributing Guide](https://docs.openstack.org/horizon/latest/contributor/contributing.html)
 - [Code conventions](https://docs.openstack.org/doc-contrib-guide/writing-style/code-conventions.html)
 - [Writing style](https://docs.openstack.org/doc-contrib-guide/writing-style.html)
