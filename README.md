@@ -431,6 +431,11 @@ Sport links
 - [Vim configuration](https://opium.io/my-vim-configuration/)
 - [Chat anonyme et crypté](https://hack.chat/)
 
+## UI/UX
+- [10 UX designers principles](https://www.arquen.fr/blog/10-principes-psychologie-utile-ux-designer/)
+- [Laws used by designers](https://web.developpez.com/actu/307725/Experience-utilisateur-quelles-lois-observez-vous-pour-la-conception-de-vos-sites-et-applications/)
+- [Laws of UX](https://lawsofux.com/)
+
 ## Uml
 - [Uml sequence](https://www.visual-paradigm.com/VPGallery/diagrams/Sequence.html)
 
