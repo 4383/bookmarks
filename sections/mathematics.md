@@ -39,7 +39,7 @@
 - [The public do not understand logarithmic graphs used to portray COVID-19](https://blogs.lse.ac.uk/covid19/2020/05/19/the-public-doesnt-understand-logarithmic-graphs-often-used-to-portray-covid-19/)
 
 ## Chaos
-- [décallage de bernoulli](https://fr.wikipedia.org/wiki/D%C3%A9calage_de_Bernoulli_(math%C3%A9matiques))
+- [décallage de bernoulli](https://fr.wikipedia.org/wiki/Décalage_de_Bernoulli_(mathématiques))
 - [baker's map](https://en.wikipedia.org/wiki/Baker%27s_map)
 
 ## metaphore

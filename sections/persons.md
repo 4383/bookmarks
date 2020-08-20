@@ -7,7 +7,7 @@
 - [Pierre Joseph Proudhon](https://fr.wikipedia.org/wiki/Pierre-Joseph_Proudhon)
 - [Claude Lévi-Strauss](https://fr.wikipedia.org/wiki/Claude_L%C3%A9vi-Strauss)
 - [Pierre Bourdieu](https://fr.wikipedia.org/wiki/Pierre_Bourdieu)
-- [D'Arcy Wentworth](https://fr.wikipedia.org/wiki/D%27Arcy_Wentworth_Thompson_(1860-1948))
+- [D'Arcy Wentworth](https://fr.wikipedia.org/wiki/D'Arcy_Wentworth_Thompson_(1860-1948))
 - [Joseph-Louis Lagrange](https://fr.wikipedia.org/wiki/Joseph-Louis_Lagrange)
 - [Karl Popper](https://fr.wikipedia.org/wiki/Karl_Popper)
 - [Henri Poincaré](https://fr.wikipedia.org/wiki/Henri_Poincar%C3%A9)

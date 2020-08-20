@@ -15,7 +15,6 @@
 - [simple image classification](https://becominghuman.ai/building-an-image-classifier-using-deep-learning-in-python-totally-from-a-beginners-perspective-be8dbaf22dd8)
 - [keras image processing](https://keras.io/preprocessing/image/)
 - [save load keras models](https://machinelearningmastery.com/save-load-keras-deep-learning-models/)
-- [GAN - generative adversial network](https://deeplearning4j.org/generative-adversarial-network#)
 - [Deep learning image detection](https://towardsdatascience.com/build-your-first-deep-learning-classifier-using-tensorflow-dog-breed-example-964ed0689430)
 - [Lore - Python library for deep learning](https://github.com/instacart/lore)
 - [build deep learning model](https://tech.instacart.com/how-to-build-a-deep-learning-model-in-15-minutes-a3684c6f71e)

@@ -14,7 +14,8 @@ to share them with other people which could find useful informations here.
 This isn't a promotional website, I only store here things that I use daily
 or that are useful for me, so sorry I don't accept promotional links.
 
-Import your own from google bookmarks [with this script](https://gist.github.com/4383/1ccd5efe6d84d140da6c56689ac64a1e).
+Import your own from google bookmarks [with this script](https://gist.github.com/4383/1ccd5efe6d84d140da6c56689ac64a1e) and
+create your own github repo to manage your bookmarks.
 
 Also you can find [my personal notes and drafts available here](https://herve.beraud.io/notes/).
 
@@ -82,9 +83,7 @@ Democraty methods, concepts, etc...
 - [Camouflage from face detection.](https://cvdazzle.com/)
 
 ## Devops
-- [Devops tuto](http://trainingdevops.com/insights-and-tutorials)
 - [SecDevOps](http://www.cloud-experience.fr/securite-soluble-devops/)
-- [Gartner SecDevOps](https://devops.com/embeds/gartners-netsec-dirty-dozen-worst-practices/gartners-dirty-dozen/culture-of-no/)
 - [Ansible run analysis (ARA)](https://github.com/openstack/ara)
 
 ## Divertissements
@@ -114,19 +113,15 @@ Democraty methods, concepts, etc...
 - [Docker tuto](http://blog.javabien.net/)
 - [Tuto](https://blog.ouvrard.it/2016/04/21/cluster-docker-avec-rancher/)
 - [Network management](https://www.weave.works/)
-- [Docker compose / microservices / dev](http://blog.inovia-conseil.fr/?p=185)
 - [Docker tools](http://linuxfr.org/news/logiciels-pour-survivre-avec-docker)
 - [Docker auto update](https://www.andreagrandi.it/2014/10/25/automatically-pull-updated-docker-images-and-restart-containers-with-docker-puller/)
 - [Distribued microservices mesos at airb&amp;b](http://fr.slideshare.net/HenryCai2/hadoop-onmesos)
-- [Docker tools](http://www.sysdig.org/install/)
 - [Docker security](http://www.dennyzhang.com/docker_bench_security/?mkt_tok=eyJpIjoiTWpBek5tSXlOakZoTlRRMiIsInQiOiJXWmcycEp0ZEF5dlJJUTd4V0hZN2ZhczFPbng2OUlvZHExU2JFVHcwRTVid2pQUjhNZjJNRjFoWTNhYUxJNkl3ZzZnMnEwM3ppRjdlYjduSmxJbTFxZmtkUngyNTBBZUZaQXM4dXJOT2didz0ifQ%3D%3D)
 - [Docker base 2](http://sametmax.com/le-deploiement-par-conteneurs-avec-docker/)
 - [Docker host firewall](http://www.shorewall.org/Docker.html)
-- [Docker registry tls](http://trainingdevops.com/insights-and-tutorials/deploying-docker-registry-with-let-s-encrypt-ssl-tls-certs)
 - [Docker tips](https://csabapalfi.github.io/random-docker-tips/)
 - [Docker tools](http://www.lemondeinformatique.fr/actualites/lire-docker-engine-apporte-l-orchestration-de-conteneurs-65267.html)
 - [Docker health check](http://blog.arungupta.me/health-check-docker-containers/?mkt_tok=eyJpIjoiTWpBek5tSXlOakZoTlRRMiIsInQiOiJXWmcycEp0ZEF5dlJJUTd4V0hZN2ZhczFPbng2OUlvZHExU2JFVHcwRTVid2pQUjhNZjJNRjFoWTNhYUxJNkl3ZzZnMnEwM3ppRjdlYjduSmxJbTFxZmtkUngyNTBBZUZaQXM4dXJOT2didz0ifQ%3D%3D)
-- [Gitlab dind](https://blue.cse.buffalo.edu/gitlab/help/ci/docker/using_docker_build.md)
 - [Swarm shipyard](https://www.ivankrizsan.se/2016/07/10/managing-containers-shipyard/)
 - [Docker tools 2](http://www.lemondeinformatique.fr/actualites/lire-6-outils-de-suivi-des-conteneurs-concurrents-a-docker-62190.html)
 - [Complete tuto](https://serversforhackers.com/getting-started-with-docker)
@@ -135,10 +130,8 @@ Democraty methods, concepts, etc...
 - [Service discovery](https://www.consul.io/)
 - [Docker registry frontend (portus)](http://port.us.org/)
 - [Docker openvpn](https://www.digitalocean.com/community/tutorials/how-to-run-openvpn-in-a-docker-container-on-ubuntu-14-04)
-- [Python docker api](https://docker-py.readthedocs.io/en/latest/api/#attach)
 - [Dockerize django](http://masnun.com/2015/12/19/dockerizing-a-django-application.html)
 - [Docker orchestration](http://kubernetes.io/)
-- [Docker with python](http://blog.bordage.pro/avoid-docker-py/)
 - [Gitlab docker letsencrypt](https://blog.ouvrard.it/2016/03/12/gitlab-docker-lets-encrypt/)
 - [Docker compose](http://blog.hypriot.com/post/docker-compose-nodejs-haproxy/)
 - [Docker registry gitlab 2](http://docs.gitlab.com/ce/container_registry/README.html)
@@ -208,7 +201,7 @@ How to learn, how to manage goal and priorities, etc...
 [Get learning links](sections/learning.md)
 
 ## Linux
-- [Chroot debian](http://debootstrap/)
+- [Chroot debian](https://wiki.debian.org/Debootstrap)
 - [Keylogger x11](http://blog.rom1v.com/2011/11/keylogger-sous-gnulinux-enregistrer-les-touches-tapees-au-clavier/)
 - [Htop explain](https://peteris.rocks/blog/htop/)
 - [grep commands](http://www.linuxnix.com/grep-command-regular-expressions-examples-iii/)
@@ -232,13 +225,10 @@ Mathematics (theorems, etc...)
 
 ## Microservices
 - [Microservices reverse proxy](http://traefik.io/)
-- [Api example and tuto](http://apicodex.3scale.net/content/Welcome)
 - [Microservices security](http://www.grahamlea.com/2015/07/microservices-security-questions/)
 - [Network management](https://www.weave.works/)
-- [Docker compose / microservices / dev](http://blog.inovia-conseil.fr/?p=185)
 - [Distribued microservices mesos at airb&amp;b](http://fr.slideshare.net/HenryCai2/hadoop-onmesos)
 - [Interesting python blog ](http://krzysztofzuraw.com/)
-- [Api best practices](http://blog.mwaysolutions.com/2014/06/05/10-best-practices-for-better-restful-api/)
 - [Api searchengine](http://apis.io/)
 - [Microservices best practices](http://www.vinaysahni.com/best-practices-for-building-a-microservice-architecture)
 - [Api templates and architecture](http://apicommons.org/)
@@ -258,9 +248,7 @@ Networks science and theory (theorems, tools, articles)
 - [Hubot executing shell command](https://leanpub.com/automation-and-monitoring-with-hubot/read)
 
 ## Openbsd
-- [Generate package](http://ftp.tuwien.ac.at/.vhost/www.openbsd.org/xxx/fr/ports.html#Create)
 - [Generate package](http://www.openbsd.org/faq/ports/guide.html)
-- [Generate package](http://connect.ed-diamond.com/GNU-Linux-Magazine/GLMFHS-074/Architecture-des-pkg_tools-d-OpenBSD-et-outils-connexes)
 - [Generate package](http://www.openbsd.org/faq/ports/)
 - [Portage package list](http://portroach.openbsd.org/the%20openbsd%20ports%20mailing-list%20%3Cports@openbsd.org%3E.html)
 
@@ -347,8 +335,6 @@ Useful informations for RFC submitters like tooling, process, etc...
 ## Security
 - [Blog](http://tiwim.github.io/)
 - [Dirb](https://www.kali-linux.fr/forum/index.php?topic=1916.0)
-- [Blog secu fr (rfid, etc...)](https://bs-security.fr/)
-- [Container vulnerability scanner](https://www.twistlock.com/)
 - [Sandbox malware analyzis](http://docs.cuckoosandbox.org/en/latest/)
 - [Docker security](https://benchmarks.cisecurity.org/tools2/docker/CIS_Docker_1.12.0_Benchmark_v1.0.0.pdf)
 - [Hacking en ligne](https://www.root-me.org/fr/Challenges/App-Script/)
@@ -360,8 +346,6 @@ Useful informations for RFC submitters like tooling, process, etc...
 - [Online and local tools](https://geekflare.com/find-subdomains/)
 - [Online scanner](https://www.qualys.com/suite/web-application-scanning/)
 - [Docker host firewall](http://www.shorewall.org/Docker.html)
-- [Docker registry tls](http://trainingdevops.com/insights-and-tutorials/deploying-docker-registry-with-let-s-encrypt-ssl-tls-certs)
-- [Exploit db source](https://github.com/offensive-security/exploit-database/blob/master/platforms/php/dos/1063.pl)
 - [Phone snifing](https://www.evilsocket.net/2016/03/31/how-to-build-your-own-rogue-gsm-bts-for-fun-and-profit/)
 - [Pentest challenges](https://www.vulnhub.com/)
 - [Blog secu](http://www.websecuritylog.com/2014/10/facebook--bug-bounty.html?spref=tw)
@@ -376,7 +360,6 @@ Useful informations for RFC submitters like tooling, process, etc...
 - [Moteur de recherche failles](https://www.shodan.io/)
 - [Md5 crack](http://www.vulnerabilityassessment.co.uk/ighashpu.htm)
 - [Docker openvpn](https://www.digitalocean.com/community/tutorials/how-to-run-openvpn-in-a-docker-container-on-ubuntu-14-04)
-- [Letsencrypt tuto](https://vincent.composieux.fr/article/installer-configurer-et-renouveller-automatiquement-un-certificat-ssl-let-s-encrypt)
 - [Clé gpg en ligne](https://keybase.io/)
 - [Exploit leak](https://github.com/nneonneo/eqgrp-free-file)
 - [OWASP Zap security scanner](https://www.owasp.org/index.php/OWASP_Zed_Attack_Proxy_Project)
@@ -406,7 +389,6 @@ Useful informations for RFC submitters like tooling, process, etc...
 
 - [redhat mojo doc](https://mojo.redhat.com/docs/DOC-1195106)
 - [read sosreport with xsos](https://github.com/ryran/xsos)
-- [openstack & sosreport](https://docs.openstack.org/tripleo-docs/latest/install/troubleshooting/troubleshooting-log-and-status-capture.html)
 - [create a sosreport](https://access.redhat.com/solutions/3592)
 
 ## [Sociology](sections/sociology.md)
@@ -428,7 +410,6 @@ Sport links
 
 ## Tools
 - [Vim plugins](https://statico.github.io/vim3.html)
-- [Vim configuration](https://opium.io/my-vim-configuration/)
 - [Chat anonyme et crypté](https://hack.chat/)
 
 ## UI/UX
@@ -444,11 +425,7 @@ Manage different version control system like git, mercurial, svn, etc...
 
 [Get version control links](sections/version-control.md)
 
-## Vim
-- [vim substitution cheet sheet](http://www.theunixschool.com/2012/11/examples-vi-vim-substitution-commands.htm)
-
 ## Virtualization
-- [use kvm with command line](http://xmodulo.com/use-kvm-command-line-debian-ubuntu.html)
 - [VirtualBox images (VDI format)](https://www.osboxes.org/virtualbox-images/)
 - [Creating Guests with virt-install](https://access.redhat.com/documentation/en-us/red_hat_enterprise_linux/7/html/virtualization_deployment_and_administration_guide/sect-guest_virtual_machine_installation_overview-creating_guests_with_virt_install)
 - [virt-install examples](https://linux.die.net/man/1/virt-install)
@@ -465,14 +442,14 @@ Manage different version control system like git, mercurial, svn, etc...
 - [How work browser with css and js](http://taligarsiel.com/Projects/howbrowserswork1.htm)
 - [Online payments](https://stripe.com/fr)
 - [Online payments](https://www.payplug.com/)
-- [Material design unofficial](http://materializecss.com/dialogs.html)
+- [Material design unofficial](http://materializecss.com/)
 - [Form online](https://formspree.io/)
 - [Multi auth with redis session storage](http://michal.karzynski.pl/blog/2013/07/14/using-redis-as-django-session-store-and-cache-backend/)
 - [Gulp taches automatisées](http://www.alsacreations.com/tuto/lire/1686-introduction-a-gulp.html)
 - [JSencrypt - Encrypt/Decrypt RSA](https://github.com/travist/jsencrypt)
 
 ## Wikipedia
-- [French Dumps](https://dumps.wikimedia.org/frwiki/20180220/)
+- [French Dumps](https://dumps.wikimedia.org/frwiki/)
 
 ## [XKCD](sections/xkcd)
 A list of interesting xkcd webcomics
