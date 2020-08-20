@@ -1,7 +1,7 @@
 import argparse
-from pathlib import Path
 import re
 import sys
+from pathlib import Path
 
 import requests
 
@@ -33,7 +33,7 @@ def check_file(bookmark_file, only_error=False):
         for line in content.readlines():
             if "http" not in line:
                 continue
-            match = re.search("(?P<url>https?://[^\s]+)", line).group("url")
+            match = re.search("(?P<url>https?://[^\s]+)", line).group("url")  # noqa
             link = match.replace(')', '')
             check_link(link, bookmark_file, only_error)
     return invalid
