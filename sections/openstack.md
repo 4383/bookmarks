@@ -1,6 +1,6 @@
 # Openstack
 
-File's sections are ordered for my personal usages (not an alphabetical order)
+Page's sections are ordered for my personal usages (not an alphabetical order)
 and to get a quick access to things that I often need.
 
 ## Openstack reviews
