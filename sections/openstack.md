@@ -1,21 +1,27 @@
 # Openstack
 
-## Stats & status
-- [RPM packaging status](https://toabctl.de/openstack/rpm-packaging-status-ussuri.html)
-- [Ben Nemec's Oslo review stats](http://nemebean.com/reviewstats/oslo-open.html)
-
 ## Reviews
 
 ### Openstack reviews
-- [Oslo Reviews Inbox](https://review.opendev.org/#/dashboard/?foreach=(project:%5Eopenstack/oslo.*+OR+project:openstack/debtcollector+OR%0Aproject:openstack/pylockfile+OR+project:openstack/castellan+OR%0Aproject:openstack/futurist+OR+project:openstack/automaton+OR%0Aproject:openstack/stevedore+OR+project:openstack/taskflow+OR%0Aproject:openstack/tooz+OR+project:openstack-dev/cookiecutter+OR%0Aproject:openstack-dev/pbr+OR+project:openstack/debtcollector+OR%0Aproject:openstack-dev/oslo-cookiecutter+OR+project:openstack/mox3)%0Astatus:open+NOT+owner:self+NOT+label:Workflow%3C=-1+label:Verified%3E=1%0ANOT+reviewedby:self&title=Oslo+Review+Inbox&Oslo+Specs=project:openstack/oslo-specs&Bug+Fixes=topic:%5Ebug/.*&Blueprints=message:%22Blueprint%22&Needs+Feedback+(Changes+older+than+5+days+that+have+not+been+reviewed+by+anyone)=NOT+label:Code-Review%3C=2+age:5d&You+are+a+reviewer,+but+haven't+voted+in+the+current+revision=reviewer:self&Needs+final+%2B2=label:Code-Review%3E=2+limit:50&New+Contributors=reviewer:10068&Passed+Jenkins,+No+Negative+Feedback=NOT+label:Code-Review%3E=2+NOT+label:Code-Review%3C=-1+limit:50&Wayward+Changes+(Changes+with+no+code+review+in+the+last+2days)=NOT+label:Code-Review%3C=2+age:2d)
 - [Releases Reviews Inbox](https://review.opendev.org/#/dashboard/?title=Releases+Inbox&foreach=is%3Aopen&ussuri=project%3Aopenstack%2Freleases+file%3A%5Edeliverables%2Fussuri%2F.%2A+NOT+label%3AWorkflow%2D1&train=project%3Aopenstack%2Freleases+file%3A%5Edeliverables%2Ftrain%2F.%2A+NOT+label%3AWorkflow%2D1&stein=project%3Aopenstack%2Freleases+file%3A%5Edeliverables%2Fstein%2F.%2A+NOT+label%3AWorkflow%2D1&rocky=project%3Aopenstack%2Freleases+file%3A%5Edeliverables%2Frocky%2F.%2A+NOT+label%3AWorkflow%2D1&independent=project%3Aopenstack%2Freleases+file%3A%5Edeliverables%2F_independent%2F.%2A+NOT+label%3AWorkflow%2D1&Tools%2FJobs=%28%0A%28+project%3Aopenstack%2Dinfra%2Fproject%2Dconfig+file%3A%5Ezuul%2Fscripts%2Frelease%2Dtools%2F.%2A+%29%0AOR%0Aproject%3Aopenstack%2Dinfra%2Frelease%2Dtest%0AOR%0A%28+project%3Aopenstack%2Freleases+file%3A%5Eopenstack_releases%2F.%2A+%29%0AOR%0Aproject%3Aopenstack%2Freno%0A%29&All+Releases=is%3Aopen+project%3Aopenstack%2Freleases)
 - [requirements reviews](https://review.opendev.org/#/q/project:openstack/requirements)
+- [RPM reviews](https://review.opendev.org/#/q/project:openstack/rpm-packaging)
+- [Oslo Reviews Inbox](https://review.opendev.org/#/dashboard/?foreach=(project:%5Eopenstack/oslo.*+OR+project:openstack/debtcollector+OR%0Aproject:openstack/pylockfile+OR+project:openstack/castellan+OR%0Aproject:openstack/futurist+OR+project:openstack/automaton+OR%0Aproject:openstack/stevedore+OR+project:openstack/taskflow+OR%0Aproject:openstack/tooz+OR+project:openstack-dev/cookiecutter+OR%0Aproject:openstack-dev/pbr+OR+project:openstack/debtcollector+OR%0Aproject:openstack-dev/oslo-cookiecutter+OR+project:openstack/mox3)%0Astatus:open+NOT+owner:self+NOT+label:Workflow%3C=-1+label:Verified%3E=1%0ANOT+reviewedby:self&title=Oslo+Review+Inbox&Oslo+Specs=project:openstack/oslo-specs&Bug+Fixes=topic:%5Ebug/.*&Blueprints=message:%22Blueprint%22&Needs+Feedback+(Changes+older+than+5+days+that+have+not+been+reviewed+by+anyone)=NOT+label:Code-Review%3C=2+age:5d&You+are+a+reviewer,+but+haven't+voted+in+the+current+revision=reviewer:self&Needs+final+%2B2=label:Code-Review%3E=2+limit:50&New+Contributors=reviewer:10068&Passed+Jenkins,+No+Negative+Feedback=NOT+label:Code-Review%3E=2+NOT+label:Code-Review%3C=-1+limit:50&Wayward+Changes+(Changes+with+no+code+review+in+the+last+2days)=NOT+label:Code-Review%3C=2+age:2d)
 - [Infra reviews](https://review.opendev.org/#/q/project:openstack/project-config)
 - [Puppet-oslo](https://review.opendev.org/#/q/project:openstack/puppet-oslo)
-- [RPM reviews](https://review.opendev.org/#/q/project:openstack/rpm-packaging)
+- [Followed contributors](https://review.opendev.org/#/dashboard/?title=hberaud+Inbox&Sean=is:open+owner:%22Sean+McGinnis+%253Csean.mcginnis%2540gmail.com%253E%22+NOT+reviewedby:self+label:Verified%3E=1&Andreas=owner:%22Andreas+Jaeger+%253Cjaegerandi%2540gmail.com%253E%22+is:open+NOT+reviewedby:self+label:Verified%3E=1&Gmann=owner:%22Ghanshyam%20Mann%20%3Cgmann@ghanshyammann.com%3E%22+is:open+NOT+reviewedby:self+label:Verified%3E=1&Dmitriy=owner:%22Dmitriy+Rabotyagov+(noonedeadpunk)%22+status:open+is:open+NOT+reviewedby:self+label:Verified%3E=1)
 - [Openstacksdk reviews](https://review.opendev.org/#/q/project:openstack/openstacksdk)
 - [Openstackclient reviews](https://review.opendev.org/#/dashboard/?title=clients&Openstackclient=project:openstack/openstackclient+is:open&python-openstackclient=project:openstack/python-openstackclient+is:open)
-- [Followed contributors](https://review.opendev.org/#/dashboard/?title=hberaud+Inbox&Sean=is:open+owner:%22Sean+McGinnis+%253Csean.mcginnis%2540gmail.com%253E%22+NOT+reviewedby:self+label:Verified%3E=1&Andreas=owner:%22Andreas+Jaeger+%253Cjaegerandi%2540gmail.com%253E%22+is:open+NOT+reviewedby:self+label:Verified%3E=1&Gmann=owner:%22Ghanshyam%20Mann%20%3Cgmann@ghanshyammann.com%3E%22+is:open+NOT+reviewedby:self+label:Verified%3E=1&Dmitriy=owner:%22Dmitriy+Rabotyagov+(noonedeadpunk)%22+status:open+is:open+NOT+reviewedby:self+label:Verified%3E=1)
+
+## Release Management
+- [core team members](https://review.opendev.org/#/admin/groups/11,members)
+- [reno issues during sdist](https://storyboard.openstack.org/#!/story/2007274)
+- [stable branches docs](https://docs.openstack.org/project-team-guide/stable-branches.html)
+- [stable branches policy](https://governance.openstack.org/tc/reference/tags/stable_follows-policy.html)
+- [Release processes - week per weeks steps](https://releases.openstack.org/reference/process.html)
+- [Ussuri release management team's calendar](https://etherpad.openstack.org/p/ussuri-relmgt-tracking)
+- [Example of cycle management that I've done on ussuri](https://etherpad.openstack.org/p/cycle-with-intermediary-deliverables)
+- [Release canary test](https://review.opendev.org/#/c/721299/2/deliverables/ussuri/release-test.yaml)
 
 ### Reviews on underlaying libraries (pull requests & issues)
 - [cpython pull requests ](https://github.com/python/cpython/pulls)
@@ -26,6 +32,10 @@
 - [kombu issues](https://github.com/celery/kombu/issues)
 - [py-amqp pull requests](https://github.com/celery/py-amqp/pulls)
 - [py-amqp issues](https://github.com/celery/py-amqp/issues)
+
+## Stats & status
+- [RPM packaging status](https://toabctl.de/openstack/rpm-packaging-status-ussuri.html)
+- [Ben Nemec's Oslo review stats](http://nemebean.com/reviewstats/oslo-open.html)
 
 ## General
 - [Network management](https://www.weave.works/)
@@ -89,16 +99,6 @@
 
 ## /tmp
 - [[oslo.messaging][RDO] Add pyngus to rhel > 7](https://review.rdoproject.org/r/#/c/22745/)
-
-## Release Management
-- [core team members](https://review.opendev.org/#/admin/groups/11,members)
-- [reno issues during sdist](https://storyboard.openstack.org/#!/story/2007274)
-- [stable branches docs](https://docs.openstack.org/project-team-guide/stable-branches.html)
-- [stable branches policy](https://governance.openstack.org/tc/reference/tags/stable_follows-policy.html)
-- [Release processes - week per weeks steps](https://releases.openstack.org/reference/process.html)
-- [Ussuri release management team's calendar](https://etherpad.openstack.org/p/ussuri-relmgt-tracking)
-- [Example of cycle management that I've done on ussuri](https://etherpad.openstack.org/p/cycle-with-intermediary-deliverables)
-- [Release canary test](https://review.opendev.org/#/c/721299/2/deliverables/ussuri/release-test.yaml)
 
 ## Devstack
 - [Ben Nemec's multi devstack host blog post](http://blog.nemebean.com/content/multi-host-devstack)
