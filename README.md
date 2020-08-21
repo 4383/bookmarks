@@ -14,8 +14,10 @@ to share them with other people which could find useful informations here.
 This isn't a promotional website, I only store here things that I use daily
 or that are useful for me, so sorry I don't accept promotional links.
 
-Import your own from google bookmarks [with this script](https://gist.github.com/4383/1ccd5efe6d84d140da6c56689ac64a1e) and
-create your own github repo to manage your bookmarks.
+All the links stored here are [daily tested](https://github.com/4383/bookmarks/blob/gh-pages/.travis/checks.py)
+to detect dead links or moved web pages and so it help me to keep my bookmarks
+up-to-date over the years. You can run your own tests on your side by simply
+running `tox` on your clone of this repository.
 
 Also you can find [my personal notes and drafts available here](https://herve.beraud.io/notes/).
 
