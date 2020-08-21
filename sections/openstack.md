@@ -1,5 +1,7 @@
 # Openstack
 
+File's sections are ordered for my personal usages (not an alphabetical order)
+and to get a quick access to things that I often need.
 
 ## Openstack reviews
 - [Releases Reviews Inbox](https://review.opendev.org/#/dashboard/?title=Releases+Inbox&foreach=is%3Aopen&ussuri=project%3Aopenstack%2Freleases+file%3A%5Edeliverables%2Fussuri%2F.%2A+NOT+label%3AWorkflow%2D1&train=project%3Aopenstack%2Freleases+file%3A%5Edeliverables%2Ftrain%2F.%2A+NOT+label%3AWorkflow%2D1&stein=project%3Aopenstack%2Freleases+file%3A%5Edeliverables%2Fstein%2F.%2A+NOT+label%3AWorkflow%2D1&rocky=project%3Aopenstack%2Freleases+file%3A%5Edeliverables%2Frocky%2F.%2A+NOT+label%3AWorkflow%2D1&independent=project%3Aopenstack%2Freleases+file%3A%5Edeliverables%2F_independent%2F.%2A+NOT+label%3AWorkflow%2D1&Tools%2FJobs=%28%0A%28+project%3Aopenstack%2Dinfra%2Fproject%2Dconfig+file%3A%5Ezuul%2Fscripts%2Frelease%2Dtools%2F.%2A+%29%0AOR%0Aproject%3Aopenstack%2Dinfra%2Frelease%2Dtest%0AOR%0A%28+project%3Aopenstack%2Freleases+file%3A%5Eopenstack_releases%2F.%2A+%29%0AOR%0Aproject%3Aopenstack%2Freno%0A%29&All+Releases=is%3Aopen+project%3Aopenstack%2Freleases)
