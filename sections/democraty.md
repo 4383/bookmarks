@@ -12,6 +12,10 @@
 - [tools - Condorcet Internet Voting Service](https://civs.cs.cornell.edu/civs_create.html)
 - [tools - python majority judgment](https://github.com/zhibogit/majority-judgement-python)
 
+## Politics & colonialism
+
+- [Blum–Viollette proposal](https://fr.wikipedia.org/wiki/Projet_Blum-Viollette)
+
 ## Alternatives
 
 - [On Consensus and Humming in the IETF](https://tools.ietf.org/html/rfc7282)
