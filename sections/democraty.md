@@ -15,6 +15,7 @@
 ## Politics & colonialism
 
 - [Blum–Viollette proposal](https://fr.wikipedia.org/wiki/Projet_Blum-Viollette)
+- [Jules Ferry's colonial point of view](https://fr.wikipedia.org/wiki/Jules_Ferry#Chute_sur_la_question_coloniale)
 
 ## Alternatives
 
