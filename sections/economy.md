@@ -13,3 +13,12 @@
 
 - [Enjeux numérique](http://annales.org/enjeux-numeriques/tab-en.html)
 - [Annales des mines & polytechnique - toutes sections](http://annales.org/)
+
+## Models
+
+- [Free software economical models](https://aful.org/professionnels/modeles-economiques-logiciels-libres)
+
+## Certifications
+
+- [Certification](https://fr.wikipedia.org/wiki/Certification)
+- [Participatory Guarantee Systems](https://en.wikipedia.org/wiki/Participatory_Guarantee_Systems)
