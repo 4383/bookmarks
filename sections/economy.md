@@ -16,9 +16,12 @@
 
 ## Models
 
-- [Free software economical models](https://aful.org/professionnels/modeles-economiques-logiciels-libres)
+- [Free software business models](https://aful.org/professionnels/modeles-economiques-logiciels-libres)
+- [Public-benefit corporation](https://en.wikipedia.org/wiki/Public-benefit_corporation)
+- [Change.org  business model](https://www.change.org/about/business-model)
 
 ## Certifications
 
 - [Certification](https://fr.wikipedia.org/wiki/Certification)
 - [Participatory Guarantee Systems](https://en.wikipedia.org/wiki/Participatory_Guarantee_Systems)
+- [B Corporation certification for for-profit organization](https://en.wikipedia.org/wiki/B_Lab)
