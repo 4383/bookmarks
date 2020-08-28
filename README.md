@@ -102,6 +102,10 @@ Democraty methods, concepts, etc...
 ## Dns
 - [Docker bind dns](https://www.damagehead.com/blog/2015/04/28/deploying-a-dns-server-using-docker/)
 
+## Docs
+
+- [Google developer documentation style guide](https://developers.google.com/style/pronouns)
+
 ## Docker
 - [Docker django](http://michal.karzynski.pl/blog/2015/04/19/packaging-django-applications-as-docker-container-images/)
 - [Container vulnerability scanner](https://www.twistlock.com/)
