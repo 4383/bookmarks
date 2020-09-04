@@ -147,6 +147,7 @@ Democraty methods, concepts, etc...
 
 ## Documentation
 - [docbook](https://fr.wikipedia.org/wiki/DocBook)
+- [Demonym](https://en.wikipedia.org/wiki/Demonym)
 
 ## Electronic
 - [Wifi jammer](http://www.instructables.com/id/Build-your-own-WIFI-jammer/)
