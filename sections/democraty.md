@@ -20,3 +20,8 @@
 ## Alternatives
 
 - [On Consensus and Humming in the IETF](https://tools.ietf.org/html/rfc7282)
+
+## Strategies
+
+- [Southern strategy](https://en.wikipedia.org/wiki/Southern_strategy)
+- [Selectorate theory](https://en.wikipedia.org/wiki/Selectorate_theory)
