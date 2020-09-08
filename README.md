@@ -76,9 +76,6 @@ Debug tools, articles and resources
 
 [Get debug links](sections/debug)
 
-## [Democraty](sections/democraty.md)
-Democraty methods, concepts, etc...
-
 [Get democraty links](sections/democraty.md)
 
 ## Deep Learning
