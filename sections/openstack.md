@@ -13,6 +13,7 @@ and to get a quick access to things that I often need.
 - [Followed contributors](https://review.opendev.org/#/dashboard/?title=hberaud+Inbox&Sean=is:open+owner:%22Sean+McGinnis+%253Csean.mcginnis%2540gmail.com%253E%22+NOT+reviewedby:self+label:Verified%3E=1&Andreas=owner:%22Andreas+Jaeger+%253Cjaegerandi%2540gmail.com%253E%22+is:open+NOT+reviewedby:self+label:Verified%3E=1&Gmann=owner:%22Ghanshyam%20Mann%20%3Cgmann@ghanshyammann.com%3E%22+is:open+NOT+reviewedby:self+label:Verified%3E=1&Dmitriy=owner:%22Dmitriy+Rabotyagov+(noonedeadpunk)%22+status:open+is:open+NOT+reviewedby:self+label:Verified%3E=1)
 - [Openstacksdk reviews](https://review.opendev.org/#/q/project:openstack/openstacksdk)
 - [Openstackclient reviews](https://review.opendev.org/#/dashboard/?title=clients&Openstackclient=project:openstack/openstackclient+is:open&python-openstackclient=project:openstack/python-openstackclient+is:open)
+- [experimental](https://review.opendev.org/#/dashboard/?title=Release/Requirements/Rpm-packaging%20Inbox&foreach=is:open+NOT+reviewedby:self&Releases=is:open%20project:openstack/releases&Requirements=is:open%20project:openstack/requirements&Rpm-packaging=is:open%20project:openstack/rpm-packaging)
 
 ## Release Management
 - [core team members](https://review.opendev.org/#/admin/groups/11,members)
