@@ -39,6 +39,10 @@ and to get a quick access to things that I often need.
 
 - [Updated from generate-constraints](https://review.opendev.org/#/c/748113/)
 
+## RPM packaging
+
+- [meeting pad](https://etherpad.opendev.org/p/openstack-rpm-packaging)
+
 ## Stats & status
 - [RPM packaging status](https://toabctl.de/openstack/rpm-packaging-status-ussuri.html)
 - [Ben Nemec's Oslo review stats](http://nemebean.com/reviewstats/oslo-open.html)
