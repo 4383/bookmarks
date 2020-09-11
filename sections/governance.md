@@ -46,3 +46,7 @@
 ## Organization
 
 - [https://en.wikipedia.org/wiki/Board_of_directors](https://en.wikipedia.org/wiki/Board_of_directors)
+
+## History
+
+- [1945 United Kingdom general election](https://fr.wikipedia.org/wiki/%C3%89lections_g%C3%A9n%C3%A9rales_britanniques_de_1945)
