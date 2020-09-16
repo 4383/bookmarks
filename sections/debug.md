@@ -7,6 +7,7 @@
 - [Secrets of the Ftrace function tracer](https://lwn.net/Articles/370423/)
 - [GDB: GNU debugger](https://vstinner.readthedocs.io/gdb.html)
 - [htop explained](https://peteris.rocks/blog/htop/)
+- [Performance Co-Pilot](https://pcp.io/)
 
 ## RabbitMQ
 - [debug rabbitmq](https://herve.beraud.io/debug/sections/rabbitmq.html)
