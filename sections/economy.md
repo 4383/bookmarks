@@ -5,6 +5,7 @@
 - [The Big Mac Index](https://en.wikipedia.org/wiki/Big_Mac_Index)
 - [The Market for “Lemons”](https://fr.wikipedia.org/wiki/The_Market_for_%E2%80%9CLemons%E2%80%9D)
 - [Théorie Relative de la Monnaie v2.718](https://trm.creationmonetaire.info/)
+- [Comparative advantage -  David Ricardo](https://en.wikipedia.org/wiki/Comparative_advantage)
 
 ## Econophysic
 
