@@ -107,6 +107,8 @@ and to get a quick access to things that I often need.
 - [Openstack IRC bot (Gerritbot)](https://docs.openstack.org/infra/system-config/irc.html)
 - [Tested runtimes - Victoria](https://governance.openstack.org/tc/reference/runtimes/victoria.html)
 
+## Governance
+- [OpenStack Election](https://governance.openstack.org/election/)
 ## /tmp
 - [[oslo.messaging][RDO] Add pyngus to rhel > 7](https://review.rdoproject.org/r/#/c/22745/)
 
