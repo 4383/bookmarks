@@ -27,6 +27,7 @@ and to get a quick access to things that I often need.
 - [QA releases](https://wiki.openstack.org/wiki/QA/releases)
 - [Project stopwatch](https://review.opendev.org/#/c/718929/)
 - [Wallaby release management tracking - Draft](https://etherpad.opendev.org/p/wallaby-relmgt-tracking-draft)
+- [release' zuul builds](https://zuul.opendev.org/t/openstack/builds?project=openstack%2Freleases)
 
 ## Reviews on underlaying libraries (pull requests & issues)
 - [cpython pull requests ](https://github.com/python/cpython/pulls)
