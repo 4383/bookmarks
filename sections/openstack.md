@@ -24,6 +24,7 @@ and to get a quick access to things that I often need.
 - [Ussuri release management team's calendar](https://etherpad.openstack.org/p/ussuri-relmgt-tracking)
 - [Example of cycle management that I've done on ussuri](https://etherpad.openstack.org/p/cycle-with-intermediary-deliverables)
 - [Release canary test](https://review.opendev.org/#/c/721299/2/deliverables/ussuri/release-test.yaml)
+- [QA releases](https://wiki.openstack.org/wiki/QA/releases)
 
 ## Reviews on underlaying libraries (pull requests & issues)
 - [cpython pull requests ](https://github.com/python/cpython/pulls)
