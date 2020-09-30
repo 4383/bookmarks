@@ -28,6 +28,8 @@ and to get a quick access to things that I often need.
 - [Project stopwatch](https://review.opendev.org/#/c/718929/)
 - [Wallaby release management tracking - Draft](https://etherpad.opendev.org/p/wallaby-relmgt-tracking-draft)
 - [release' zuul builds](https://zuul.opendev.org/t/openstack/builds?project=openstack%2Freleases)
+- [zuul release-openstack-python](https://zuul.opendev.org/t/openstack/builds?job_name=release-openstack-python)
+- [Release-job-failures ML](http://lists.openstack.org/cgi-bin/mailman/listinfo/release-job-failures)
 
 ## Reviews on underlaying libraries (pull requests & issues)
 - [cpython pull requests ](https://github.com/python/cpython/pulls)
