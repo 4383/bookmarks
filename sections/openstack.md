@@ -48,6 +48,7 @@ and to get a quick access to things that I often need.
 ## RPM packaging
 
 - [meeting pad](https://etherpad.opendev.org/p/openstack-rpm-packaging)
+- [branching sample](https://review.opendev.org/#/c/645896/)
 
 ## Stats & status
 - [RPM packaging status](https://toabctl.de/openstack/rpm-packaging-status-ussuri.html)
