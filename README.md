@@ -76,8 +76,6 @@ Debug tools, articles and resources
 
 [Get debug links](sections/debug)
 
-[Get democraty links](sections/democraty.md)
-
 ## Deep Learning
 - [Camouflage from face detection.](https://cvdazzle.com/)
 
