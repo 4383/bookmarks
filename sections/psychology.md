@@ -8,6 +8,8 @@
 - [observation bias in benchmark](http://matthewrocklin.com/blog/work/2017/03/09/biased-benchmarks)
 - [Quantifying the scientific revolution](https://drive.google.com/file/d/14XXlDjyru9i05_SN3ybp-FGmbsZDhm5U/view)
 - [Modèle de Kübler-Ross](https://fr.wikipedia.org/wiki/Mod%C3%A8le_de_K%C3%BCbler-Ross)
+- [Bystander effect](https://en.wikipedia.org/wiki/Bystander_effect)
+- [Just-world hypothesis](https://en.wikipedia.org/wiki/Just-world_hypothesis)
 
 ## UX design by using psychology
 - [Hick's Law](https://fr.wikipedia.org/wiki/Loi_de_Hick)
