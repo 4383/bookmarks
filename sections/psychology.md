@@ -12,6 +12,7 @@
 - [Just-world hypothesis](https://en.wikipedia.org/wiki/Just-world_hypothesis)
 
 ## UX design by using psychology
+
 - [Hick's Law](https://fr.wikipedia.org/wiki/Loi_de_Hick)
 - [Zeigarnik's effect](https://fr.wikipedia.org/wiki/Effet_Zeigarnik)
 - [Von Restorff's effect](https://fr.wikipedia.org/wiki/Effet_von_Restorff)
@@ -26,3 +27,6 @@
 - [Jakob's laws - 2](https://lawsofux.com/jakobs-law)
 - [Fitts's laws](https://fr.wikipedia.org/wiki/Loi_de_Fitts)
 
+## Persons
+
+- [Trofim Lyssenko](https://fr.wikipedia.org/wiki/Trofim_Lyssenko)
