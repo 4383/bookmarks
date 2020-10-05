@@ -116,6 +116,9 @@ and to get a quick access to things that I often need.
 
 ## Governance
 - [OpenStack Election](https://governance.openstack.org/election/)
+- [Openstack SIG](https://governance.openstack.org/sigs/)
+- [DPL](https://governance.openstack.org/tc/resolutions/20200803-distributed-project-leadership.html)
+
 ## /tmp
 - [[oslo.messaging][RDO] Add pyngus to rhel > 7](https://review.rdoproject.org/r/#/c/22745/)
 
