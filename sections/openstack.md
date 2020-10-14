@@ -25,6 +25,8 @@ and to get a quick access to things that I often need.
 - [Example of cycle management that I've done on ussuri](https://etherpad.openstack.org/p/cycle-with-intermediary-deliverables)
 - [Release canary test](https://review.opendev.org/#/c/721299/2/deliverables/ussuri/release-test.yaml)
 - [QA releases](https://wiki.openstack.org/wiki/QA/releases)
+- [openstack-announce - OpenStack Ussuri is officially released!](http://lists.openstack.org/pipermail/openstack-announce/2020-May/002035.html)
+- [openstack-announce - OpenStack Victoria is officially released!](http://lists.openstack.org/pipermail/openstack-announce/2020-October/002041.html)
 - [Project stopwatch](https://review.opendev.org/#/c/718929/)
 - [Wallaby release management tracking - Draft](https://etherpad.opendev.org/p/wallaby-relmgt-tracking-draft)
 - [release' zuul builds](https://zuul.opendev.org/t/openstack/builds?project=openstack%2Freleases)
