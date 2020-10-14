@@ -30,6 +30,7 @@ and to get a quick access to things that I often need.
 - [release' zuul builds](https://zuul.opendev.org/t/openstack/builds?project=openstack%2Freleases)
 - [zuul release-openstack-python](https://zuul.opendev.org/t/openstack/builds?job_name=release-openstack-python)
 - [Release-job-failures ML](http://lists.openstack.org/cgi-bin/mailman/listinfo/release-job-failures)
+- [Maintenance phases](https://docs.openstack.org/project-team-guide/stable-branches.html#maintenance-phases)
 
 ## Reviews on underlaying libraries (pull requests & issues)
 - [cpython pull requests ](https://github.com/python/cpython/pulls)
