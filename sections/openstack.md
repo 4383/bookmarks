@@ -34,6 +34,11 @@ and to get a quick access to things that I often need.
 - [Release-job-failures ML](http://lists.openstack.org/cgi-bin/mailman/listinfo/release-job-failures)
 - [Maintenance phases](https://docs.openstack.org/project-team-guide/stable-branches.html#maintenance-phases)
 
+### Release meetings
+- [wallaby meeting tracking](https://etherpad.opendev.org/p/wallaby-relmgt-tracking)
+- [old victoria meeting example](http://eavesdrop.openstack.org/irclogs/%23openstack-release/%23openstack-release.2020-10-08.log.html#t2020-10-08T16:00:04)
+- [wallaby schedule](https://releases.openstack.org/wallaby/schedule.html)
+
 ## Reviews on underlaying libraries (pull requests & issues)
 - [cpython pull requests ](https://github.com/python/cpython/pulls)
 - [cpython issues](https://bugs.python.org/)
