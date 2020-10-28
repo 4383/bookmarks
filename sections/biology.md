@@ -8,3 +8,7 @@
 ## Genetics
 
 - [Hox gene](https://en.wikipedia.org/wiki/Hox_gene)
+
+## Epidemiology
+
+- [Compartmental models in epidemiology](https://en.wikipedia.org/wiki/Compartmental_models_in_epidemiology)
