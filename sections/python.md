@@ -71,3 +71,5 @@
 - [Red Hat Enterprise Linux 8.2 brings faster Python 3.8 run speeds](https://developers.redhat.com/blog/2020/06/25/red-hat-enterprise-linux-8-2-brings-faster-python-3-8-run-speeds/)
 - [Python async frameworks - Beyond developer tribalism](https://www.encode.io/articles/python-async-frameworks-beyond-developer-tribalism)
 - [The Little Book of Python Anti-Patterns](https://docs.quantifiedcode.com/python-anti-patterns/)
+- [Debugging With Gdb](https://wiki.python.org/moin/DebuggingWithGdb)
+- [Debugging a Segfault in oslo.privsep](http://blog.nemebean.com/content/debugging-segfault-osloprivsep)
