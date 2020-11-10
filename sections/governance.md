@@ -6,10 +6,13 @@
 - [Open Decision Framework (PDF presentation)](https://github.com/red-hat-people-team/open-decision-framework/blob/master/ODF-community.pdf)
 - [Meritoicracy](https://opensource.com/business/12/5/best-idea-wins-jim-whitehurst-red-hat-meritocracy)
 - [Open source governance: Benevolent dictator or decision by committee?](https://stackoverflow.blog/2020/09/09/open-source-governance-benevolent-dictator-or-decision-by-committee/)
+- [Cultures differennce - Geert Hofstede](https://fr.m.wikipedia.org/wiki/Geert_Hofstede)
 
 ## Governance
 - [Holacracy constitution version 4.1 (French version)](https://github.com/holacracyone/Holacracy-Constitution-4.1-FRENCH/blob/master/Constitution-Holacracy.md)
 - [Holacracy (wikipedia)](https://fr.wikipedia.org/wiki/Holacratie)
+- [Ochlocratie](https://fr.wikipedia.org/wiki/Ochlocratie)
+- [Anacyclose](https://fr.wikipedia.org/wiki/Anacyclose)
 
 ## Open Source
 - [Introduction to creating and nurturing communities of contributors. ](https://www.theopensourceway.org/wiki/Introduction)
