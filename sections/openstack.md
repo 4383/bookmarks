@@ -69,6 +69,7 @@ and to get a quick access to things that I often need.
 - [doc guideline](https://specs.openstack.org/openstack/docs-specs/specs/pike/os-manuals-migration.html)
 - [zuul history](https://opensource.com/article/20/2/zuul)
 - [TC - python version process update on openstack](https://governance.openstack.org/tc/resolutions/20181024-python-update-process.html)
+- [The OpenStack Landscape](https://www.openstack.org/software/)
 
 ## Contribution guides
 - [OpenStack Style Guidelines](https://docs.openstack.org/hacking/latest/user/hacking.html#styleguide)
