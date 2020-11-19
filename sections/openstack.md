@@ -33,6 +33,7 @@ and to get a quick access to things that I often need.
 - [zuul release-openstack-python](https://zuul.opendev.org/t/openstack/builds?job_name=release-openstack-python)
 - [Release-job-failures ML](http://lists.openstack.org/cgi-bin/mailman/listinfo/release-job-failures)
 - [Maintenance phases](https://docs.openstack.org/project-team-guide/stable-branches.html#maintenance-phases)
+- [check-release-approval](https://zuul.openstack.org/builds?job_name=check-release-approval)
 
 ### Release meetings
 - [wallaby meeting tracking](https://etherpad.opendev.org/p/wallaby-relmgt-tracking)
