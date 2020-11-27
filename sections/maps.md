@@ -11,3 +11,4 @@
 - [ER and Urgent Care wait times from publicly available sources](https://ertrack.net/)
 - [factfulness - Almost nobody knows the basic global facts!](https://www.gapminder.org)
 - [European mortality monitoring](https://www.euromomo.eu/graphs-and-maps#excess-mortality)
+- [Our World in Data](https://ourworldindata.org/)
