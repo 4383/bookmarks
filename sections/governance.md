@@ -13,6 +13,7 @@
 - [Holacracy (wikipedia)](https://fr.wikipedia.org/wiki/Holacratie)
 - [Ochlocratie](https://fr.wikipedia.org/wiki/Ochlocratie)
 - [Anacyclose](https://fr.wikipedia.org/wiki/Anacyclose)
+- [The Political Spectrum as interpreted by the Selectorate Theory](https://www.reddit.com/r/PoliticalCompass/comments/ie4ocf/the_political_spectrum_as_interpreted_by_the/)
 
 ## Open Source
 - [Introduction to creating and nurturing communities of contributors. ](https://www.theopensourceway.org/wiki/Introduction)
