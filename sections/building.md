@@ -9,3 +9,7 @@
 ## Tools
 
 - [Router Bits - fraesers](https://www.fine-tools.com/fraeser.html)
+
+## Fence
+
+- [Four ways to comply with the regulations without feeling like you're behind bars](https://www.landscapology.com.au/blog-collection/2014/1/23/design-class-pool-fences)
