@@ -8,6 +8,7 @@
 - [GDB: GNU debugger](https://vstinner.readthedocs.io/gdb.html)
 - [htop explained](https://peteris.rocks/blog/htop/)
 - [Performance Co-Pilot](https://pcp.io/)
+- [Automate Debugging with GDB Python API](https://interrupt.memfault.com/blog/automate-debugging-with-gdb-python-api)
 
 ## RabbitMQ
 - [debug rabbitmq](https://herve.beraud.io/debug/sections/rabbitmq.html)
