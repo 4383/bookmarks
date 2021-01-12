@@ -19,6 +19,7 @@
 - [Time-scale calculus](https://en.wikipedia.org/wiki/Time-scale_calculus)
 - [Planck time](https://en.wikipedia.org/wiki/Planck_time)
 - [Time series](https://en.wikipedia.org/wiki/Time_series)
+- [Dynamics of cascades on burstiness-controlled temporal networks](https://www.nature.com/articles/s41467-020-20398-4)
 
 ## Tools & libraries
 - [apach spark](https://spark.apache.org/)
