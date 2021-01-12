@@ -10,6 +10,7 @@
 - [COVID-19 alternated quarantine](https://face6021-972c-41f8-8dbb-3517c36b0e61.filesusr.com/ugd/8f49e1_da4094e5e03740e3966844b1daeebb46.pdf)
 - [COVID19 - Modeling the impact of social distancing, testing, contacttracing and household quarantin](https://www.mobs-lab.org/uploads/6/7/8/7/6787877/tracing_main_may4.pdf)
 - [SIR model](https://www.lewuathe.com/covid-19-dynamics-with-sir-model.html)
+- [Correlated bursts in temporal networks slow down spreading](https://www.nature.com/articles/s41598-018-33700-8)
 
 ## Scales
 - [Multiple-scale analysis](https://en.wikipedia.org/wiki/Multiple-scale_analysis)
