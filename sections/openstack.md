@@ -131,6 +131,7 @@ and to get a quick access to things that I often need.
 - [OpenStack Election](https://governance.openstack.org/election/)
 - [Openstack SIG](https://governance.openstack.org/sigs/)
 - [Distributed Project Lead (DPL)](https://governance.openstack.org/tc/resolutions/20200803-distributed-project-leadership.html)
+- [Deprecating a repository](https://docs.openstack.org/project-team-guide/repository.html#deprecating-a-repository)
 
 ## /tmp
 - [[oslo.messaging][RDO] Add pyngus to rhel > 7](https://review.rdoproject.org/r/#/c/22745/)
