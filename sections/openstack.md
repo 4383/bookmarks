@@ -35,6 +35,7 @@ and to get a quick access to things that I often need.
 - [Maintenance phases](https://docs.openstack.org/project-team-guide/stable-branches.html#maintenance-phases)
 - [check-release-approval](https://zuul.openstack.org/builds?job_name=check-release-approval)
 - [indicate relmgt style for each deliverable - abandon project](https://review.opendev.org/c/openstack/governance/+/613268)
+- [Automatize branch deletion](http://lists.openstack.org/pipermail/openstack-discuss/2021-January/020034.html)
 
 ### Release meetings
 - [wallaby meeting tracking](https://etherpad.opendev.org/p/wallaby-relmgt-tracking)
