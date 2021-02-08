@@ -41,6 +41,7 @@ and to get a quick access to things that I often need.
 - [wallaby meeting tracking](https://etherpad.opendev.org/p/wallaby-relmgt-tracking)
 - [old victoria meeting example](http://eavesdrop.openstack.org/irclogs/%23openstack-release/%23openstack-release.2020-10-08.log.html#t2020-10-08T16:00:04)
 - [wallaby schedule](https://releases.openstack.org/wallaby/schedule.html)
+- [release meetings logs](http://eavesdrop.openstack.org/irclogs/%23openstack-release/)
 
 ## Reviews on underlaying libraries (pull requests & issues)
 - [cpython pull requests ](https://github.com/python/cpython/pulls)
