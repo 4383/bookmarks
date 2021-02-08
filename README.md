@@ -139,6 +139,7 @@ Debug tools, articles and resources
 - [Docker registry gitlab 2](http://docs.gitlab.com/ce/container_registry/README.html)
 - [Network utilities](https://github.com/4383/netshoot)
 - [Docker regenerate nginx reverse proxy config automatically](https://github.com/deweysasser/docker-web-proxy-generator)
+- [containerized firefox](https://hub.docker.com/r/jlesage/firefox)
 
 ## Documentation
 - [docbook](https://fr.wikipedia.org/wiki/DocBook)
