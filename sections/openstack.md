@@ -43,6 +43,9 @@ and to get a quick access to things that I often need.
 - [wallaby schedule](https://releases.openstack.org/wallaby/schedule.html)
 - [release meetings logs](http://eavesdrop.openstack.org/irclogs/%23openstack-release/)
 
+### RDO
+- [RDO victoria](https://github.com/redhat-openstack/rdoinfo/blob/master/tags/victoria.yml#L1142)
+
 ## Reviews on underlaying libraries (pull requests & issues)
 - [cpython pull requests ](https://github.com/python/cpython/pulls)
 - [cpython issues](https://bugs.python.org/)
