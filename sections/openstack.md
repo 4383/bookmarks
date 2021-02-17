@@ -83,6 +83,7 @@ and to get a quick access to things that I often need.
 - [Contributing Guide](https://docs.openstack.org/horizon/latest/contributor/contributing.html)
 - [Code conventions](https://docs.openstack.org/doc-contrib-guide/writing-style/code-conventions.html)
 - [Writing style](https://docs.openstack.org/doc-contrib-guide/writing-style.html)
+- [Reviews guidelines](https://docs.openstack.org/doc-contrib-guide/docs-review-guidelines.html)
 
 ## Security
 - [Security notes](https://github.com/openstack/security-doc/tree/master/security-notes)
