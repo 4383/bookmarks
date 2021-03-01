@@ -84,6 +84,7 @@ and to get a quick access to things that I often need.
 - [Code conventions](https://docs.openstack.org/doc-contrib-guide/writing-style/code-conventions.html)
 - [Writing style](https://docs.openstack.org/doc-contrib-guide/writing-style.html)
 - [Reviews guidelines](https://docs.openstack.org/doc-contrib-guide/docs-review-guidelines.html)
+- [Four Opens Book](https://www.openstack.org/four-opens/)
 
 ## Security
 - [Security notes](https://github.com/openstack/security-doc/tree/master/security-notes)
