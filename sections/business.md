@@ -8,3 +8,9 @@
 ## Business modèles
 - [Startup studio](https://fr.wikipedia.org/wiki/Startup_studio)
 - [3 modèles économiques Internet](http://www.lucie-pinzano.com/2012/5-modeles-economiques-internet-innovants/)
+
+## Governance & management
+- [The matrix organization](https://www.pmi.org/learning/library/matrix-organization-structure-reason-evolution-1837)
+- [Basecamp - Shape up](https://basecamp.com/shapeup/webbook)
+- [Holacracy](https://github.com/holacracyone/)
+- [networks of rebellion](https://www.cornellpress.cornell.edu/book/9780801479298/networks-of-rebellion/#bookTabs=1)
