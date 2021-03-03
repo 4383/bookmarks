@@ -18,6 +18,7 @@
 ## Open Source
 - [Introduction to creating and nurturing communities of contributors. ](https://www.theopensourceway.org/wiki/Introduction)
 - [The Open Organization](https://opensource.com/open-organization)
+- [The State of Enterprise Open Source](https://www.redhat.com/en/enterprise-open-source-report/2021)
 
 ## Democraty
 
