@@ -12,3 +12,6 @@
 
 ## RabbitMQ
 - [debug rabbitmq](https://herve.beraud.io/debug/sections/rabbitmq.html)
+
+## Testing
+- [Flaky tests](https://medium.com/fitbit-tech-blog/a-machine-learning-solution-for-detecting-and-mitigating-flaky-tests-c5626ca7e853)
