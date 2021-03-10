@@ -388,6 +388,8 @@ Useful informations for RFC submitters like tooling, process, etc...
 - [crack password with AWS](https://medium.com/hackernoon/20-hours-18-and-11-million-passwords-cracked-c4513f61fdb1)
 - [Google OSS-Fuzz - continuous fuzzing of open source software.](https://github.com/google/oss-fuzz)
 - [VPN over SSH - sshuttle](https://blog.ktz.me/sshuttle-a-stupidly-simple-vpn-over-ssh/)
+- [How one man silently infiltrated dozens of high-tech networks](https://nakedsecurity.sophos.com/2021/02/16/how-one-man-silently-infiltrated-dozens-of-high-tech-networks/)
+- [Poison packages – “Supply Chain Risks” user hits Python community with 4000 fake modules](https://nakedsecurity.sophos.com/2021/03/07/poison-packages-supply-chain-risks-user-hits-python-community-with-4000-fake-modules/)
 
 ## Shell
 - [String manipulation](https://www.tldp.org/LDP/abs/html/string-manipulation.html)
