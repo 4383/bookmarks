@@ -213,7 +213,7 @@ How to learn, how to manage goal and priorities, etc...
 - [Configure kernel with CLI and grubby](https://fedoramagazine.org/setting-kernel-command-line-arguments-with-fedora-30/)
 - [Introduction to systemctl](https://www.linode.com/docs/quick-answers/linux-essentials/introduction-to-systemctl/)
 - [Linkedin - upgrading to RHEL7 with minimal interruption](https://engineering.linkedin.com/blog/2020/upgrading-to-rhel7-with-minimal-interruptions)
-- [Packages Search for Linux and Unix](https://pkgs.org)
+- [Distros packages Search for Linux and Unix](https://pkgs.org)
 - [Fedora 33 annoucement](https://fedoramagazine.org/announcing-fedora-33/)
 
 ## [Maps, geographical data and statistics](section/maps.md)
