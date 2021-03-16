@@ -36,6 +36,7 @@ and to get a quick access to things that I often need.
 - [check-release-approval](https://zuul.openstack.org/builds?job_name=check-release-approval)
 - [indicate relmgt style for each deliverable - abandon project](https://review.opendev.org/c/openstack/governance/+/613268)
 - [Automatize branch deletion](http://lists.openstack.org/pipermail/openstack-discuss/2021-January/020034.html)
+- cycle-with-rc and major releases[](https://docs.openstack.org/project-team-guide/release-management.html#services-horizon-plugins-and-other-deliverables)
 
 ### Release meetings
 - [wallaby meeting tracking](https://etherpad.opendev.org/p/wallaby-relmgt-tracking)
