@@ -20,12 +20,14 @@
 - [The Open Organization](https://opensource.com/open-organization)
 - [The State of Enterprise Open Source](https://www.redhat.com/en/enterprise-open-source-report/2021)
 
-## Democraty
+## Democracy
 
 - [Schulze method](https://fr.wikipedia.org/wiki/Méthode_Schulze)
 - [condorcet method](https://fr.wikipedia.org/wiki/M%C3%A9thode_de_Condorcet)
 - [condorcet paradox](https://fr.wikipedia.org/wiki/Paradoxe_de_Condorcet)
 - [Direct democracy](https://en.wikipedia.org/wiki/Direct_democracy)
+- [Democracylab](https://blog.democracylab.org/)
+- [Demlab](https://demlab.org/)
 
 ## Voting systems and tools
 
