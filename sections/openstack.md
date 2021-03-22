@@ -37,6 +37,7 @@ and to get a quick access to things that I often need.
 - [indicate relmgt style for each deliverable - abandon project](https://review.opendev.org/c/openstack/governance/+/613268)
 - [Automatize branch deletion](http://lists.openstack.org/pipermail/openstack-discuss/2021-January/020034.html)
 - cycle-with-rc and major releases[](https://docs.openstack.org/project-team-guide/release-management.html#services-horizon-plugins-and-other-deliverables)
+- [OpenStack has a 6-month long release cadence](https://github.com/openstack/contributor-guide/blob/15f217ef3ebb0fb699a5b5fb0165de7abcbdc92d/doc/source/common/releases.rst)
 
 ### Release meetings
 - [wallaby meeting tracking](https://etherpad.opendev.org/p/wallaby-relmgt-tracking)
