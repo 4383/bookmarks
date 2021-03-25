@@ -339,6 +339,12 @@ Useful informations for RFC submitters like tooling, process, etc...
 ## Remote
 - [remote work](https://zapier.com/learn/remote-work/)
 
+## [Rhetoric](sections/rhetoric.md)
+
+How to be understanded, how argumenting efficiently, methods, tools
+
+[Get Rhetoric links](sections/rhetoric.md)
+
 ## Security
 - [Blog](http://tiwim.github.io/)
 - [Dirb](https://www.kali-linux.fr/forum/index.php?topic=1916.0)
