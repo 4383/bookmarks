@@ -14,3 +14,16 @@
 - [Basecamp - Shape up](https://basecamp.com/shapeup/webbook)
 - [Holacracy](https://github.com/holacracyone/)
 - [networks of rebellion](https://www.cornellpress.cornell.edu/book/9780801479298/networks-of-rebellion/#bookTabs=1)
+## Project Management
+
+- [Software Maintenance](https://en.wikipedia.org/wiki/Software_maintenance)
+- [Lehman's Laws of Software Evolution](https://en.wikipedia.org/wiki/Software_evolution#Lehman's_Laws_of_Software_Evolution)
+- [Lehman's Laws of Software Evolution 2](https://en.wikipedia.org/wiki/Lehman%27s_laws_of_software_evolution)
+- [Feature Creep](https://en.wikipedia.org/wiki/Feature_creep)
+- [Cost Overrun](https://en.wikipedia.org/wiki/Cost_overrun)
+- [Cost Escalation](https://en.wikipedia.org/wiki/Cost_escalation)
+- [Scope Creep](https://en.wikipedia.org/wiki/Scope_creep)
+- [Software Bloat](https://en.wikipedia.org/wiki/Software_bloat)
+- [Software brittleness](https://en.wikipedia.org/wiki/Software_brittleness)
+- [Fail fast](https://en.wikipedia.org/wiki/Fail-fast)
+- [Algorithmic information theory](https://en.wikipedia.org/wiki/Algorithmic_information_theory)

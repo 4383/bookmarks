@@ -1,6 +1,7 @@
 # Governance
 
 ## Decisions
+
 - [Open Decision Framework](https://opensource.com/open-organization/resources/open-decision-framework)
 - [Open Decision Framework (github sources)](https://github.com/red-hat-people-team/open-decision-framework)
 - [Open Decision Framework (PDF presentation)](https://github.com/red-hat-people-team/open-decision-framework/blob/master/ODF-community.pdf)
@@ -9,13 +10,16 @@
 - [Cultures differennce - Geert Hofstede](https://fr.m.wikipedia.org/wiki/Geert_Hofstede)
 
 ## Governance
+
 - [Holacracy constitution version 4.1 (French version)](https://github.com/holacracyone/Holacracy-Constitution-4.1-FRENCH/blob/master/Constitution-Holacracy.md)
 - [Holacracy (wikipedia)](https://fr.wikipedia.org/wiki/Holacratie)
 - [Ochlocratie](https://fr.wikipedia.org/wiki/Ochlocratie)
 - [Anacyclose](https://fr.wikipedia.org/wiki/Anacyclose)
 - [The Political Spectrum as interpreted by the Selectorate Theory](https://www.reddit.com/r/PoliticalCompass/comments/ie4ocf/the_political_spectrum_as_interpreted_by_the/)
+- [Girondin constitutional project](https://en.wikipedia.org/wiki/Girondin_constitutional_project)
 
 ## Open Source
+
 - [Introduction to creating and nurturing communities of contributors. ](https://www.theopensourceway.org/wiki/Introduction)
 - [The Open Organization](https://opensource.com/open-organization)
 - [The State of Enterprise Open Source](https://www.redhat.com/en/enterprise-open-source-report/2021)
