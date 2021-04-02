@@ -14,6 +14,7 @@
 - [Basecamp - Shape up](https://basecamp.com/shapeup/webbook)
 - [Holacracy](https://github.com/holacracyone/)
 - [networks of rebellion](https://www.cornellpress.cornell.edu/book/9780801479298/networks-of-rebellion/#bookTabs=1)
+- [successwise - Allan Dib](https://successwise.com/)
 ## Project Management
 
 - [Software Maintenance](https://en.wikipedia.org/wiki/Software_maintenance)
