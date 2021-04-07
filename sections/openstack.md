@@ -44,6 +44,7 @@ and to get a quick access to things that I often need.
 - [old victoria meeting example](http://eavesdrop.openstack.org/irclogs/%23openstack-release/%23openstack-release.2020-10-08.log.html#t2020-10-08T16:00:04)
 - [wallaby schedule](https://releases.openstack.org/wallaby/schedule.html)
 - [release meetings logs](http://eavesdrop.openstack.org/irclogs/%23openstack-release/)
+- [Example of update irc-meeting](https://review.opendev.org/c/opendev/irc-meetings/+/766490)
 
 ### RDO
 - [RDO victoria](https://github.com/redhat-openstack/rdoinfo/blob/master/tags/victoria.yml#L1142)
