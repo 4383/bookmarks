@@ -15,6 +15,7 @@
 - [Holacracy](https://github.com/holacracyone/)
 - [networks of rebellion](https://www.cornellpress.cornell.edu/book/9780801479298/networks-of-rebellion/#bookTabs=1)
 - [successwise - Allan Dib](https://successwise.com/)
+
 ## Project Management
 
 - [Software Maintenance](https://en.wikipedia.org/wiki/Software_maintenance)
@@ -28,3 +29,7 @@
 - [Software brittleness](https://en.wikipedia.org/wiki/Software_brittleness)
 - [Fail fast](https://en.wikipedia.org/wiki/Fail-fast)
 - [Algorithmic information theory](https://en.wikipedia.org/wiki/Algorithmic_information_theory)
+
+## Business monitoring
+
+- [Business Data Dashboards](https://www.geckoboard.com/)
