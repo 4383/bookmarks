@@ -10,6 +10,7 @@
 - [Modèle de Kübler-Ross](https://fr.wikipedia.org/wiki/Mod%C3%A8le_de_K%C3%BCbler-Ross)
 - [Bystander effect](https://en.wikipedia.org/wiki/Bystander_effect)
 - [Just-world hypothesis](https://en.wikipedia.org/wiki/Just-world_hypothesis)
+- [Illusory correlation bias](https://en.wikipedia.org/wiki/Illusory_correlation)
 
 ## UX design by using psychology
 
