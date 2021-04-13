@@ -16,6 +16,7 @@
 
 - [Enjeux numérique](http://annales.org/enjeux-numeriques/tab-en.html)
 - [Annales des mines & polytechnique - toutes sections](http://annales.org/)
+- [Beautiful Economics](https://www.beaeconomics.com/)
 
 ## Models
 
