@@ -8,6 +8,7 @@
 ## Business modèles
 - [Startup studio](https://fr.wikipedia.org/wiki/Startup_studio)
 - [3 modèles économiques Internet](http://www.lucie-pinzano.com/2012/5-modeles-economiques-internet-innovants/)
+- [Futura Science](https://fr.wikipedia.org/wiki/Futura_(portail_web))
 
 ## Governance & management
 - [The matrix organization](https://www.pmi.org/learning/library/matrix-organization-structure-reason-evolution-1837)
