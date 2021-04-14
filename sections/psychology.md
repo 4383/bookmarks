@@ -11,6 +11,7 @@
 - [Bystander effect](https://en.wikipedia.org/wiki/Bystander_effect)
 - [Just-world hypothesis](https://en.wikipedia.org/wiki/Just-world_hypothesis)
 - [Illusory correlation bias](https://en.wikipedia.org/wiki/Illusory_correlation)
+- [Mere-exposure effect](https://en.wikipedia.org/wiki/Mere-exposure_effect)
 
 ## UX design by using psychology
 
