@@ -307,6 +307,7 @@ The python programming language links (articles, changelogs, etc...)
 - [A brief, incomplete, and Mostly Wrong History of Programming Languages](http://james-iry.blogspot.com/2009/05/brief-incomplete-and-mostly-wrong.html)
 - [How to Cheat at the Lottery - Ross Anderson](https://www.cl.cam.ac.uk/~rja14/lottery/lottery.html)
 - [Accidental Leadership in Open Source](https://dev.to/samsongoddy/accidental-leadership-in-open-source-2b9a)
+- [Toward Copyleft Equality for All](https://sfconservancy.org/blog/2020/jan/06/copyleft-equality/)
 
 ## [Provisioning](sections/provisioning.md)
 Provisioning and system management tools
