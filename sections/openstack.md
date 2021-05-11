@@ -136,6 +136,7 @@ and to get a quick access to things that I often need.
 - [Openstack IRC bot (Gerritbot)](https://docs.openstack.org/infra/system-config/irc.html)
 - [Tested runtimes - Victoria](https://governance.openstack.org/tc/reference/runtimes/victoria.html)
 - [SUSE Cloud CI](https://wiki.openstack.org/wiki/ThirdPartySystems/SUSE_Cloud_CI)
+- [Infra logstation filters](https://opendev.org/openstack/logstash-filters/src/branch/master/filters/openstack-filters.conf)
 
 ## Governance
 - [OpenStack Election](https://governance.openstack.org/election/)
