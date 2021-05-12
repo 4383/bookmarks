@@ -158,3 +158,7 @@ and to get a quick access to things that I often need.
 
 ## Finances
 - [OpenStack Market Size & Share Analysis & Gross Revenues Development Forecast, 2020 to 2026](https://rejerusalem.com/73943/openstack-market-size-share-analysis-gross-revenues-development-forecast-2020-to-2026/)
+
+## Bugs
+
+- [OpenStack Nova deadlock in powervc_oslo when enabling OpenStack debug mode (threading.enumerate() deadlock)](https://bugzilla.redhat.com/show_bug.cgi?id=1959459)
