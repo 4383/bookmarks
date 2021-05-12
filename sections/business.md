@@ -17,6 +17,7 @@
 - [networks of rebellion](https://www.cornellpress.cornell.edu/book/9780801479298/networks-of-rebellion/#bookTabs=1)
 - [successwise - Allan Dib](https://successwise.com/)
 - [Standard Operating Procedure (SOP)](https://helpjuice.com/blog/standard-operating-procedure)
+- [Knowledge Management System](https://en.wikipedia.org/wiki/Knowledge_management)
 
 ## Project Management
 
