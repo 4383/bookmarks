@@ -16,6 +16,7 @@
 - [Holacracy](https://github.com/holacracyone/)
 - [networks of rebellion](https://www.cornellpress.cornell.edu/book/9780801479298/networks-of-rebellion/#bookTabs=1)
 - [successwise - Allan Dib](https://successwise.com/)
+- [Standard Operating Procedure (SOP)](https://helpjuice.com/blog/standard-operating-procedure)
 
 ## Project Management
 
