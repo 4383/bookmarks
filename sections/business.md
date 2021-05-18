@@ -19,6 +19,10 @@
 - [Standard Operating Procedure (SOP)](https://helpjuice.com/blog/standard-operating-procedure)
 - [Knowledge Management System](https://en.wikipedia.org/wiki/Knowledge_management)
 
+## Financial
+
+- [How to Correctly Calculate your SaaS Gross Margin](https://www.thesaascfo.com/how-to-calculate-saas-gross-margin/)
+
 ## Project Management
 
 - [Software Maintenance](https://en.wikipedia.org/wiki/Software_maintenance)
