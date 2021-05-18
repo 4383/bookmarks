@@ -346,6 +346,10 @@ How to be understanded, how argumenting efficiently, methods, tools
 
 [Get Rhetoric links](sections/rhetoric.md)
 
+## Rust
+
+- [Dove - Implementation of the AMQP 1.0 OASIS standard](https://docs.rs/dove/0.1.2/dove/)
+
 ## Security
 - [Blog](http://tiwim.github.io/)
 - [Dirb](https://www.kali-linux.fr/forum/index.php?topic=1916.0)
