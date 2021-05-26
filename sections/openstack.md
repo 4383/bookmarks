@@ -155,6 +155,7 @@ and to get a quick access to things that I often need.
 - [OSP13 - High Availability Deployment and Usage](https://access.redhat.com/documentation/en-us/red_hat_openstack_platform/13/html-single/high_availability_deployment_and_usage/index)
 - [OSP15 - High Availability Deployment and Usage](https://access.redhat.com/documentation/en-us/red_hat_openstack_platform/15/html-single/high_availability_deployment_and_usage/index)
 - [OSP16 - High Availability Deployment and Usage](https://access.redhat.com/documentation/en-us/red_hat_openstack_platform/16.0/html-single/high_availability_deployment_and_usage/index)
+- [OSP16.1 - Doc](https://access.redhat.com/documentation/en-us/red_hat_openstack_platform/16.1/html/director_installation_and_usage/chap-introduction#sect-Overcloud)
 
 ## Finances
 - [OpenStack Market Size & Share Analysis & Gross Revenues Development Forecast, 2020 to 2026](https://rejerusalem.com/73943/openstack-market-size-share-analysis-gross-revenues-development-forecast-2020-to-2026/)
