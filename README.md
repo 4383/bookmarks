@@ -163,6 +163,7 @@ Resources about erlang (the best way to learn erlang)
 
 ## Fun
 - [This is a Ruby program that generates Rust program that generates Scala program that generates...](https://github.com/mame/quine-relay)
+- [Dream job](https://i.imgur.com/ijOz34e.jpeg)
 
 ## [Governance](sections/governance.md)
 Governance, decision, and choices management topics and items.
