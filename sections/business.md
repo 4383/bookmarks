@@ -20,6 +20,10 @@
 - [Standard Operating Procedure (SOP)](https://helpjuice.com/blog/standard-operating-procedure)
 - [Knowledge Management System](https://en.wikipedia.org/wiki/Knowledge_management)
 
+## Entrepreneurs
+
+- [Jason Fried](https://world.hey.com/jason)
+
 ## Financial
 
 - [How to Correctly Calculate your SaaS Gross Margin](https://www.thesaascfo.com/how-to-calculate-saas-gross-margin/)
