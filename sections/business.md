@@ -13,6 +13,7 @@
 ## Governance & management
 - [The matrix organization](https://www.pmi.org/learning/library/matrix-organization-structure-reason-evolution-1837)
 - [Basecamp - Shape up](https://basecamp.com/shapeup/webbook)
+- [Structure work at basecamp](https://m.signalvnoise.com/how-we-structure-our-work-and-teams-at-basecamp/)
 - [Holacracy](https://github.com/holacracyone/)
 - [networks of rebellion](https://www.cornellpress.cornell.edu/book/9780801479298/networks-of-rebellion/#bookTabs=1)
 - [successwise - Allan Dib](https://successwise.com/)
