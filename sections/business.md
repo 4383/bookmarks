@@ -47,3 +47,7 @@
 
 - [Business Data Dashboards](https://www.geckoboard.com/)
 - [PESTEL model - analysis](https://www.creerentreprise.fr/analyse-pestel-definition-exemple-tableau-word/)
+
+## Blogging
+
+- [Setup a blog with github pages](https://dfederm.com/creating-a-blog-using-github-pages/)
