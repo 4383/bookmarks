@@ -23,6 +23,7 @@
 ## Entrepreneurs
 
 - [Jason Fried](https://world.hey.com/jason)
+- [ryan singer at basecamp](https://feltpresence.com/)
 
 ## Financial
 
