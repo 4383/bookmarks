@@ -314,6 +314,7 @@ The python programming language links (articles, changelogs, etc...)
 - [How to Cheat at the Lottery - Ross Anderson](https://www.cl.cam.ac.uk/~rja14/lottery/lottery.html)
 - [Accidental Leadership in Open Source](https://dev.to/samsongoddy/accidental-leadership-in-open-source-2b9a)
 - [Toward Copyleft Equality for All](https://sfconservancy.org/blog/2020/jan/06/copyleft-equality/)
+- [The copro-duction of open source software by volunteers and big tech firms - study](https://apo.org.au/sites/default/files/resource-files/2021-06/apo-nid312607_0.pdf)
 
 ## [Provisioning](sections/provisioning.md)
 Provisioning and system management tools
