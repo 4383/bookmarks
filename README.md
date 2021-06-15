@@ -79,6 +79,11 @@ Debug tools, articles and resources
 ## Deep Learning
 - [Camouflage from face detection.](https://cvdazzle.com/)
 
+## [Design](sections/design)
+Design resources (tools, laws, cool design, etc)
+
+[Get design links](sections/design)
+
 ## Devops
 - [SecDevOps](http://www.cloud-experience.fr/securite-soluble-devops/)
 - [Ansible run analysis (ARA)](https://github.com/openstack/ara)
@@ -432,12 +437,6 @@ Sport links
 ## Tools
 - [Vim plugins](https://statico.github.io/vim3.html)
 - [Chat anonyme et crypté](https://hack.chat/)
-
-## UI/UX
-- [10 UX designers principles](https://www.arquen.fr/blog/10-principes-psychologie-utile-ux-designer/)
-- [Laws used by designers](https://web.developpez.com/actu/307725/Experience-utilisateur-quelles-lois-observez-vous-pour-la-conception-de-vos-sites-et-applications/)
-- [Laws of UX](https://lawsofux.com/)
-- [Tironian notes](https://en.wikipedia.org/wiki/Tironian_notes)
 
 ## Uml
 - [Uml sequence](https://www.visual-paradigm.com/VPGallery/diagrams/Sequence.html)
