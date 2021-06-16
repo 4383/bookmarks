@@ -29,6 +29,11 @@
 
 - [How to Correctly Calculate your SaaS Gross Margin](https://www.thesaascfo.com/how-to-calculate-saas-gross-margin/)
 
+## Quality Assurance
+
+- [What is Quality Assurance(QA)? Process, Methods, Examples](https://www.guru99.com/all-about-quality-assurance.html)
+- [Quality Assurance at basecamp](https://signalvnoise.com/posts/3694-quality-assurance)
+
 ## Project Management
 
 - [Software Maintenance](https://en.wikipedia.org/wiki/Software_maintenance)
