@@ -34,6 +34,10 @@
 - [What is Quality Assurance(QA)? Process, Methods, Examples](https://www.guru99.com/all-about-quality-assurance.html)
 - [Quality Assurance at basecamp](https://signalvnoise.com/posts/3694-quality-assurance)
 
+## CEO
+
+- [What is a CEO (Chief Executive Officer)?](https://corporatefinanceinstitute.com/resources/careers/jobs/what-is-a-ceo-chief-executive-officer/)
+
 ## Project Management
 
 - [Software Maintenance](https://en.wikipedia.org/wiki/Software_maintenance)
