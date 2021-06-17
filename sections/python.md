@@ -74,3 +74,4 @@
 - [Debugging With Gdb](https://wiki.python.org/moin/DebuggingWithGdb)
 - [Debugging a Segfault in oslo.privsep](http://blog.nemebean.com/content/debugging-segfault-osloprivsep)
 - [Friendly tracebacks](https://aroberge.github.io/friendly-traceback-docs/docs/html/tracebacks_en_3.8.html#standard-library-module)
+- [PyParallel: How we removed the GIL and exploited all cores](https://speakerdeck.com/trent/pyparallel-how-we-removed-the-gil-and-exploited-all-cores?slide=30)
