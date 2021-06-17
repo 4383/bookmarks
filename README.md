@@ -106,6 +106,7 @@ Design resources (tools, laws, cool design, etc)
 
 - [Google developer documentation style guide](https://developers.google.com/style/pronouns)
 - [VIM - Use gender-neutral pronouns in the docs](https://github.com/vim/vim/pull/6535)
+- [Ascii art generator](http://www.patorjk.com/software/taag/#p=testall&f=Graffiti&t=Success)
 
 ## Docker
 - [Docker django](http://michal.karzynski.pl/blog/2015/04/19/packaging-django-applications-as-docker-container-images/)
