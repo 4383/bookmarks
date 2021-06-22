@@ -75,3 +75,4 @@
 - [Debugging a Segfault in oslo.privsep](http://blog.nemebean.com/content/debugging-segfault-osloprivsep)
 - [Friendly tracebacks](https://aroberge.github.io/friendly-traceback-docs/docs/html/tracebacks_en_3.8.html#standard-library-module)
 - [PyParallel: How we removed the GIL and exploited all cores](https://speakerdeck.com/trent/pyparallel-how-we-removed-the-gil-and-exploited-all-cores?slide=30)
+- [How to Patch and Build Python 3.7.9 for FIPS enabled Openssl](https://www.gyanblog.com/security/how-build-patch-python-3.7.9-fips-enable/)
