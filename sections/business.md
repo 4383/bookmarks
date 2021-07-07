@@ -28,6 +28,7 @@
 ## Financial
 
 - [How to Correctly Calculate your SaaS Gross Margin](https://www.thesaascfo.com/how-to-calculate-saas-gross-margin/)
+- [Online payments](https://stripe.com/fr)
 
 ## Quality Assurance
 
