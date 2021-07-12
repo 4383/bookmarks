@@ -12,6 +12,7 @@
 - [Just-world hypothesis](https://en.wikipedia.org/wiki/Just-world_hypothesis)
 - [Illusory correlation bias](https://en.wikipedia.org/wiki/Illusory_correlation)
 - [Mere-exposure effect](https://en.wikipedia.org/wiki/Mere-exposure_effect)
+- [Tragedy of the commons](https://en.wikipedia.org/wiki/Tragedy_of_the_commons)
 
 ## UX design by using psychology
 
