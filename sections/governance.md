@@ -17,6 +17,7 @@
 - [Anacyclose](https://fr.wikipedia.org/wiki/Anacyclose)
 - [The Political Spectrum as interpreted by the Selectorate Theory](https://www.reddit.com/r/PoliticalCompass/comments/ie4ocf/the_political_spectrum_as_interpreted_by_the/)
 - [Girondin constitutional project](https://en.wikipedia.org/wiki/Girondin_constitutional_project)
+- [Adhocracy](https://en.wikipedia.org/wiki/Adhocracy)
 
 ## Open Source
 
