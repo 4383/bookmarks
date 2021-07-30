@@ -337,6 +337,10 @@ Provisioning and system management tools
 
 - [Updating your container image source](https://access.redhat.com/documentation/en-us/red_hat_openstack_platform/13/html/keeping_red_hat_openstack_platform_updated/updating_your_container_image_source#container-image-preparation-command-usage)
 
+## Releases
+
+- [Software bill of materials (SBOM)](https://en.wikipedia.org/wiki/Software_bill_of_materials)
+
 ## Regex
 - [Regex](http://korben.info/regex101-loutil-ultime-trouver-creer-tester-comprendre-regex.html?utm_source=feedburner&amp;utm_medium=feed&amp;utm_campaign=Feed%3A+KorbensBlog-UpgradeYourMind+(Korben&#39;s+Blog+-+Upgrade+Your+Mind))
 
