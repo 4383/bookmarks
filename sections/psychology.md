@@ -13,6 +13,8 @@
 - [Illusory correlation bias](https://en.wikipedia.org/wiki/Illusory_correlation)
 - [Mere-exposure effect](https://en.wikipedia.org/wiki/Mere-exposure_effect)
 - [Tragedy of the commons](https://en.wikipedia.org/wiki/Tragedy_of_the_commons)
+- [Hanlon's razor](https://fr.wikipedia.org/wiki/Rasoir_de_Hanlon)
+- [Ockham's razor](https://fr.wikipedia.org/wiki/Rasoir_d%27Ockham)
 
 ## UX design by using psychology
 
