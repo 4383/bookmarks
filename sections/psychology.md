@@ -36,3 +36,7 @@
 ## Persons
 
 - [Trofim Lyssenko](https://fr.wikipedia.org/wiki/Trofim_Lyssenko)
+
+## Use case
+
+- [L'affaire Loomis](https://hal.archives-ouvertes.fr/hal-02566382/document)
