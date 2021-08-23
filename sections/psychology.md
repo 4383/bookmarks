@@ -32,6 +32,7 @@
 - [Jakob's laws - 2](https://lawsofux.com/jakobs-law)
 - [Fitts's laws](https://fr.wikipedia.org/wiki/Loi_de_Fitts)
 - [Skeuomorph - Derivative object that retains ornamental design](https://en.wikipedia.org/wiki/Skeuomorph)
+- [The psychology of waiting lines](https://davidmaister.com/articles/the-psychology-of-waiting-lines/)
 
 ## Persons
 
