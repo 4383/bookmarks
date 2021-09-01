@@ -70,6 +70,7 @@ Business, models, companies, studies
 
 ## Database
 - [Use the index Luke - SQL Indexing and Tuning e-Book](https://use-the-index-luke.com/)
+- [Solving the knapsack problem in PostgreSQL](https://dev.to/ftisiot/solving-the-knapsack-problem-in-postgresql-40cc)
 
 ## [Debug](sections/debug)
 Debug tools, articles and resources
