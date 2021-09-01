@@ -33,6 +33,7 @@
 - [Direct democracy](https://en.wikipedia.org/wiki/Direct_democracy)
 - [Democracylab](https://blog.democracylab.org/)
 - [Demlab](https://demlab.org/)
+- [Schaerbeek 4096 votes](https://www.poureva.be/spip.php?article32)
 
 ## Voting systems and tools
 
