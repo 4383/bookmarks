@@ -36,7 +36,7 @@ and to get a quick access to things that I often need.
 - [check-release-approval](https://zuul.openstack.org/builds?job_name=check-release-approval)
 - [indicate relmgt style for each deliverable - abandon project](https://review.opendev.org/c/openstack/governance/+/613268)
 - [Automatize branch deletion](http://lists.openstack.org/pipermail/openstack-discuss/2021-January/020034.html)
-- cycle-with-rc and major releases[](https://docs.openstack.org/project-team-guide/release-management.html#services-horizon-plugins-and-other-deliverables)
+- [cycle-with-rc and major releases](https://docs.openstack.org/project-team-guide/release-management.html#services-horizon-plugins-and-other-deliverables)
 - [OpenStack has a 6-month long release cadence](https://github.com/openstack/contributor-guide/blob/15f217ef3ebb0fb699a5b5fb0165de7abcbdc92d/doc/source/common/releases.rst)
 - [Ironic release model](https://specs.openstack.org/openstack/ironic-specs/specs/15.1/new-release-model.html)
 
