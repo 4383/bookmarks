@@ -71,6 +71,8 @@ Business, models, companies, studies
 ## Database
 - [Use the index Luke - SQL Indexing and Tuning e-Book](https://use-the-index-luke.com/)
 - [Solving the knapsack problem in PostgreSQL](https://dev.to/ftisiot/solving-the-knapsack-problem-in-postgresql-40cc)
+- [Reading data from a relational database into a LaTeX table](https://tex.stackexchange.com/questions/48193/reading-data-from-a-relational-database-into-a-latex-table)
+- [Producing LaTeX output from postgres](https://www.cybertec-postgresql.com/en/producing-latex-output/)
 
 ## [Debug](sections/debug)
 Debug tools, articles and resources
