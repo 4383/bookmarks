@@ -5,6 +5,7 @@
 - [rocket internet - étude](https://www.ladissertation.com/Monde-du-Travail/Marketing-et-Publicite/Rocket-internet-231051.html)
 - [Zapier financial](https://www.groovehq.com/blog/zapier-interview-with-wade-foster)
 - [Disney](https://www.designingdisney.com/parks/disneyland-paris/other-dlp/euro-disney-resort-european-walt-disney-world/)
+- [Walt Disney business plan](https://master-iesc-angers.com/disney-la-nouvelle-strategie-de-disney/)
 
 ## Business modèles
 - [Startup studio](https://fr.wikipedia.org/wiki/Startup_studio)
