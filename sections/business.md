@@ -21,6 +21,7 @@
 - [successwise - Allan Dib](https://successwise.com/)
 - [Standard Operating Procedure (SOP)](https://helpjuice.com/blog/standard-operating-procedure)
 - [Knowledge Management System](https://en.wikipedia.org/wiki/Knowledge_management)
+- [Flight 401](https://en.wikipedia.org/wiki/Eastern_Air_Lines_Flight_401)
 
 ## Entrepreneurs
 
