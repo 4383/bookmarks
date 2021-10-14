@@ -91,6 +91,7 @@ Design resources (tools, laws, cool design, etc)
 ## Devops
 - [SecDevOps](http://www.cloud-experience.fr/securite-soluble-devops/)
 - [Ansible run analysis (ARA)](https://github.com/openstack/ara)
+- [Reproducible Builds](https://reproducible-builds.org/)
 
 ## Divertissements
 - [Tee-shirts](https://www.riptapparel.com/collections/mens-t-shirts)
