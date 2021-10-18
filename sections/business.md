@@ -23,6 +23,10 @@
 - [Knowledge Management System](https://en.wikipedia.org/wiki/Knowledge_management)
 - [Flight 401](https://en.wikipedia.org/wiki/Eastern_Air_Lines_Flight_401)
 
+## Status
+
+- [SA vs SAS](https://www.legalplace.fr/guides/difference-sa-sas/)
+
 ## Entrepreneurs
 
 - [Jason Fried](https://world.hey.com/jason)
@@ -32,6 +36,7 @@
 
 - [How to Correctly Calculate your SaaS Gross Margin](https://www.thesaascfo.com/how-to-calculate-saas-gross-margin/)
 - [Online payments](https://stripe.com/fr)
+- [Without turnover, how much is my company costing me?](https://www.lamaisondelentrepreneur.com/questions-reponses/sans-chiffre-daffaires-combien-me-coute-ma-societe/)
 
 ## Quality Assurance
 
