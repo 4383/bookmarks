@@ -38,6 +38,8 @@
 - [Online payments](https://stripe.com/fr)
 - [Without turnover, how much is my company costing me?](https://www.lamaisondelentrepreneur.com/questions-reponses/sans-chiffre-daffaires-combien-me-coute-ma-societe/)
 - [SCI status](https://www.compte-pro.com/modele-de-statut-de-sci-gratuit-aide-a-la-redaction#article-7-apports)
+- [SAS status](https://www.economie.gouv.fr/entreprises/societe-actions-simplifiee-SAS)
+- [SAS CEO taxes](https://www.economie.gouv.fr/entreprises/fiscalite-chef-dirigeant-entreprises)
 
 ## Quality Assurance
 
