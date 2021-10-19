@@ -37,6 +37,7 @@
 - [How to Correctly Calculate your SaaS Gross Margin](https://www.thesaascfo.com/how-to-calculate-saas-gross-margin/)
 - [Online payments](https://stripe.com/fr)
 - [Without turnover, how much is my company costing me?](https://www.lamaisondelentrepreneur.com/questions-reponses/sans-chiffre-daffaires-combien-me-coute-ma-societe/)
+- [SCI status](https://www.compte-pro.com/modele-de-statut-de-sci-gratuit-aide-a-la-redaction#article-7-apports)
 
 ## Quality Assurance
 
