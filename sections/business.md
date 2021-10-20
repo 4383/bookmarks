@@ -26,6 +26,7 @@
 ## Status
 
 - [SA vs SAS](https://www.legalplace.fr/guides/difference-sa-sas/)
+- [The minor partner in commercial companies](https://www.legalife.fr/guides-juridiques/associe-mineur-societes-commerciales/)
 
 ## Entrepreneurs
 
