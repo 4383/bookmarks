@@ -32,6 +32,7 @@
 
 - [Jason Fried](https://world.hey.com/jason)
 - [ryan singer at basecamp](https://feltpresence.com/)
+- [Personal MBA - best business books](https://personalmba.com/best-business-books/)
 
 ## Financial
 
