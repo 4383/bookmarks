@@ -7,3 +7,4 @@
 ## story telling
 
 - [The snow flake method](https://www.mecanismes-dhistoires.fr/la-methode-flocon/)
+- [The snow flake method](http://espacescomprises.com/la-methode-dite-du-flocon-expliquee-et-illustree-prologue/)
