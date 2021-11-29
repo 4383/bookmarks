@@ -418,6 +418,7 @@ How to be understanded, how argumenting efficiently, methods, tools
 - [VPN over SSH - sshuttle](https://blog.ktz.me/sshuttle-a-stupidly-simple-vpn-over-ssh/)
 - [How one man silently infiltrated dozens of high-tech networks](https://nakedsecurity.sophos.com/2021/02/16/how-one-man-silently-infiltrated-dozens-of-high-tech-networks/)
 - [Poison packages – “Supply Chain Risks” user hits Python community with 4000 fake modules](https://nakedsecurity.sophos.com/2021/03/07/poison-packages-supply-chain-risks-user-hits-python-community-with-4000-fake-modules/)
+- [Research website keyword history](https://korben.info/faire-une-recherche-dans-lhistorique-dun-site-web.html)
 
 ## Shell
 - [String manipulation](https://www.tldp.org/LDP/abs/html/string-manipulation.html)
