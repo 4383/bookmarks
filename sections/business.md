@@ -76,3 +76,7 @@
 ## Blogging
 
 - [Setup a blog with github pages](https://dfederm.com/creating-a-blog-using-github-pages/)
+
+## Customer service
+
+- [Jonathan lefèvre's tools and used software](https://jonathanlefevre.com/outils/logiciels/)
