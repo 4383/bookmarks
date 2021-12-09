@@ -37,6 +37,8 @@
 
 ## Financial
 
+- [Berkshire Hathaway' Owners manual](https://www.berkshirehathaway.com/owners.html)
+- [Michael Mauboussin - Measuring the moat](http://csinvesting.org/wp-content/uploads/2013/07/Measuring_the_Moat_July2013.pdf)
 - [How to Correctly Calculate your SaaS Gross Margin](https://www.thesaascfo.com/how-to-calculate-saas-gross-margin/)
 - [Online payments](https://stripe.com/fr)
 - [Without turnover, how much is my company costing me?](https://www.lamaisondelentrepreneur.com/questions-reponses/sans-chiffre-daffaires-combien-me-coute-ma-societe/)
