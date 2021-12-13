@@ -34,6 +34,7 @@
 - [Democracylab](https://blog.democracylab.org/)
 - [Demlab](https://demlab.org/)
 - [Schaerbeek 4096 votes](https://www.poureva.be/spip.php?article32)
+- [the weakness of the blockchain in the voting systems](https://www.zdnet.fr/actualites/vote-electronique-le-recours-a-la-blockchain-n-augmente-pas-la-fiabilite-39913021.htm)
 
 ## Voting systems and tools
 
