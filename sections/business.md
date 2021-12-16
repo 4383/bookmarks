@@ -46,6 +46,9 @@
 - [SAS status](https://www.economie.gouv.fr/entreprises/societe-actions-simplifiee-SAS)
 - [SAS CEO taxes](https://www.economie.gouv.fr/entreprises/fiscalite-chef-dirigeant-entreprises)
 - [invoice online](https://www.coover.fr/outils/modele-facture)
+- [Measuring the moat](http://csinvesting.org/wp-content/uploads/2013/07/Measuring_the_Moat_July2013.pdf)
+- [Berkshire Hathaway's owner manual](https://www.berkshirehathaway.com/owners.html)
+- [Rolling forecast](http://www.cfothoughtleader.com/wp-content/uploads/2014/04/Hope_ch33-1.pdf)
 
 ## Accounting
 
