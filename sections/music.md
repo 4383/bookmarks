@@ -5,3 +5,4 @@
 - [making instant music with AI](https://boomy.com/)
 - [creative commons music youtube](https://www.youtube.com/c/LaMusiqueLibre/about)
 - [creative commons classical music](https://musopen.org/music/relaxing/)
+- [convert time duration for music](http://mon-convertisseur.fr/convertisseur-temps.php)
