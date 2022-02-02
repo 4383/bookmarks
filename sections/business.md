@@ -50,6 +50,12 @@
 - [Berkshire Hathaway's owner manual](https://www.berkshirehathaway.com/owners.html)
 - [Rolling forecast](http://www.cfothoughtleader.com/wp-content/uploads/2014/04/Hope_ch33-1.pdf)
 
+## Investment
+
+- [Value vs price](https://www.combattrelacrise.fr/rapport-valeur-prix/)
+- [Les Daubasses - Discount hunters](https://blog.daubasses.com/)
+- [Analyze values online](https://www.valueline.com/)
+
 ## Accounting
 
 - [Green accounting - International Sustainability Standards Board ](https://www.ifrs.org/groups/international-sustainability-standards-board/)
