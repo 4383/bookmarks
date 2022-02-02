@@ -57,6 +57,7 @@
 - [Analyze values online](https://www.valueline.com/)
 - [General liquidity ratio](https://www.flf.fr/glossaire/ratio-de-liquidite-generale)
 - [Net current assets](https://www.journaldunet.fr/business/dictionnaire-comptable-et-fiscal/1198365-actif-circulant-definition-calcul-traduction/)
+- [(Net) Working Capital (NWC)](https://www.investopedia.com/terms/w/workingcapital.asp)
 
 ## Accounting
 
