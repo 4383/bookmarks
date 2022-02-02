@@ -59,6 +59,7 @@
 - [Net current assets](https://www.journaldunet.fr/business/dictionnaire-comptable-et-fiscal/1198365-actif-circulant-definition-calcul-traduction/)
 - [(Net) Working Capital (NWC)](https://www.investopedia.com/terms/w/workingcapital.asp)
 - [EDGAR -  Company Filings - sec.gov](https://www.sec.gov/edgar/searchedgar/companysearch.html)
+- [Outstanding investor (OID)](http://futile.free.fr/OID.html)
 
 ## Accounting
 
