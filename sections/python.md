@@ -25,6 +25,7 @@
 - [Multi-level argparse in Python (parsing commands like git)](http://chase-seibert.github.io/blog/2014/03/21/python-multilevel-argparse.html)
 - [Clic - command line parser](http://click.pocoo.org/5/)
 - [EAFP vs LBYL](http://stackoverflow.com/questions/1835756/using-try-vs-if-in-python)
+- [EAFP vs LBYL explained by Brett Cannon](https://devblogs.microsoft.com/python/idiomatic-python-eafp-versus-lbyl/)
 - [Docker with python](http://krzysztofzuraw.com/blog/2016/docker-py.html)
 - [pook - mock http requests responses](https://github.com/h2non/pook)
 - [slackbot](https://github.com/lins05/slackbot)
