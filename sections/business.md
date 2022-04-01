@@ -61,6 +61,7 @@
 - [EDGAR -  Company Filings - sec.gov](https://www.sec.gov/edgar/searchedgar/companysearch.html)
 - [Outstanding investor (OID)](http://futile.free.fr/OID.html)
 - [Moning](https://moning.co/fr/actions)
+- [Annual Asset Class Returns](https://novelinvestor.com/asset-class-returns/)
 
 ## Accounting
 
