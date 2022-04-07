@@ -90,6 +90,7 @@
 - [Fail fast](https://en.wikipedia.org/wiki/Fail-fast)
 - [Algorithmic information theory](https://en.wikipedia.org/wiki/Algorithmic_information_theory)
 - [The part time creator manifesto](https://www.swyx.io/part-time-creator-manifesto/)
+- [You Don't Need to Quit Your Job to Make](https://blog.stephsmith.io/you-dont-need-to-quit-your-job-to-make/)
 
 ## Business monitoring
 
