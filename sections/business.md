@@ -89,6 +89,7 @@
 - [Software brittleness](https://en.wikipedia.org/wiki/Software_brittleness)
 - [Fail fast](https://en.wikipedia.org/wiki/Fail-fast)
 - [Algorithmic information theory](https://en.wikipedia.org/wiki/Algorithmic_information_theory)
+- [The part time creator manifesto](https://www.swyx.io/part-time-creator-manifesto/)
 
 ## Business monitoring
 
