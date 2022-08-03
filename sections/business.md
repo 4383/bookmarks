@@ -62,6 +62,7 @@
 - [Outstanding investor (OID)](http://futile.free.fr/OID.html)
 - [Moning](https://moning.co/fr/actions)
 - [Annual Asset Class Returns](https://novelinvestor.com/asset-class-returns/)
+- [EOD historical data - stocks supported](https://eodhistoricaldata.com/financial-apis/stock-etfs-fundamental-data-feeds/#Stocks_Supported_Data)
 
 ## Accounting
 
