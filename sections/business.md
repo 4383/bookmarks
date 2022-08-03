@@ -63,6 +63,8 @@
 - [Moning](https://moning.co/fr/actions)
 - [Annual Asset Class Returns](https://novelinvestor.com/asset-class-returns/)
 - [EOD historical data - stocks supported](https://eodhistoricaldata.com/financial-apis/stock-etfs-fundamental-data-feeds/#Stocks_Supported_Data)
+- [Sector Rotation and the Stock Market Cycle - The Big Picture](https://www.pinterest.fr/pin/72268768989992016/)
+- [Market Sectors Images](https://stock.adobe.com/ee/search?k=market+sectors)
 
 ## Accounting
 
