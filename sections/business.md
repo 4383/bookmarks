@@ -69,6 +69,9 @@
 ## Accounting
 
 - [Green accounting - International Sustainability Standards Board ](https://www.ifrs.org/groups/international-sustainability-standards-board/)
+- [IFRS 16](https://www.daf-mag.fr/Thematique/reglementation-1243/breve/ifrs-16-un-resume-condense-de-la-nouvelle-norme-333237.htm)
+- [International Accounting Standards Board (IASB)](https://fr.wikipedia.org/wiki/International_Accounting_Standards_Board)
+- [IFRS - IAS 24](http://www.focusifrs.com/menu_gauche/normes_et_interpretations/textes_des_normes_et_interpretations/ias_24_information_relative_aux_parties_liees)
 
 ## Quality Assurance
 

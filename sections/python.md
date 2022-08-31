@@ -78,3 +78,4 @@
 - [PyParallel: How we removed the GIL and exploited all cores](https://speakerdeck.com/trent/pyparallel-how-we-removed-the-gil-and-exploited-all-cores?slide=30)
 - [How to Patch and Build Python 3.7.9 for FIPS enabled Openssl](https://www.gyanblog.com/security/how-build-patch-python-3.7.9-fips-enable/)
 - [How to create a Python package in 2022](https://mathspp.com/blog/how-to-create-a-python-package-in-2022)
+- [PYPA - Configuring setuptools using pyproject.toml files](https://setuptools.pypa.io/en/latest/userguide/pyproject_config.html)
