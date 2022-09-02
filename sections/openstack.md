@@ -118,6 +118,8 @@ and to get a quick access to things that I often need.
 - [Oslo wiki](https://wiki.openstack.org/wiki/Oslo)
 - [Oslo core members](https://review.opendev.org/#/admin/groups/106,members)
 - [Moises's oslo.config speak at fosdem](https://fosdem.org/2020/schedule/event/security_protecting_plaintext_secrets_in_configuration_files/)
+- [Oslo/blueprints/asyncio](https://wiki.openstack.org/wiki/Oslo/blueprints/asyncio)
+- [asyncio-executor](https://blueprints.launchpad.net/oslo.messaging/+spec/asyncio-executor)
 
 ## Testing
 - [understand the openstack CI system](http://www.joinfu.com/2014/01/understanding-the-openstack-ci-system/)
